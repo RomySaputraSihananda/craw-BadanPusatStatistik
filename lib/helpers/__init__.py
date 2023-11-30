@@ -1,1 +1,1 @@
-from .Parser import Parser;
+from . import Parser, Hasher;
