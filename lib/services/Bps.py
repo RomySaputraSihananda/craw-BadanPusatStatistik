@@ -1,7 +1,6 @@
 from requests import Session;
 from ..helpers.Parser import Parser;
 from pyquery import PyQuery;
-        
 
 class Bps: 
     def __init__(self) -> None:
@@ -9,7 +8,7 @@ class Bps:
         self.__parser: Parser = Parser();
         self.__data: list[object] = None;
 
-    def __filter_list():
+    def __filter_link(self, url):
         pass;
 
     def execute(self, url: str) -> str:
@@ -17,15 +16,14 @@ class Bps:
 
         if(res.status_code != 200): return;
     
-        tr = self.__parser.execute(res.text, '.vervar').map(lambda e, i: print(i));
+        tr = self.__parser.execute(res.text, 'p');
 
-        return 'ok';
+        return self.__data;
 
 
 if(__name__ == '__main__'):
     kompas: Bps = Bps();
-    with open('test.html', 'w') as file:
-        file.write(kompas.execute('https://www.bps.go.id/subject/7/energi.html#subjekViewTab3'));
+    print(kompas.execute('https://www.bps.go.id/subject/7/energi.html#subjekViewTab3'));
 
 
 
