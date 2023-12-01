@@ -1,6 +1,7 @@
 # https://www.bps.go.id/subject/8/ekspor-impor.html#subjekViewTab3
 # https://www.bps.go.id/subject/7/energi.html#subjekViewTab3
-
+# https://www.test.id/test/7/1157/1/index.html
+# https://www.test.id/test/7/1157/2/index.html
 
 data = {
     'judul_tabel': 'Pelanggan Perusahaan Listrik Negara, 1995-2021',
