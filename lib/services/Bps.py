@@ -97,8 +97,6 @@ class Bps:
                 'url_tabel': url_tables
             });
 
-            break;
-
 
     def execute(self, url: str) -> str:
         res: Response = self.__request.get(url);
