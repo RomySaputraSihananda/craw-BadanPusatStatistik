@@ -5,9 +5,12 @@
 
 data = {
     'judul_tabel': 'Pelanggan Perusahaan Listrik Negara, 1995-2021',
-    'link_tabel': 'https://www.bps.go.id/indicator/7/1157/1/rasio-penggunaan-gas-rumah-tangga.html',
     'update': '06 Feb 2023',
     'keterangan': 'Statistic Dasar',
+    'link_tabel': {
+        '2017-2019' 'https://www.bps.go.id/indicator/7/1157/1/rasio-penggunaan-gas-rumah-tangga.html',
+        '2017-2020' 'https://www.bps.go.id/indicator/7/1157/1/rasio-penggunaan-gas-rumah-tangga.html'
+    },
     'data_tabel':[
         {
             'Provinsi': 'Aceh',

@@ -23,8 +23,6 @@ class Bps:
             });
 
             urls.append(self.__base_URL + self.__parser.execute(tr, 'td:nth-child(2) a').attr('href'));
-        
-        print(urls);
 
         return urls;
 
@@ -32,13 +30,29 @@ class Bps:
         for url in urls:
             i = 1;
 
-            while(True):
-                # url: list[str] = url.split('/');
-                print(url);
-                # url[6] = str(i);
-                # req: Response = self.__request.get('/'.join(url));
-                # print(req.status_code);
-                # i += 1
+            res: Response = self.__request.get(url);
+
+            table: PyQuery = self.__parser.execute(res.text, '#tablex');
+
+            key_col1: str = table('thead tr:nth-child(1) th:first-child').text().replace(' ', '_');
+            print(key_col1);
+
+            # for tr in table('tbody tr'):
+            #     print(self.__parser.execute(tr, 'td:nth-child(1)').text())
+
+
+
+            # while(True):
+            #     newUrl = url.split('/');
+            #     newUrl[6] = str(i);
+
+            #     req: Response = self.__request.get('/'.join(newUrl));
+
+            #     if(req.status_code != 200): break;
+
+            #     print('{} ==> {}'.format(req.status_code, '/'.join(newUrl)));
+
+            #     i += 1
                 # res: Response = self.__request.get(url);
 
 
@@ -59,8 +73,8 @@ if(__name__ == '__main__'):
     bps: Bps = Bps();
     data: str = dumps(bps.execute('https://www.bps.go.id/subject/7/energi.html#subjekViewTab3'));
     
-    with open('trash/test_result.json', 'w') as file:
-        file.write(data);
+    # with open('trash/test_result.json', 'w') as file:
+    #     file.write(data);
 
 
 
