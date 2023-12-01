@@ -1,10 +1,12 @@
 import re;
+
 from requests import Session, Response;
+from pyquery import PyQuery;
+from json import dumps;
+
 from ..helpers.Parser import Parser;
 from ..helpers.Hasher import Hasher;
 from ..helpers.Datetime import Datetime;
-from pyquery import PyQuery;
-from json import dumps;
 
 class Bps: 
     def __init__(self) -> None:
@@ -42,7 +44,7 @@ class Bps:
 
         return number;
 
-    def __get_data_table(self, urls: list[str]):
+    def __get_data_table(self, urls: list[str]) -> None:
         for i, url in enumerate(urls):
             data_tables: list[dict] = [];
             url_tables: list[str] = [];
@@ -70,33 +72,32 @@ class Bps:
 
 
                 for tr in table('tbody tr'):
-                    data_table: dict = {};
-                    
-                    data_table[key_col1]: str = self.__parser.execute(tr, 'td:first-child').text();
-                    data_table[key_col2]: dict = {};
+                    data_table: dict = {
+                        key_col1: self.__parser.execute(tr, 'td:first-child').text(),
+                        key_col2: {
+                            key_thn1: self.__str_2_num(self.__parser.execute(tr, 'td:nth-child(2)').text()),
+                            key_thn2: self.__str_2_num(self.__parser.execute(tr, 'td:nth-child(3)').text()),
+                            key_thn3: self.__str_2_num(self.__parser.execute(tr, 'td:last-child').text())
+                        }
+                    };
 
-                    data_table[key_col2][key_thn1] = self.__str_2_num(self.__parser.execute(tr, 'td:nth-child(2)').text());
-                    data_table[key_col2][key_thn2] = self.__str_2_num(self.__parser.execute(tr, 'td:nth-child(3)').text());
-                    data_table[key_col2][key_thn3] = self.__str_2_num(self.__parser.execute(tr, 'td:last-child').text());
                 
                     existing_data = next((item for item in data_tables if item.get(key_col1) == data_table[key_col1]), None);
 
                     if existing_data:
-                        existing_data[key_col2].update(data_table[key_col2])
+                        existing_data[key_col2].update(data_table[key_col2]);
                     else:
                         data_tables.append(data_table)
-
-                    
 
                 j += 1;
                 
 
-            self.__result[i]['data_tabel'] = data_tables;
-            self.__result[i]['url_tabel'] = url_tables;
+            self.__result[i].update({
+                'data_tables': data_tables,
+                'url_tabel': url_tables
+            });
 
-    
-            if(i == 2): break;
-
+            break;
 
 
     def execute(self, url: str) -> str:
@@ -105,7 +106,6 @@ class Bps:
         if(res.status_code != 200): return;
     
         urls: list[str] = self.__filter_link(self.__parser.execute(res.text, '#listTabel1 tbody'));
-
         self.__get_data_table(urls);
 
         return self.__result;
