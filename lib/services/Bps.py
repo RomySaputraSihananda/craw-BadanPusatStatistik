@@ -22,24 +22,32 @@ class Bps:
                 'keterangan': self.__parser.execute(tr, 'td:nth-child(4)').text(),
             });
 
-            urls.append(self.__base_URL + self.__parser.execute(tr, 'td:nth-child(2) a').attr('href'));
+            url: str = self.__parser.execute(tr, 'td:nth-child(2) a').attr('href');  
+            
+            urls.append(url if self.__base_URL in url else self.__base_URL + url);
 
         return urls;
 
     def __get_data_table(self, urls: list[str]):
+        i = 1;
         for url in urls:
-            i = 1;
-
-            res: Response = self.__request.get(url);
+            res: Response = self.__request.get(urls[0]);
 
             table: PyQuery = self.__parser.execute(res.text, '#tablex');
 
-            key_col1: str = table('thead tr:nth-child(1) th:first-child').text().replace(' ', '_');
-            print(key_col1);
+            key_col1: str = table('thead tr:first-child th:first-child').text().replace(' ', '_');
+            key_col2: str = table('thead tr:first-child th:last-child').text().replace(' ', '_');
+    
+            key_thn1: str = table('thead tr:last-child th:first-child').text();
+            key_thn2: str = table('thead tr:last-child th:nth-child(2)').text();
+            key_thn3: str = table('thead tr:last-child th:last-child').text();
 
-            # for tr in table('tbody tr'):
-            #     print(self.__parser.execute(tr, 'td:nth-child(1)').text())
+            print(key_thn1);
+            print(key_thn2);
+            print(key_thn3);
 
+            for tr in table('tbody tr'):
+                self.__parser.execute(tr, 'td:nth-child(1)').text()
 
 
             # while(True):

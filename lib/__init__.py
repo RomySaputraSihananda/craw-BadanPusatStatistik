@@ -1,2 +1,2 @@
-from .services.Bps import Bps;
-from .helpers.Parser import Parser;
+from .services import Bps;
+from .helpers import Parser;
