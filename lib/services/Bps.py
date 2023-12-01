@@ -30,6 +30,7 @@ class Bps:
 
     def __get_data_table(self, urls: list[str]):
         i = 1;
+        data_tables: list[object] = [];
         for url in urls:
             res: Response = self.__request.get(urls[0]);
 
@@ -42,13 +43,17 @@ class Bps:
             key_thn2: str = table('thead tr:last-child th:nth-child(2)').text();
             key_thn3: str = table('thead tr:last-child th:last-child').text();
 
-            print(key_thn1);
-            print(key_thn2);
-            print(key_thn3);
-
             for tr in table('tbody tr'):
-                self.__parser.execute(tr, 'td:nth-child(1)').text()
+                data_table: object = {};
+                
+                data_table[key_thn1]: str = float(self.__parser.execute(tr, 'td:nth-child(2)').text().replace(',', '.'));
+                data_table[key_thn2]: str = float(self.__parser.execute(tr, 'td:nth-child(3)').text().replace(',', '.'));
+                data_table[key_thn3]: str = float(self.__parser.execute(tr, 'td:last-child').text().replace(',', '.'));
+                
+            
+                data_tables.append(data_table);
 
+            print(dumps(data_tables));
 
             # while(True):
             #     newUrl = url.split('/');
