@@ -73,3 +73,28 @@ print(sorted_tahun)
 #         }
 #     ]
 # }
+
+num1: str = '12,22'
+num2: str = '120 022' 
+
+
+data = {
+    'title': 'same',
+    'data': {
+        '2020': 12
+    }
+}
+
+data2 = {
+    'title': 'same',
+    'data': {
+        '2021': 112
+    }
+}
+data3 = {
+    'title': 'same',
+    'data': {
+        '2021': 112,
+        '2020': 12
+    }
+}
