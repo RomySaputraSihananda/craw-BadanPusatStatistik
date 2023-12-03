@@ -14,14 +14,20 @@ class Bps:
         self.__parser: Parser = Parser();
         self.__hasher: Hasher = Hasher();
         self.__datetime: Datetime = Datetime();
-        self.__result: list[dict] = [];
-        self.__base_URL: str = 'https://www.bps.go.id';
+
+        self.__result: dict = {};
+        self.__result['title'] = None;
+        self.__result['url'] = None;
+        self.__result['date_now'] = None;
+        self.__result['data'] = [];
+
+        self.__base_URL: str = 'https://www.archive.bps.go.id';
 
     def __filter_link(self, tbody: PyQuery) -> list[str]:
         urls =[];
 
         for tr in tbody('tr'):
-            self.__result.append({
+            self.__result['data'].append({
                 'id': self.__hasher.execute(self.__parser.execute(tr, 'td:nth-child(2) a').text()),
                 'judul_tabel': self.__parser.execute(tr, 'td:nth-child(2) a').text(),
                 'update': self.__datetime.execute(self.__parser.execute(tr, 'td:nth-child(3)').text()),
@@ -55,6 +61,7 @@ class Bps:
                 newUrl[6] = str(j);
 
                 res: Response = self.__request.get('/'.join(newUrl));
+
 
                 if(res.status_code != 200): break;
                 print('/'.join(newUrl))
@@ -92,26 +99,35 @@ class Bps:
                 j += 1;
                 
 
-            self.__result[i].update({
+            self.__result['data'][i].update({
                 'data_tables': data_tables,
                 'url_tabel': url_tables
             });
+
+            # break;
 
 
     def execute(self, url: str) -> str:
         res: Response = self.__request.get(url);
 
         if(res.status_code != 200): return;
-    
-        urls: list[str] = self.__filter_link(self.__parser.execute(res.text, '#listTabel1 tbody'));
+
+        parser: PyQuery = self.__parser.execute(res.text, 'body');
+
+        self.__result['title'] = parser('.breadcrumbs span').text();
+        self.__result['date_now'] = self.__datetime.now();
+        self.__result['url'] = url.replace('#subjekViewTab3', '');
+
+        urls: list[str] = self.__filter_link(parser('#listTabel1 tbody'));
         self.__get_data_table(urls);
 
-        return self.__result;
 
+        return self.__result;
+# self.__parser.execute(res.text, '#listTabel1 tbody')
 # testing
 if(__name__ == '__main__'):
     bps: Bps = Bps();
-    data = dumps(bps.execute('https://www.bps.go.id/subject/7/energi.html#subjekViewTab3'));
+    data = dumps(bps.execute('https://www.archive.bps.go.id/subject/7/energi.html#subjekViewTab3'));
 
     with open('trash/test_result.json', 'w') as file:
         file.write(data);
