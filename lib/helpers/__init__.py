@@ -1,1 +1,1 @@
-from . import Parser, Hasher, Datetime;
+from . import Parser, Hasher, Datetime, TypeEnums;
