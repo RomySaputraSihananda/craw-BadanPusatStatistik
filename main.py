@@ -6,7 +6,7 @@ from json import dumps;
 
 from lib import sdk;
 from lib.services import Bps;
-from lib.controllers.bps import Ekonomi;
+from lib.controllers.bps import Bps;
 from lib.helpers.TypeEnums import Ekonomi_Perdagangan;
 
 if __name__ == "__main__":
