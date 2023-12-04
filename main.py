@@ -1,18 +1,7 @@
-# from lib import Bps, Ekonomi_Perdagangan;
-# from json import dumps;
-
-
-# search = Bps();
-
-# data = dumps(search.execute(Ekonomi_Perdagangan.EKSPOR_IMPOR.value));
-
-# with open('data/result.json', 'w') as file:
-#     file.write(data);
-
 from flask import Flask
 from gevent.pywsgi import WSGIServer
 from lib import sdk
-from lib import BpsController
+from lib.controllers.bps import Ekonomi
 
 if __name__ == "__main__":
     port = 4444;
