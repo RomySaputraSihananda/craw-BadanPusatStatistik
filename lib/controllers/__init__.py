@@ -7,4 +7,5 @@ api = Api(
     version="v1.0.0",
     title="Craw & Scrap Badan Pusat Statistik",
     description="API for get Data from Badan Pusat Statistik",
+    doc='/docs'
 );

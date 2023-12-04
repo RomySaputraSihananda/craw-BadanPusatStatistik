@@ -50,14 +50,14 @@ class Pertanian(Resource):
         params={
             "option": {
                 "description": "Parameters to determine the option",
-                "enum": [e.name for e in TypeEnums.Ekonomi_Perdagangan],
-                "default": TypeEnums.Ekonomi_Perdagangan.ENERGI.name
+                "enum": [e.name for e in TypeEnums.Pertanian_Pertambangan],
+                "default": TypeEnums.Pertanian_Pertambangan.ENERGI.name
             },
         },
     )
     def get(self):
         option = request.values.get("option");
-        url = TypeEnums.Ekonomi_Perdagangan[option].value;
+        url = TypeEnums.Pertanian_Pertambangan[option].value;
         search = Bps();
 
         return search.execute(url);
