@@ -50,61 +50,54 @@ class Bps:
 
         return number;
 
-    def __get_data_table(self, urls: list[str]) -> None:
-        for i, url in enumerate(urls):
-            data_tables: list[dict] = [];
-            url_tables: list[str] = [];
-            j = 1;
+    def __get_data_table(self, url: str) -> None:
+        data_tables: list[dict] = [];
+        url_tables: list[str] = [];
+        j = 1;
 
-            while(True):
-                newUrl = url.split('/');
-                newUrl[6] = str(j);
+        while(True):
+            newUrl = url.split('/');
+            newUrl[6] = str(j);
 
-                res: Response = self.__request.get('/'.join(newUrl));
+            res: Response = self.__request.get('/'.join(newUrl));
 
+            if(res.status_code != 200): break;
+            print('/'.join(newUrl))
 
-                if(res.status_code != 200): break;
-                print('/'.join(newUrl))
+            url_tables.append('/'.join(newUrl));
 
-                url_tables.append('/'.join(newUrl));
+            table: PyQuery = self.__parser.execute(res.text, '#tablex');
 
-                table: PyQuery = self.__parser.execute(res.text, '#tablex');
+            headers: list[str] = [PyQuery(th).text().replace(' ', '_') for th in table('thead tr:first-child th')]
+            col_keys: list[str] = headers[1:-1]
+            years: list[str] = [PyQuery(th).text() for th in table('thead tr:last-child th')]
 
-                headers: list[str] = [PyQuery(th).text().replace(' ', '_') for th in table('thead tr:first-child th')]
-                col_keys: list[str] = headers[1:-1]
-                years: list[str] = [PyQuery(th).text() for th in table('thead tr:last-child th')]
-
-                for tr in table('tbody tr'):
-                    data_table = {
-                        'judul_tabel':  self.__parser.execute(res.text, 'h4').text(),
-                        headers[0]: self.__parser.execute(tr, 'td:first-child').text(),
-                        headers[-1]: {
-                            years[i]: self.__str_2_num(self.__parser.execute(tr, f'td:nth-child({i + 2})').text())
-                            for i in range(len(years))
-                        }
+            for tr in table('tbody tr'):
+                data_table = {
+                    'judul_tabel':  self.__parser.execute(res.text, 'h4').text(),
+                    headers[0]: self.__parser.execute(tr, 'td:first-child').text(),
+                    headers[-1]: {
+                        years[i]: self.__str_2_num(self.__parser.execute(tr, f'td:nth-child({i + 2})').text())
+                        for i in range(len(years))
                     }
+                }
 
-                    for i, col_key in enumerate(col_keys):
-                        data_table[col_key] = self.__parser.execute(tr, f'td:nth-child({i + 2})').text()
-                    
+                for i, col_key in enumerate(col_keys):
+                    data_table[col_key] = self.__parser.execute(tr, f'td:nth-child({i + 2})').text()
                 
-                    existing_data = next((item for item in data_tables if item.get(headers[0]) == data_table[headers[0]]), None)
+            
+                existing_data = next((item for item in data_tables if item.get(headers[0]) == data_table[headers[0]]), None)
 
-                    if existing_data:
-                        existing_data[headers[-1]].update(data_table[headers[-1]])
-                    else:
-                        data_tables.append(data_table)
+                if existing_data:
+                    existing_data[headers[-1]].update(data_table[headers[-1]])
+                else:
+                    data_tables.append(data_table)
 
-                j += 1;
-                
-
-            self.__result['data'][i].update({
-                'url_tabel': url_tables,
-                'data_tables': data_tables
-            });
-
+            j += 1;
+            
             # break;
-
+                
+        return [url_tables, data_tables];
 
     def execute(self, url: str) -> str:
         res: Response = self.__request.get(url);
@@ -118,10 +111,21 @@ class Bps:
         self.__result['url'] = url.replace('#subjekViewTab3', '');
 
         urls: list[str] = self.__filter_link(parser('#listTabel1 tbody'));
-        self.__get_data_table(urls);
 
+        for i, url in enumerate(urls):
+            [url_tables, data_tables] =  self.__get_data_table(url);
+
+            self.__result['data'][i].update({
+                'url_tabel': url_tables,
+                'data_tables': data_tables
+            });
+
+            # break;
 
         return self.__result;
+
+    def test(self):
+        return [1,2,3];
 
 # testing
 if(__name__ == '__main__'):

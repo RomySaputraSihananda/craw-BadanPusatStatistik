@@ -5,7 +5,6 @@ from gevent.pywsgi import WSGIServer;
 from json import dumps;
 
 from lib import sdk;
-from lib.services import Bps;
 from lib.controllers.bps import Bps;
 from lib.helpers.TypeEnums import Ekonomi_Perdagangan;
 
@@ -28,6 +27,8 @@ if __name__ == "__main__":
         http_server = WSGIServer(("localhost", port), application);
         http_server.serve_forever();
 
+    from lib.services import Bps;
+    
     bps: Bps = Bps();
 
     data = dumps(bps.execute(Ekonomi_Perdagangan.ENERGI.value));

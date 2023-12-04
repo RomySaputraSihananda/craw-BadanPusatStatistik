@@ -1,22 +1,22 @@
 from enum import Enum;
 
 class Sosial_Kependudukan(Enum):
-    GENDER = "https://www.archive.bps.go.id/subject/40/gender.html#subjekViewTab3",
-    GEOGRAFI = "https://www.archive.bps.go.id/subject/153/geografi.html#subjekViewTab3",
-    IKLIM = "https://www.archive.bps.go.id/subject/151/iklim.html#subjekViewTab3",
-    INDEKS_PEMBANGUNAN_MANUSIA = "https://www.archive.bps.go.id/subject/26/indeks-pembangunan-manusia.html#subjekViewTab3",
-    KEMISKINAN_DAN_KETIMPANGAN = "https://www.archive.bps.go.id/subject/23/kemiskinan-dan-ketimpangan.html#subjekViewTab3",
-    KEPENDUDUKAN = "https://www.archive.bps.go.id/subject/12/kependudukan.html#subjekViewTab3",
-    KESEHATAN = "https://www.archive.bps.go.id/subject/30/kesehatan.html#subjekViewTab3",
-    KONSUMSI_DAN_PENGELUARAN = "https://www.archive.bps.go.id/subject/5/konsumsi-dan-pengeluaran.html#subjekViewTab3",
-    LINGKUNGAN_HIDUP = "https://www.archive.bps.go.id/subject/152/lingkungan-hidup.html#subjekViewTab3",
-    PEMERINTAHAN = "https://www.archive.bps.go.id/subject/101/pemerintahan.html#subjekViewTab3",
-    PENDIDIKAN = "https://www.archive.bps.go.id/subject/28/pendidikan.html#subjekViewTab3",
-    PERUMAHAN = "https://www.archive.bps.go.id/subject/29/perumahan.html#subjekViewTab3",
-    POLITIK_DAN_KEAMANAN = "https://www.archive.bps.go.id/subject/34/politik-dan-keamanan.html#subjekViewTab3",
-    POTENSI_DESA = "https://www.archive.bps.go.id/subject/168/potensi-desa.html#subjekViewTab3",
-    SOSIAL_BUDAYA = "https://www.archive.bps.go.id/subject/27/sosial-budaya.html#subjekViewTab3",
-    TENAGA_KERJA = "https://www.archive.bps.go.id/subject/6/tenaga-kerja.html#subjekViewTab3",
+    GENDER = "https://www.archive.bps.go.id/subject/40/gender.html#subjekViewTab3"
+    GEOGRAFI = "https://www.archive.bps.go.id/subject/153/geografi.html#subjekViewTab3"
+    IKLIM = "https://www.archive.bps.go.id/subject/151/iklim.html#subjekViewTab3"
+    INDEKS_PEMBANGUNAN_MANUSIA = "https://www.archive.bps.go.id/subject/26/indeks-pembangunan-manusia.html#subjekViewTab3"
+    KEMISKINAN_DAN_KETIMPANGAN = "https://www.archive.bps.go.id/subject/23/kemiskinan-dan-ketimpangan.html#subjekViewTab3"
+    KEPENDUDUKAN = "https://www.archive.bps.go.id/subject/12/kependudukan.html#subjekViewTab3"
+    KESEHATAN = "https://www.archive.bps.go.id/subject/30/kesehatan.html#subjekViewTab3"
+    KONSUMSI_DAN_PENGELUARAN = "https://www.archive.bps.go.id/subject/5/konsumsi-dan-pengeluaran.html#subjekViewTab3"
+    LINGKUNGAN_HIDUP = "https://www.archive.bps.go.id/subject/152/lingkungan-hidup.html#subjekViewTab3"
+    PEMERINTAHAN = "https://www.archive.bps.go.id/subject/101/pemerintahan.html#subjekViewTab3"
+    PENDIDIKAN = "https://www.archive.bps.go.id/subject/28/pendidikan.html#subjekViewTab3"
+    PERUMAHAN = "https://www.archive.bps.go.id/subject/29/perumahan.html#subjekViewTab3"
+    POLITIK_DAN_KEAMANAN = "https://www.archive.bps.go.id/subject/34/politik-dan-keamanan.html#subjekViewTab3"
+    POTENSI_DESA = "https://www.archive.bps.go.id/subject/168/potensi-desa.html#subjekViewTab3"
+    SOSIAL_BUDAYA = "https://www.archive.bps.go.id/subject/27/sosial-budaya.html#subjekViewTab3"
+    TENAGA_KERJA = "https://www.archive.bps.go.id/subject/6/tenaga-kerja.html#subjekViewTab3"
 
 class Ekonomi_Perdagangan(Enum):
     EKSPOR_IMPOR = "https://www.archive.bps.go.id/subject/8/ekspor-impor.html#subjekViewTab3"
@@ -49,12 +49,12 @@ class Ekonomi_Perdagangan(Enum):
 
 
 class Pertanian_Pertambangan(Enum):
-    HORTIKULTURA = "https://www.archive.bps.go.id/subject/55/hortikultura.html#subjekViewTab3", 
-    KEHUTANAN = "https://www.archive.bps.go.id/subject/60/kehutanan.html#subjekViewTab3", 
-    PERIKANAN = "https://www.archive.bps.go.id/subject/56/perikanan.html#subjekViewTab3", 
-    PERKEBUNAN = "https://www.archive.bps.go.id/subject/54/perkebunan.html#subjekViewTab3", 
-    PERTAMBANGAN = "https://www.archive.bps.go.id/subject/10/pertambangan.html#subjekViewTab3", 
-    PETERNAKAN = "https://www.archive.bps.go.id/subject/24/peternakan.html#subjekViewTab3", 
-    TANAMAN_PANGAN = "https://www.archive.bps.go.id/subject/53/tanaman-pangan.html#subjekViewTab3", 
+    HORTIKULTURA = "https://www.archive.bps.go.id/subject/55/hortikultura.html#subjekViewTab3" 
+    KEHUTANAN = "https://www.archive.bps.go.id/subject/60/kehutanan.html#subjekViewTab3" 
+    PERIKANAN = "https://www.archive.bps.go.id/subject/56/perikanan.html#subjekViewTab3" 
+    PERKEBUNAN = "https://www.archive.bps.go.id/subject/54/perkebunan.html#subjekViewTab3" 
+    PERTAMBANGAN = "https://www.archive.bps.go.id/subject/10/pertambangan.html#subjekViewTab3" 
+    PETERNAKAN = "https://www.archive.bps.go.id/subject/24/peternakan.html#subjekViewTab3" 
+    TANAMAN_PANGAN = "https://www.archive.bps.go.id/subject/53/tanaman-pangan.html#subjekViewTab3" 
 
 
