@@ -70,29 +70,29 @@ class Bps:
 
                 table: PyQuery = self.__parser.execute(res.text, '#tablex');
 
-                key_col1: str = table('thead tr:first-child th:first-child').text().replace(' ', '_');
-                key_col2: str = table('thead tr:first-child th:last-child').text().replace(' ', '_');
-        
-                key_thn1: str = table('thead tr:last-child th:first-child').text();
-                key_thn2: str = table('thead tr:last-child th:nth-child(2)').text();
-                key_thn3: str = table('thead tr:last-child th:last-child').text();
-
+                headers: list[str] = [PyQuery(th).text().replace(' ', '_') for th in table('thead tr:first-child th')]
+                col_keys: list[str] = headers[1:-1]
+                years: list[str] = [PyQuery(th).text() for th in table('thead tr:last-child th')]
 
                 for tr in table('tbody tr'):
-                    data_table: dict = {
-                        key_col1: self.__parser.execute(tr, 'td:first-child').text(),
-                        key_col2: {
-                            key_thn1: self.__str_2_num(self.__parser.execute(tr, 'td:nth-child(2)').text()),
-                            key_thn2: self.__str_2_num(self.__parser.execute(tr, 'td:nth-child(3)').text()),
-                            key_thn3: self.__str_2_num(self.__parser.execute(tr, 'td:last-child').text())
+                    data_table = {
+                        'judul_tabel':  self.__parser.execute(res.text, 'h4').text(),
+                        headers[0]: self.__parser.execute(tr, 'td:first-child').text(),
+                        headers[-1]: {
+                            years[i]: self.__str_2_num(self.__parser.execute(tr, f'td:nth-child({i + 2})').text())
+                            for i in range(len(years))
                         }
-                    };
+                    }
 
+                    for i, col_key in enumerate(col_keys):
+                        data_table[col_key] = self.__parser.execute(tr, f'td:nth-child({i + 2})').text()
+                    
                 
-                    existing_data = next((item for item in data_tables if item.get(key_col1) == data_table[key_col1]), None);
+                    # existing_data = next((item for item in data_tables if item.get(key_col1) == data_table[key_col1]), None);
+                    existing_data = next((item for item in data_tables if item.get(headers[0]) == data_table[headers[0]]), None)
 
                     if existing_data:
-                        existing_data[key_col2].update(data_table[key_col2]);
+                        existing_data[headers[-1]].update(data_table[headers[-1]])
                     else:
                         data_tables.append(data_table)
 
@@ -104,7 +104,7 @@ class Bps:
                 'data_tables': data_tables
             });
 
-            # break;
+            break;
 
 
     def execute(self, url: str) -> str:
