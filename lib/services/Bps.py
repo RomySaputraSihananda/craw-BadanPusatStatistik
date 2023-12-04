@@ -16,15 +16,15 @@ class Bps:
         self.__datetime: Datetime = Datetime();
 
         self.__result: dict = {};
-        self.__result['title'] = None;
-        self.__result['url'] = None;
-        self.__result['date_now'] = None;
-        self.__result['data'] = [];
+        self.__result['title']: str = None;
+        self.__result['url']: str = None;
+        self.__result['date_now']: str = None;
+        self.__result['data']: list[dict] = [];
 
         self.__base_URL: str = 'https://www.archive.bps.go.id';
 
     def __filter_link(self, tbody: PyQuery) -> list[str]:
-        urls =[];
+        urls: list[str] = [];
 
         for tr in tbody('tr'):
             self.__result['data'].append({
@@ -40,7 +40,7 @@ class Bps:
 
         return urls;
 
-    def __str_2_num(self, text: str):
+    def __str_2_num(self, text: str) -> str:
         text = text.replace(',', '.').replace('\u2009', '').replace(' ', '');
 
         try:
@@ -88,7 +88,6 @@ class Bps:
                         data_table[col_key] = self.__parser.execute(tr, f'td:nth-child({i + 2})').text()
                     
                 
-                    # existing_data = next((item for item in data_tables if item.get(key_col1) == data_table[key_col1]), None);
                     existing_data = next((item for item in data_tables if item.get(headers[0]) == data_table[headers[0]]), None)
 
                     if existing_data:
@@ -123,7 +122,7 @@ class Bps:
 
 
         return self.__result;
-# self.__parser.execute(res.text, '#listTabel1 tbody')
+
 # testing
 if(__name__ == '__main__'):
     bps: Bps = Bps();

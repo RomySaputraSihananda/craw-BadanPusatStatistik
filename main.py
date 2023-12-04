@@ -6,10 +6,10 @@ from json import dumps;
 search = Bps();
 
 data = dumps(search.execute('https://www.archive.bps.go.id/subject/7/energi.html#subjekViewTab3'));
-data2 = dumps(search.execute('https://www.archive.bps.go.id/subject/7/energi.html#subjekViewTab3'));
+data2 = dumps(search.execute('https://www.archive.bps.go.id/subject/40/gender.html#subjekViewTab3'));
 
 with open('data/result.json', 'w') as file:
     file.write(data);
 
 with open('data/result2.json', 'w') as file:
-    file.write(data);
+    file.write(data2);
