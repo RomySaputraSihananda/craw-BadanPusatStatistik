@@ -1,13 +1,18 @@
 {
   "title": "Energi",
   "url": "https://www.archive.bps.go.id/subject/7/energi.html",
-  "date_now": "2023-12-03T15:18:19",
+  "date_now": "2023-12-04T11:00:54",
   "data": [
     {
       "id": "2266ad73b753697e187fe23aca8a91bf",
       "judul_tabel": "Rasio Penggunaan Gas Rumah Tangga, 2015-2022",
       "update": "2023-03-06",
       "keterangan": "Statistik Sektoral",
+      "url_tabel": [
+        "https://www.archive.bps.go.id/indicator/7/1157/1/rasio-penggunaan-gas-rumah-tangga.html",
+        "https://www.archive.bps.go.id/indicator/7/1157/2/rasio-penggunaan-gas-rumah-tangga.html",
+        "https://www.archive.bps.go.id/indicator/7/1157/3/rasio-penggunaan-gas-rumah-tangga.html"
+      ],
       "data_tables": [
         {
           "Provinsi": "ACEH",
@@ -464,11 +469,6 @@
             "2016": 72.38
           }
         }
-      ],
-      "url_tabel": [
-        "https://www.archive.bps.go.id/indicator/7/1157/1/rasio-penggunaan-gas-rumah-tangga.html",
-        "https://www.archive.bps.go.id/indicator/7/1157/2/rasio-penggunaan-gas-rumah-tangga.html",
-        "https://www.archive.bps.go.id/indicator/7/1157/3/rasio-penggunaan-gas-rumah-tangga.html"
       ]
     },
     {
@@ -476,6 +476,15 @@
       "judul_tabel": "Indikator Penting Perusahaan Listrik, 2000-2021",
       "update": "2023-02-15",
       "keterangan": "Statistik Dasar",
+      "url_tabel": [
+        "https://www.archive.bps.go.id/indicator/7/640/1/indikator-penting-perusahaan-listrik.html",
+        "https://www.archive.bps.go.id/indicator/7/640/2/indikator-penting-perusahaan-listrik.html",
+        "https://www.archive.bps.go.id/indicator/7/640/3/indikator-penting-perusahaan-listrik.html",
+        "https://www.archive.bps.go.id/indicator/7/640/4/indikator-penting-perusahaan-listrik.html",
+        "https://www.archive.bps.go.id/indicator/7/640/5/indikator-penting-perusahaan-listrik.html",
+        "https://www.archive.bps.go.id/indicator/7/640/6/indikator-penting-perusahaan-listrik.html",
+        "https://www.archive.bps.go.id/indicator/7/640/7/indikator-penting-perusahaan-listrik.html"
+      ],
       "data_tables": [
         {
           "Indikator_Penting_Perusahaan_Listrik": {
@@ -771,15 +780,6 @@
             "2002": 40246040
           }
         }
-      ],
-      "url_tabel": [
-        "https://www.archive.bps.go.id/indicator/7/640/1/indikator-penting-perusahaan-listrik.html",
-        "https://www.archive.bps.go.id/indicator/7/640/2/indikator-penting-perusahaan-listrik.html",
-        "https://www.archive.bps.go.id/indicator/7/640/3/indikator-penting-perusahaan-listrik.html",
-        "https://www.archive.bps.go.id/indicator/7/640/4/indikator-penting-perusahaan-listrik.html",
-        "https://www.archive.bps.go.id/indicator/7/640/5/indikator-penting-perusahaan-listrik.html",
-        "https://www.archive.bps.go.id/indicator/7/640/6/indikator-penting-perusahaan-listrik.html",
-        "https://www.archive.bps.go.id/indicator/7/640/7/indikator-penting-perusahaan-listrik.html"
       ]
     },
     {
@@ -787,6 +787,17 @@
       "judul_tabel": "Kapasitas Terpasang PLN menurut Jenis Pembangkit Listrik, 1995-2021",
       "update": "2023-02-15",
       "keterangan": "Statistik Dasar",
+      "url_tabel": [
+        "https://www.archive.bps.go.id/indicator/7/321/1/kapasitas-terpasang-pln-menurut-jenis-pembangkit-listrik.html",
+        "https://www.archive.bps.go.id/indicator/7/321/2/kapasitas-terpasang-pln-menurut-jenis-pembangkit-listrik.html",
+        "https://www.archive.bps.go.id/indicator/7/321/3/kapasitas-terpasang-pln-menurut-jenis-pembangkit-listrik.html",
+        "https://www.archive.bps.go.id/indicator/7/321/4/kapasitas-terpasang-pln-menurut-jenis-pembangkit-listrik.html",
+        "https://www.archive.bps.go.id/indicator/7/321/5/kapasitas-terpasang-pln-menurut-jenis-pembangkit-listrik.html",
+        "https://www.archive.bps.go.id/indicator/7/321/6/kapasitas-terpasang-pln-menurut-jenis-pembangkit-listrik.html",
+        "https://www.archive.bps.go.id/indicator/7/321/7/kapasitas-terpasang-pln-menurut-jenis-pembangkit-listrik.html",
+        "https://www.archive.bps.go.id/indicator/7/321/8/kapasitas-terpasang-pln-menurut-jenis-pembangkit-listrik.html",
+        "https://www.archive.bps.go.id/indicator/7/321/9/kapasitas-terpasang-pln-menurut-jenis-pembangkit-listrik.html"
+      ],
       "data_tables": [
         {
           "Jenis_Pembangkit_Listrik": "Tenaga Air",
@@ -1129,17 +1140,6 @@
             "1996": 15321
           }
         }
-      ],
-      "url_tabel": [
-        "https://www.archive.bps.go.id/indicator/7/321/1/kapasitas-terpasang-pln-menurut-jenis-pembangkit-listrik.html",
-        "https://www.archive.bps.go.id/indicator/7/321/2/kapasitas-terpasang-pln-menurut-jenis-pembangkit-listrik.html",
-        "https://www.archive.bps.go.id/indicator/7/321/3/kapasitas-terpasang-pln-menurut-jenis-pembangkit-listrik.html",
-        "https://www.archive.bps.go.id/indicator/7/321/4/kapasitas-terpasang-pln-menurut-jenis-pembangkit-listrik.html",
-        "https://www.archive.bps.go.id/indicator/7/321/5/kapasitas-terpasang-pln-menurut-jenis-pembangkit-listrik.html",
-        "https://www.archive.bps.go.id/indicator/7/321/6/kapasitas-terpasang-pln-menurut-jenis-pembangkit-listrik.html",
-        "https://www.archive.bps.go.id/indicator/7/321/7/kapasitas-terpasang-pln-menurut-jenis-pembangkit-listrik.html",
-        "https://www.archive.bps.go.id/indicator/7/321/8/kapasitas-terpasang-pln-menurut-jenis-pembangkit-listrik.html",
-        "https://www.archive.bps.go.id/indicator/7/321/9/kapasitas-terpasang-pln-menurut-jenis-pembangkit-listrik.html"
       ]
     },
     {
@@ -1147,6 +1147,17 @@
       "judul_tabel": "Pelanggan Perusahaan Listrik Negara, 1995-2021",
       "update": "2023-02-15",
       "keterangan": "Statistik Dasar",
+      "url_tabel": [
+        "https://www.archive.bps.go.id/indicator/7/317/1/pelanggan-perusahaan-listrik-negara.html",
+        "https://www.archive.bps.go.id/indicator/7/317/2/pelanggan-perusahaan-listrik-negara.html",
+        "https://www.archive.bps.go.id/indicator/7/317/3/pelanggan-perusahaan-listrik-negara.html",
+        "https://www.archive.bps.go.id/indicator/7/317/4/pelanggan-perusahaan-listrik-negara.html",
+        "https://www.archive.bps.go.id/indicator/7/317/5/pelanggan-perusahaan-listrik-negara.html",
+        "https://www.archive.bps.go.id/indicator/7/317/6/pelanggan-perusahaan-listrik-negara.html",
+        "https://www.archive.bps.go.id/indicator/7/317/7/pelanggan-perusahaan-listrik-negara.html",
+        "https://www.archive.bps.go.id/indicator/7/317/8/pelanggan-perusahaan-listrik-negara.html",
+        "https://www.archive.bps.go.id/indicator/7/317/9/pelanggan-perusahaan-listrik-negara.html"
+      ],
       "data_tables": [
         {
           "Kelompok_Pelanggan_-_PLN": "Sosial",
@@ -1334,17 +1345,6 @@
             "1996": 21953862
           }
         }
-      ],
-      "url_tabel": [
-        "https://www.archive.bps.go.id/indicator/7/317/1/pelanggan-perusahaan-listrik-negara.html",
-        "https://www.archive.bps.go.id/indicator/7/317/2/pelanggan-perusahaan-listrik-negara.html",
-        "https://www.archive.bps.go.id/indicator/7/317/3/pelanggan-perusahaan-listrik-negara.html",
-        "https://www.archive.bps.go.id/indicator/7/317/4/pelanggan-perusahaan-listrik-negara.html",
-        "https://www.archive.bps.go.id/indicator/7/317/5/pelanggan-perusahaan-listrik-negara.html",
-        "https://www.archive.bps.go.id/indicator/7/317/6/pelanggan-perusahaan-listrik-negara.html",
-        "https://www.archive.bps.go.id/indicator/7/317/7/pelanggan-perusahaan-listrik-negara.html",
-        "https://www.archive.bps.go.id/indicator/7/317/8/pelanggan-perusahaan-listrik-negara.html",
-        "https://www.archive.bps.go.id/indicator/7/317/9/pelanggan-perusahaan-listrik-negara.html"
       ]
     },
     {
@@ -1352,6 +1352,17 @@
       "judul_tabel": "Listrik Yang Didistribusikan Kepada Pelanggan, 1995-2021",
       "update": "2023-02-15",
       "keterangan": "Statistik Dasar",
+      "url_tabel": [
+        "https://www.archive.bps.go.id/indicator/7/314/1/listrik-yang-didistribusikan-kepada-pelanggan.html",
+        "https://www.archive.bps.go.id/indicator/7/314/2/listrik-yang-didistribusikan-kepada-pelanggan.html",
+        "https://www.archive.bps.go.id/indicator/7/314/3/listrik-yang-didistribusikan-kepada-pelanggan.html",
+        "https://www.archive.bps.go.id/indicator/7/314/4/listrik-yang-didistribusikan-kepada-pelanggan.html",
+        "https://www.archive.bps.go.id/indicator/7/314/5/listrik-yang-didistribusikan-kepada-pelanggan.html",
+        "https://www.archive.bps.go.id/indicator/7/314/6/listrik-yang-didistribusikan-kepada-pelanggan.html",
+        "https://www.archive.bps.go.id/indicator/7/314/7/listrik-yang-didistribusikan-kepada-pelanggan.html",
+        "https://www.archive.bps.go.id/indicator/7/314/8/listrik-yang-didistribusikan-kepada-pelanggan.html",
+        "https://www.archive.bps.go.id/indicator/7/314/9/listrik-yang-didistribusikan-kepada-pelanggan.html"
+      ],
       "data_tables": [
         {
           "Kelompok_Pelanggan_-_PLN": "Sosial",
@@ -1539,17 +1550,6 @@
             "1996": 57000.0
           }
         }
-      ],
-      "url_tabel": [
-        "https://www.archive.bps.go.id/indicator/7/314/1/listrik-yang-didistribusikan-kepada-pelanggan.html",
-        "https://www.archive.bps.go.id/indicator/7/314/2/listrik-yang-didistribusikan-kepada-pelanggan.html",
-        "https://www.archive.bps.go.id/indicator/7/314/3/listrik-yang-didistribusikan-kepada-pelanggan.html",
-        "https://www.archive.bps.go.id/indicator/7/314/4/listrik-yang-didistribusikan-kepada-pelanggan.html",
-        "https://www.archive.bps.go.id/indicator/7/314/5/listrik-yang-didistribusikan-kepada-pelanggan.html",
-        "https://www.archive.bps.go.id/indicator/7/314/6/listrik-yang-didistribusikan-kepada-pelanggan.html",
-        "https://www.archive.bps.go.id/indicator/7/314/7/listrik-yang-didistribusikan-kepada-pelanggan.html",
-        "https://www.archive.bps.go.id/indicator/7/314/8/listrik-yang-didistribusikan-kepada-pelanggan.html",
-        "https://www.archive.bps.go.id/indicator/7/314/9/listrik-yang-didistribusikan-kepada-pelanggan.html"
       ]
     },
     {
@@ -1557,6 +1557,12 @@
       "judul_tabel": "Listrik yang Didistribusikan Menurut Provinsi (GWh), 2011-2021",
       "update": "2023-02-15",
       "keterangan": "Statistik Dasar",
+      "url_tabel": [
+        "https://www.archive.bps.go.id/indicator/7/859/1/listrik-yang-didistribusikan-menurut-provinsi-gwh-.html",
+        "https://www.archive.bps.go.id/indicator/7/859/2/listrik-yang-didistribusikan-menurut-provinsi-gwh-.html",
+        "https://www.archive.bps.go.id/indicator/7/859/3/listrik-yang-didistribusikan-menurut-provinsi-gwh-.html",
+        "https://www.archive.bps.go.id/indicator/7/859/4/listrik-yang-didistribusikan-menurut-provinsi-gwh-.html"
+      ],
       "data_tables": [
         {
           "Provinsi": "ACEH",
@@ -2118,12 +2124,6 @@
             "": null
           }
         }
-      ],
-      "url_tabel": [
-        "https://www.archive.bps.go.id/indicator/7/859/1/listrik-yang-didistribusikan-menurut-provinsi-gwh-.html",
-        "https://www.archive.bps.go.id/indicator/7/859/2/listrik-yang-didistribusikan-menurut-provinsi-gwh-.html",
-        "https://www.archive.bps.go.id/indicator/7/859/3/listrik-yang-didistribusikan-menurut-provinsi-gwh-.html",
-        "https://www.archive.bps.go.id/indicator/7/859/4/listrik-yang-didistribusikan-menurut-provinsi-gwh-.html"
       ]
     },
     {
@@ -2131,6 +2131,12 @@
       "judul_tabel": "Tenaga Listrik yang Dibangkitkan Menurut Provinsi, 2011-2021",
       "update": "2023-02-15",
       "keterangan": "Statistik Dasar",
+      "url_tabel": [
+        "https://www.archive.bps.go.id/indicator/7/864/1/tenaga-listrik-yang-dibangkitkan-menurut-provinsi.html",
+        "https://www.archive.bps.go.id/indicator/7/864/2/tenaga-listrik-yang-dibangkitkan-menurut-provinsi.html",
+        "https://www.archive.bps.go.id/indicator/7/864/3/tenaga-listrik-yang-dibangkitkan-menurut-provinsi.html",
+        "https://www.archive.bps.go.id/indicator/7/864/4/tenaga-listrik-yang-dibangkitkan-menurut-provinsi.html"
+      ],
       "data_tables": [
         {
           "Provinsi": "ACEH",
@@ -2692,12 +2698,6 @@
             "": null
           }
         }
-      ],
-      "url_tabel": [
-        "https://www.archive.bps.go.id/indicator/7/864/1/tenaga-listrik-yang-dibangkitkan-menurut-provinsi.html",
-        "https://www.archive.bps.go.id/indicator/7/864/2/tenaga-listrik-yang-dibangkitkan-menurut-provinsi.html",
-        "https://www.archive.bps.go.id/indicator/7/864/3/tenaga-listrik-yang-dibangkitkan-menurut-provinsi.html",
-        "https://www.archive.bps.go.id/indicator/7/864/4/tenaga-listrik-yang-dibangkitkan-menurut-provinsi.html"
       ]
     },
     {
@@ -2705,6 +2705,12 @@
       "judul_tabel": "Kapasitas Terpasang Pembangkit Listrik Menurut Provinsi, 2011-2021",
       "update": "2023-02-15",
       "keterangan": "Statistik Dasar",
+      "url_tabel": [
+        "https://www.archive.bps.go.id/indicator/7/869/1/kapasitas-terpasang-pembangkit-listrik-menurut-provinsi.html",
+        "https://www.archive.bps.go.id/indicator/7/869/2/kapasitas-terpasang-pembangkit-listrik-menurut-provinsi.html",
+        "https://www.archive.bps.go.id/indicator/7/869/3/kapasitas-terpasang-pembangkit-listrik-menurut-provinsi.html",
+        "https://www.archive.bps.go.id/indicator/7/869/4/kapasitas-terpasang-pembangkit-listrik-menurut-provinsi.html"
+      ],
       "data_tables": [
         {
           "Provinsi": "ACEH",
@@ -3266,12 +3272,6 @@
             "": null
           }
         }
-      ],
-      "url_tabel": [
-        "https://www.archive.bps.go.id/indicator/7/869/1/kapasitas-terpasang-pembangkit-listrik-menurut-provinsi.html",
-        "https://www.archive.bps.go.id/indicator/7/869/2/kapasitas-terpasang-pembangkit-listrik-menurut-provinsi.html",
-        "https://www.archive.bps.go.id/indicator/7/869/3/kapasitas-terpasang-pembangkit-listrik-menurut-provinsi.html",
-        "https://www.archive.bps.go.id/indicator/7/869/4/kapasitas-terpasang-pembangkit-listrik-menurut-provinsi.html"
       ]
     },
     {
@@ -3279,6 +3279,12 @@
       "judul_tabel": "Kapasitas Produksi Potensial Perusahaan Air Bersih Menurut Provinsi , 2010-2021",
       "update": "2022-12-29",
       "keterangan": "Statistik Dasar",
+      "url_tabel": [
+        "https://www.archive.bps.go.id/indicator/7/867/1/kapasitas-produksi-potensial-perusahaan-air-bersih-menurut-provinsi-.html",
+        "https://www.archive.bps.go.id/indicator/7/867/2/kapasitas-produksi-potensial-perusahaan-air-bersih-menurut-provinsi-.html",
+        "https://www.archive.bps.go.id/indicator/7/867/3/kapasitas-produksi-potensial-perusahaan-air-bersih-menurut-provinsi-.html",
+        "https://www.archive.bps.go.id/indicator/7/867/4/kapasitas-produksi-potensial-perusahaan-air-bersih-menurut-provinsi-.html"
+      ],
       "data_tables": [
         {
           "Provinsi": "ACEH",
@@ -3840,12 +3846,6 @@
             "2011": 187065
           }
         }
-      ],
-      "url_tabel": [
-        "https://www.archive.bps.go.id/indicator/7/867/1/kapasitas-produksi-potensial-perusahaan-air-bersih-menurut-provinsi-.html",
-        "https://www.archive.bps.go.id/indicator/7/867/2/kapasitas-produksi-potensial-perusahaan-air-bersih-menurut-provinsi-.html",
-        "https://www.archive.bps.go.id/indicator/7/867/3/kapasitas-produksi-potensial-perusahaan-air-bersih-menurut-provinsi-.html",
-        "https://www.archive.bps.go.id/indicator/7/867/4/kapasitas-produksi-potensial-perusahaan-air-bersih-menurut-provinsi-.html"
       ]
     },
     {
@@ -3853,6 +3853,12 @@
       "judul_tabel": "Volume Penjualan Gas Alam Melalui Saluran Pipa Menurut Jenis Pelanggan, 2010-2021",
       "update": "2022-12-29",
       "keterangan": "Statistik Dasar",
+      "url_tabel": [
+        "https://www.archive.bps.go.id/indicator/7/861/1/volume-penjualan-gas-alam-melalui-saluran-pipa-menurut-jenis-pelanggan.html",
+        "https://www.archive.bps.go.id/indicator/7/861/2/volume-penjualan-gas-alam-melalui-saluran-pipa-menurut-jenis-pelanggan.html",
+        "https://www.archive.bps.go.id/indicator/7/861/3/volume-penjualan-gas-alam-melalui-saluran-pipa-menurut-jenis-pelanggan.html",
+        "https://www.archive.bps.go.id/indicator/7/861/4/volume-penjualan-gas-alam-melalui-saluran-pipa-menurut-jenis-pelanggan.html"
+      ],
       "data_tables": [
         {
           "Jenis_Pelanggan": "Rumah Tangga",
@@ -3950,12 +3956,6 @@
             "2011": 246723.76
           }
         }
-      ],
-      "url_tabel": [
-        "https://www.archive.bps.go.id/indicator/7/861/1/volume-penjualan-gas-alam-melalui-saluran-pipa-menurut-jenis-pelanggan.html",
-        "https://www.archive.bps.go.id/indicator/7/861/2/volume-penjualan-gas-alam-melalui-saluran-pipa-menurut-jenis-pelanggan.html",
-        "https://www.archive.bps.go.id/indicator/7/861/3/volume-penjualan-gas-alam-melalui-saluran-pipa-menurut-jenis-pelanggan.html",
-        "https://www.archive.bps.go.id/indicator/7/861/4/volume-penjualan-gas-alam-melalui-saluran-pipa-menurut-jenis-pelanggan.html"
       ]
     },
     {
@@ -3963,6 +3963,17 @@
       "judul_tabel": "Nilai Air Bersih yang Disalurkan, 1995-2021",
       "update": "2022-12-29",
       "keterangan": "Statistik Dasar",
+      "url_tabel": [
+        "https://www.archive.bps.go.id/indicator/7/324/1/nilai-air-bersih-yang-disalurkan.html",
+        "https://www.archive.bps.go.id/indicator/7/324/2/nilai-air-bersih-yang-disalurkan.html",
+        "https://www.archive.bps.go.id/indicator/7/324/3/nilai-air-bersih-yang-disalurkan.html",
+        "https://www.archive.bps.go.id/indicator/7/324/4/nilai-air-bersih-yang-disalurkan.html",
+        "https://www.archive.bps.go.id/indicator/7/324/5/nilai-air-bersih-yang-disalurkan.html",
+        "https://www.archive.bps.go.id/indicator/7/324/6/nilai-air-bersih-yang-disalurkan.html",
+        "https://www.archive.bps.go.id/indicator/7/324/7/nilai-air-bersih-yang-disalurkan.html",
+        "https://www.archive.bps.go.id/indicator/7/324/8/nilai-air-bersih-yang-disalurkan.html",
+        "https://www.archive.bps.go.id/indicator/7/324/9/nilai-air-bersih-yang-disalurkan.html"
+      ],
       "data_tables": [
         {
           "Provinsi": "ACEH",
@@ -5049,17 +5060,6 @@
             "1996": 978107
           }
         }
-      ],
-      "url_tabel": [
-        "https://www.archive.bps.go.id/indicator/7/324/1/nilai-air-bersih-yang-disalurkan.html",
-        "https://www.archive.bps.go.id/indicator/7/324/2/nilai-air-bersih-yang-disalurkan.html",
-        "https://www.archive.bps.go.id/indicator/7/324/3/nilai-air-bersih-yang-disalurkan.html",
-        "https://www.archive.bps.go.id/indicator/7/324/4/nilai-air-bersih-yang-disalurkan.html",
-        "https://www.archive.bps.go.id/indicator/7/324/5/nilai-air-bersih-yang-disalurkan.html",
-        "https://www.archive.bps.go.id/indicator/7/324/6/nilai-air-bersih-yang-disalurkan.html",
-        "https://www.archive.bps.go.id/indicator/7/324/7/nilai-air-bersih-yang-disalurkan.html",
-        "https://www.archive.bps.go.id/indicator/7/324/8/nilai-air-bersih-yang-disalurkan.html",
-        "https://www.archive.bps.go.id/indicator/7/324/9/nilai-air-bersih-yang-disalurkan.html"
       ]
     },
     {
@@ -5067,6 +5067,17 @@
       "judul_tabel": "Jumlah Pelanggan Perusahaan Air Bersih, 1995-2021",
       "update": "2022-12-29",
       "keterangan": "Statistik Dasar",
+      "url_tabel": [
+        "https://www.archive.bps.go.id/indicator/7/76/1/jumlah-pelanggan-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/76/2/jumlah-pelanggan-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/76/3/jumlah-pelanggan-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/76/4/jumlah-pelanggan-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/76/5/jumlah-pelanggan-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/76/6/jumlah-pelanggan-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/76/7/jumlah-pelanggan-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/76/8/jumlah-pelanggan-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/76/9/jumlah-pelanggan-perusahaan-air-bersih.html"
+      ],
       "data_tables": [
         {
           "Provinsi": "ACEH",
@@ -6153,17 +6164,6 @@
             "1996": 3853549
           }
         }
-      ],
-      "url_tabel": [
-        "https://www.archive.bps.go.id/indicator/7/76/1/jumlah-pelanggan-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/76/2/jumlah-pelanggan-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/76/3/jumlah-pelanggan-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/76/4/jumlah-pelanggan-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/76/5/jumlah-pelanggan-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/76/6/jumlah-pelanggan-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/76/7/jumlah-pelanggan-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/76/8/jumlah-pelanggan-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/76/9/jumlah-pelanggan-perusahaan-air-bersih.html"
       ]
     },
     {
@@ -6171,6 +6171,17 @@
       "judul_tabel": "Jumlah Pegawai Perusahaan Air Bersih, 1995-2021",
       "update": "2022-12-29",
       "keterangan": "Statistik Dasar",
+      "url_tabel": [
+        "https://www.archive.bps.go.id/indicator/7/325/1/jumlah-pegawai-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/325/2/jumlah-pegawai-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/325/3/jumlah-pegawai-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/325/4/jumlah-pegawai-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/325/5/jumlah-pegawai-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/325/6/jumlah-pegawai-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/325/7/jumlah-pegawai-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/325/8/jumlah-pegawai-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/325/9/jumlah-pegawai-perusahaan-air-bersih.html"
+      ],
       "data_tables": [
         {
           "Provinsi": "ACEH",
@@ -7257,17 +7268,6 @@
             "1996": 37447
           }
         }
-      ],
-      "url_tabel": [
-        "https://www.archive.bps.go.id/indicator/7/325/1/jumlah-pegawai-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/325/2/jumlah-pegawai-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/325/3/jumlah-pegawai-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/325/4/jumlah-pegawai-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/325/5/jumlah-pegawai-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/325/6/jumlah-pegawai-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/325/7/jumlah-pegawai-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/325/8/jumlah-pegawai-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/325/9/jumlah-pegawai-perusahaan-air-bersih.html"
       ]
     },
     {
@@ -7275,6 +7275,17 @@
       "judul_tabel": "Jumlah Air Bersih yang Disalurkan Perusahaan Air Bersih, 1995-2021",
       "update": "2022-12-29",
       "keterangan": "Statistik Dasar",
+      "url_tabel": [
+        "https://www.archive.bps.go.id/indicator/7/115/1/jumlah-air-bersih-yang-disalurkan-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/115/2/jumlah-air-bersih-yang-disalurkan-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/115/3/jumlah-air-bersih-yang-disalurkan-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/115/4/jumlah-air-bersih-yang-disalurkan-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/115/5/jumlah-air-bersih-yang-disalurkan-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/115/6/jumlah-air-bersih-yang-disalurkan-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/115/7/jumlah-air-bersih-yang-disalurkan-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/115/8/jumlah-air-bersih-yang-disalurkan-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/115/9/jumlah-air-bersih-yang-disalurkan-perusahaan-air-bersih.html"
+      ],
       "data_tables": [
         {
           "Provinsi": "ACEH",
@@ -8361,17 +8372,6 @@
             "1996": 1454166
           }
         }
-      ],
-      "url_tabel": [
-        "https://www.archive.bps.go.id/indicator/7/115/1/jumlah-air-bersih-yang-disalurkan-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/115/2/jumlah-air-bersih-yang-disalurkan-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/115/3/jumlah-air-bersih-yang-disalurkan-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/115/4/jumlah-air-bersih-yang-disalurkan-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/115/5/jumlah-air-bersih-yang-disalurkan-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/115/6/jumlah-air-bersih-yang-disalurkan-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/115/7/jumlah-air-bersih-yang-disalurkan-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/115/8/jumlah-air-bersih-yang-disalurkan-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/115/9/jumlah-air-bersih-yang-disalurkan-perusahaan-air-bersih.html"
       ]
     },
     {
@@ -8379,6 +8379,15 @@
       "judul_tabel": "Indikator Penting Perusahaan Gas, 2000-2021",
       "update": "2022-12-29",
       "keterangan": "Statistik Dasar",
+      "url_tabel": [
+        "https://www.archive.bps.go.id/indicator/7/876/1/indikator-penting-perusahaan-gas.html",
+        "https://www.archive.bps.go.id/indicator/7/876/2/indikator-penting-perusahaan-gas.html",
+        "https://www.archive.bps.go.id/indicator/7/876/3/indikator-penting-perusahaan-gas.html",
+        "https://www.archive.bps.go.id/indicator/7/876/4/indikator-penting-perusahaan-gas.html",
+        "https://www.archive.bps.go.id/indicator/7/876/5/indikator-penting-perusahaan-gas.html",
+        "https://www.archive.bps.go.id/indicator/7/876/6/indikator-penting-perusahaan-gas.html",
+        "https://www.archive.bps.go.id/indicator/7/876/7/indikator-penting-perusahaan-gas.html"
+      ],
       "data_tables": [
         {
           "Indikator_Penting_Perusahaan_Gas": {
@@ -8625,15 +8634,6 @@
             "2002": 2715000
           }
         }
-      ],
-      "url_tabel": [
-        "https://www.archive.bps.go.id/indicator/7/876/1/indikator-penting-perusahaan-gas.html",
-        "https://www.archive.bps.go.id/indicator/7/876/2/indikator-penting-perusahaan-gas.html",
-        "https://www.archive.bps.go.id/indicator/7/876/3/indikator-penting-perusahaan-gas.html",
-        "https://www.archive.bps.go.id/indicator/7/876/4/indikator-penting-perusahaan-gas.html",
-        "https://www.archive.bps.go.id/indicator/7/876/5/indikator-penting-perusahaan-gas.html",
-        "https://www.archive.bps.go.id/indicator/7/876/6/indikator-penting-perusahaan-gas.html",
-        "https://www.archive.bps.go.id/indicator/7/876/7/indikator-penting-perusahaan-gas.html"
       ]
     },
     {
@@ -8641,6 +8641,15 @@
       "judul_tabel": "Indikator Penting Perusahaan Air Bersih, 2000-2021",
       "update": "2022-12-29",
       "keterangan": "Statistik Dasar",
+      "url_tabel": [
+        "https://www.archive.bps.go.id/indicator/7/873/1/indikator-penting-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/873/2/indikator-penting-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/873/3/indikator-penting-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/873/4/indikator-penting-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/873/5/indikator-penting-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/873/6/indikator-penting-perusahaan-air-bersih.html",
+        "https://www.archive.bps.go.id/indicator/7/873/7/indikator-penting-perusahaan-air-bersih.html"
+      ],
       "data_tables": [
         {
           "Indikator_Penting_Perusahaan_Air_Bersih": {
@@ -8978,15 +8987,6 @@
             "2002": null
           }
         }
-      ],
-      "url_tabel": [
-        "https://www.archive.bps.go.id/indicator/7/873/1/indikator-penting-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/873/2/indikator-penting-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/873/3/indikator-penting-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/873/4/indikator-penting-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/873/5/indikator-penting-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/873/6/indikator-penting-perusahaan-air-bersih.html",
-        "https://www.archive.bps.go.id/indicator/7/873/7/indikator-penting-perusahaan-air-bersih.html"
       ]
     },
     {
@@ -8994,6 +8994,11 @@
       "judul_tabel": "Bauran Energi Terbarukan, 2015-2021",
       "update": "2022-05-12",
       "keterangan": "Statistik Sektoral",
+      "url_tabel": [
+        "https://www.archive.bps.go.id/indicator/7/1824/1/bauran-energi-terbarukan.html",
+        "https://www.archive.bps.go.id/indicator/7/1824/2/bauran-energi-terbarukan.html",
+        "https://www.archive.bps.go.id/indicator/7/1824/3/bauran-energi-terbarukan.html"
+      ],
       "data_tables": [
         {
           "Indonesia": "Indonesia",
@@ -9008,11 +9013,6 @@
             "": null
           }
         }
-      ],
-      "url_tabel": [
-        "https://www.archive.bps.go.id/indicator/7/1824/1/bauran-energi-terbarukan.html",
-        "https://www.archive.bps.go.id/indicator/7/1824/2/bauran-energi-terbarukan.html",
-        "https://www.archive.bps.go.id/indicator/7/1824/3/bauran-energi-terbarukan.html"
       ]
     },
     {
@@ -9020,6 +9020,12 @@
       "judul_tabel": "Konsumsi Listrik per Kapita, 2009-2020",
       "update": "2021-11-08",
       "keterangan": "Statistik Sektoral",
+      "url_tabel": [
+        "https://www.archive.bps.go.id/indicator/7/1156/1/konsumsi-listrik-per-kapita.html",
+        "https://www.archive.bps.go.id/indicator/7/1156/2/konsumsi-listrik-per-kapita.html",
+        "https://www.archive.bps.go.id/indicator/7/1156/3/konsumsi-listrik-per-kapita.html",
+        "https://www.archive.bps.go.id/indicator/7/1156/4/konsumsi-listrik-per-kapita.html"
+      ],
       "data_tables": [
         {
           "Wilayah": "Indonesia",
@@ -9038,12 +9044,6 @@
             "2011": 0.74
           }
         }
-      ],
-      "url_tabel": [
-        "https://www.archive.bps.go.id/indicator/7/1156/1/konsumsi-listrik-per-kapita.html",
-        "https://www.archive.bps.go.id/indicator/7/1156/2/konsumsi-listrik-per-kapita.html",
-        "https://www.archive.bps.go.id/indicator/7/1156/3/konsumsi-listrik-per-kapita.html",
-        "https://www.archive.bps.go.id/indicator/7/1156/4/konsumsi-listrik-per-kapita.html"
       ]
     },
     {
@@ -9051,6 +9051,10 @@
       "judul_tabel": "Jumlah sambungan jaringan gas untuk rumah tangga, 2015-2020",
       "update": "2021-11-08",
       "keterangan": "Statistik Sektoral",
+      "url_tabel": [
+        "https://www.archive.bps.go.id/indicator/7/1786/1/jumlah-sambungan-jaringan-gas-untuk-rumah-tangga.html",
+        "https://www.archive.bps.go.id/indicator/7/1786/2/jumlah-sambungan-jaringan-gas-untuk-rumah-tangga.html"
+      ],
       "data_tables": [
         {
           "Sambungan_Jaringan_Gas_Rumah": "Tambahan",
@@ -9074,10 +9078,6 @@
             "2017": 373190
           }
         }
-      ],
-      "url_tabel": [
-        "https://www.archive.bps.go.id/indicator/7/1786/1/jumlah-sambungan-jaringan-gas-untuk-rumah-tangga.html",
-        "https://www.archive.bps.go.id/indicator/7/1786/2/jumlah-sambungan-jaringan-gas-untuk-rumah-tangga.html"
       ]
     },
     {
@@ -9085,6 +9085,12 @@
       "judul_tabel": "Rasio Elektrifikasi, 2009-2020",
       "update": "2021-11-08",
       "keterangan": "Statistik Sektoral",
+      "url_tabel": [
+        "https://www.archive.bps.go.id/indicator/7/1155/1/rasio-elektrifikasi.html",
+        "https://www.archive.bps.go.id/indicator/7/1155/2/rasio-elektrifikasi.html",
+        "https://www.archive.bps.go.id/indicator/7/1155/3/rasio-elektrifikasi.html",
+        "https://www.archive.bps.go.id/indicator/7/1155/4/rasio-elektrifikasi.html"
+      ],
       "data_tables": [
         {
           "Wilayah": "Indonesia",
@@ -9103,12 +9109,6 @@
             "2011": 72.95
           }
         }
-      ],
-      "url_tabel": [
-        "https://www.archive.bps.go.id/indicator/7/1155/1/rasio-elektrifikasi.html",
-        "https://www.archive.bps.go.id/indicator/7/1155/2/rasio-elektrifikasi.html",
-        "https://www.archive.bps.go.id/indicator/7/1155/3/rasio-elektrifikasi.html",
-        "https://www.archive.bps.go.id/indicator/7/1155/4/rasio-elektrifikasi.html"
       ]
     },
     {
@@ -9116,6 +9116,10 @@
       "judul_tabel": "Intensitas Energi Primer, 2014-2018",
       "update": "2020-04-01",
       "keterangan": "Statistik Sektoral",
+      "url_tabel": [
+        "https://www.archive.bps.go.id/indicator/7/1808/1/intensitas-energi-primer.html",
+        "https://www.archive.bps.go.id/indicator/7/1808/2/intensitas-energi-primer.html"
+      ],
       "data_tables": [
         {
           "Intensitas_Energi_Primer": "Intensitas Energi Primer",
@@ -9127,10 +9131,6 @@
             "2015": 145.3
           }
         }
-      ],
-      "url_tabel": [
-        "https://www.archive.bps.go.id/indicator/7/1808/1/intensitas-energi-primer.html",
-        "https://www.archive.bps.go.id/indicator/7/1808/2/intensitas-energi-primer.html"
       ]
     },
     {
@@ -9138,6 +9138,11 @@
       "judul_tabel": "Proporsi Pasokan Energi Primer, 2009-2016",
       "update": "2018-05-16",
       "keterangan": "Statistik Sektoral",
+      "url_tabel": [
+        "https://www.archive.bps.go.id/indicator/7/1158/1/proporsi-pasokan-energi-primer.html",
+        "https://www.archive.bps.go.id/indicator/7/1158/2/proporsi-pasokan-energi-primer.html",
+        "https://www.archive.bps.go.id/indicator/7/1158/3/proporsi-pasokan-energi-primer.html"
+      ],
       "data_tables": [
         {
           "Jenis_Energi": "Minyak",
@@ -9230,11 +9235,6 @@
             "2010": 0.01
           }
         }
-      ],
-      "url_tabel": [
-        "https://www.archive.bps.go.id/indicator/7/1158/1/proporsi-pasokan-energi-primer.html",
-        "https://www.archive.bps.go.id/indicator/7/1158/2/proporsi-pasokan-energi-primer.html",
-        "https://www.archive.bps.go.id/indicator/7/1158/3/proporsi-pasokan-energi-primer.html"
       ]
     },
     {
@@ -9242,6 +9242,14 @@
       "judul_tabel": "Pekerja Teknik dan Administrasi PLN, 1995-2012",
       "update": "2016-01-05",
       "keterangan": "Statistik Sektoral",
+      "url_tabel": [
+        "https://www.archive.bps.go.id/indicator/7/322/1/pekerja-teknik-dan-administrasi-pln.html",
+        "https://www.archive.bps.go.id/indicator/7/322/2/pekerja-teknik-dan-administrasi-pln.html",
+        "https://www.archive.bps.go.id/indicator/7/322/3/pekerja-teknik-dan-administrasi-pln.html",
+        "https://www.archive.bps.go.id/indicator/7/322/4/pekerja-teknik-dan-administrasi-pln.html",
+        "https://www.archive.bps.go.id/indicator/7/322/5/pekerja-teknik-dan-administrasi-pln.html",
+        "https://www.archive.bps.go.id/indicator/7/322/6/pekerja-teknik-dan-administrasi-pln.html"
+      ],
       "data_tables": [
         {
           "Pekerja_PLN": "Teknik",
@@ -9312,14 +9320,6 @@
             "1997": 50424.0
           }
         }
-      ],
-      "url_tabel": [
-        "https://www.archive.bps.go.id/indicator/7/322/1/pekerja-teknik-dan-administrasi-pln.html",
-        "https://www.archive.bps.go.id/indicator/7/322/2/pekerja-teknik-dan-administrasi-pln.html",
-        "https://www.archive.bps.go.id/indicator/7/322/3/pekerja-teknik-dan-administrasi-pln.html",
-        "https://www.archive.bps.go.id/indicator/7/322/4/pekerja-teknik-dan-administrasi-pln.html",
-        "https://www.archive.bps.go.id/indicator/7/322/5/pekerja-teknik-dan-administrasi-pln.html",
-        "https://www.archive.bps.go.id/indicator/7/322/6/pekerja-teknik-dan-administrasi-pln.html"
       ]
     },
     {
@@ -9327,6 +9327,13 @@
       "judul_tabel": "Perkembangan Beberapa Indikator Hasil Gas Kota Disalurkan oleh PT. PGN (Persero), 2000-2012",
       "update": "2016-01-05",
       "keterangan": "Statistik Sektoral",
+      "url_tabel": [
+        "https://www.archive.bps.go.id/indicator/7/323/1/perkembangan-beberapa-indikator-hasil-gas-kota-disalurkan-oleh-pt-pgn-persero-.html",
+        "https://www.archive.bps.go.id/indicator/7/323/2/perkembangan-beberapa-indikator-hasil-gas-kota-disalurkan-oleh-pt-pgn-persero-.html",
+        "https://www.archive.bps.go.id/indicator/7/323/3/perkembangan-beberapa-indikator-hasil-gas-kota-disalurkan-oleh-pt-pgn-persero-.html",
+        "https://www.archive.bps.go.id/indicator/7/323/4/perkembangan-beberapa-indikator-hasil-gas-kota-disalurkan-oleh-pt-pgn-persero-.html",
+        "https://www.archive.bps.go.id/indicator/7/323/5/perkembangan-beberapa-indikator-hasil-gas-kota-disalurkan-oleh-pt-pgn-persero-.html"
+      ],
       "data_tables": [
         {
           "Indikator_Hasil_Gas_Kota": "Distribusi/ Penjualan Gas Kota (MMSCF)",
@@ -9385,13 +9392,6 @@
             "": null
           }
         }
-      ],
-      "url_tabel": [
-        "https://www.archive.bps.go.id/indicator/7/323/1/perkembangan-beberapa-indikator-hasil-gas-kota-disalurkan-oleh-pt-pgn-persero-.html",
-        "https://www.archive.bps.go.id/indicator/7/323/2/perkembangan-beberapa-indikator-hasil-gas-kota-disalurkan-oleh-pt-pgn-persero-.html",
-        "https://www.archive.bps.go.id/indicator/7/323/3/perkembangan-beberapa-indikator-hasil-gas-kota-disalurkan-oleh-pt-pgn-persero-.html",
-        "https://www.archive.bps.go.id/indicator/7/323/4/perkembangan-beberapa-indikator-hasil-gas-kota-disalurkan-oleh-pt-pgn-persero-.html",
-        "https://www.archive.bps.go.id/indicator/7/323/5/perkembangan-beberapa-indikator-hasil-gas-kota-disalurkan-oleh-pt-pgn-persero-.html"
       ]
     },
     {
@@ -9399,8 +9399,8 @@
       "judul_tabel": "Kapasitas Terpasang, Tenaga Listrik yang Dibangkitkan, dan Listrik yang Didistribusikan Menurut Provinsi, 2014-2015",
       "update": "2017-11-24",
       "keterangan": "Statistik Dasar",
-      "data_tables": [],
-      "url_tabel": []
+      "url_tabel": [],
+      "data_tables": []
     }
   ]
 }

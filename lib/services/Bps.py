@@ -100,8 +100,8 @@ class Bps:
                 
 
             self.__result['data'][i].update({
-                'data_tables': data_tables,
-                'url_tabel': url_tables
+                'url_tabel': url_tables,
+                'data_tables': data_tables
             });
 
             # break;
