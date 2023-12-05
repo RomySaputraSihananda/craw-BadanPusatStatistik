@@ -141,7 +141,7 @@ class Bps:
                 'data_tables': data_tables
             });
 
-            break;
+            # break;
 
         return self.__result;
 
