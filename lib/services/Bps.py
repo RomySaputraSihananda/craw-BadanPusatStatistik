@@ -1,8 +1,7 @@
-import re;
-
 from requests import Session, Response;
 from pyquery import PyQuery;
 from json import dumps;
+from typing import Union;
 
 from ..helpers.Parser import Parser;
 from ..helpers.Hasher import Hasher;
@@ -40,7 +39,7 @@ class Bps:
 
         return urls;
 
-    def __str_2_num(self, text: str) -> str:
+    def __str_2_num(self, text: str) -> Union[int, float, None]:
         text = text.replace(',', '.').replace('\u2009', '').replace(' ', '');
 
         try:
@@ -50,30 +49,37 @@ class Bps:
 
         return number;
 
-    def __get_data_table(self, url: str) -> None:
+    def __get_data_table(self, url: str) -> list[dict]:
         data_tables: list[dict] = [];
         url_tables: list[str] = [];
-        j = 1;
+        j: int = 1;
 
         while(True):
-            newUrl = url.split('/');
-            newUrl[6] = str(j);
+            # build url per page
+            newUrl: list[str] = url.split('/');
+            newUrl[6]: list[str] = str(j);
 
+            # ambil content 
             res: Response = self.__request.get('/'.join(newUrl));
             
             j += 1;
 
+            # jika page sudah habis
             if(res.status_code != 200): break;
+
             print('/'.join(newUrl))
 
             url_tables.append('/'.join(newUrl));
 
             table: PyQuery = self.__parser.execute(res.text, '#tablex');
             
+            # jika jumlah header 2
             if (not len(table('thead tr')) > 2):
+                # get header
                 headers: list[str] = [PyQuery(th).text().replace(' ', '_') for th in table('thead tr:first-child th')]
                 years: list[str] = [PyQuery(th).text() for th in table('thead tr:last-child th')]
 
+                # looping setiap row
                 for tr in table('tbody tr'):
                     data_table = {
                         'judul_tabel':  self.__parser.execute(res.text, 'h4').text(),
@@ -84,8 +90,10 @@ class Bps:
                         }
                     }
                     
+                    # cek jika data sudah ada
                     existing_data = next((item for item in data_tables if item.get(headers[0]) == data_table[headers[0]]), None)
 
+                    # jika sudah ada akan diupdate
                     if existing_data:
                         existing_data[headers[-1]].update(data_table[headers[-1]])
                     else:
@@ -93,10 +101,12 @@ class Bps:
                 
                 continue;
             
+            # get header
             headers: list[str] = [PyQuery(th).text().replace(' ', '_') for th in table('thead tr:first-child th')]
             col_keys: list[str] = [PyQuery(th).text().replace(' ', '_') for th in table('thead tr:nth-child(2) th')]
             years: list[str] = [PyQuery(th).text() for th in table('thead tr:last-child th')]
 
+            # looping setiap row
             for tr in table('tbody tr'):
                 data_table = {
                     'judul_tabel':  self.__parser.execute(res.text, 'h4').text(),
@@ -108,9 +118,11 @@ class Bps:
                         }for j, col_key in enumerate(col_keys)
                     }
                 }
-            
+                
+                # cek jika data sudah ada   
                 existing_data = next((item for item in data_tables if item.get(headers[0]) == data_table[headers[0]]), None)
 
+                # jika sudah ada akan diupdate
                 if existing_data:
                     for col_key in col_keys:
                         try:
@@ -124,36 +136,41 @@ class Bps:
                     data_tables.append(data_table)
 
             # break;
-                
+
         return [url_tables, data_tables];
 
-    def execute(self, url: str) -> str:
+    # main function
+    def execute(self, url: str) -> dict:
+        # ambil content 
         res: Response = self.__request.get(url);
 
+        # jika page tidak ada
         if(res.status_code != 200): return;
 
         parser: PyQuery = self.__parser.execute(res.text, 'body');
 
-        self.__result['title'] = parser('.breadcrumbs span').text();
-        self.__result['date_now'] = self.__datetime.now();
-        self.__result['url'] = url.replace('#subjekViewTab3', '');
+        # set title dll
+        self.__result['title']: str = parser('.breadcrumbs span').text();
+        self.__result['date_now']: str = self.__datetime.now();
+        self.__result['url']: str = url.replace('#subjekViewTab3', '');
 
+        # get list urls
         urls: list[str] = self.__filter_link(parser('#listTabel1 tbody'));
 
+        # looping urls
         for i, url in enumerate(urls):
-            [url_tables, data_tables] =  self.__get_data_table(url);
+            # destructuring list 
+            [url_tables, data_tables]: [list[str], dict] =  self.__get_data_table(url);
 
+            # set data
             self.__result['data'][i].update({
                 'url_tabel': url_tables,
                 'data_tables': data_tables
             });
 
-            break;
+            # break;
 
         return self.__result;
-
-    def test(self):
-        return [1,2,3];
 
 # testing
 if(__name__ == '__main__'):

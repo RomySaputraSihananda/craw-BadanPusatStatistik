@@ -1,13 +1,13 @@
 {
   "title": "Komunikasi",
   "url": "https://www.archive.bps.go.id/subject/2/komunikasi.html",
-  "date_now": "2023-12-05T15:30:10",
+  "date_now": "2023-12-05T19:08:50",
   "data": [
     {
-      "id": "2266ad73b753697e187fe23aca8a91bf",
-      "judul_tabel": "Rasio Penggunaan Gas Rumah Tangga, 2015-2022",
-      "update": "2023-03-06",
-      "keterangan": "Statistik Sektoral",
+      "id": "b5d5d9d3851d576d2ce42234e21951a5",
+      "judul_tabel": "Volume Ekspor Migas-NonMigas, 2012-2023",
+      "update": "2023-12-01",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1699/1/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-kemampuan-membaca.html",
         "https://www.archive.bps.go.id/indicator/2/1699/2/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-kemampuan-membaca.html",
@@ -997,9 +997,9 @@
       ]
     },
     {
-      "id": "c4f897199331d48a690795013a38f4ab",
-      "judul_tabel": "Indikator Penting Perusahaan Listrik, 2000-2021",
-      "update": "2023-02-15",
+      "id": "bdeb4f3a22407a3bd30a7195811ebabf",
+      "judul_tabel": "Nilai Ekspor Migas-NonMigas, 1975-2023",
+      "update": "2023-12-01",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1707/1/persentase-penduduk-usia-10-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-lapangan-usaha-utama.html",
@@ -7103,9 +7103,9 @@
       ]
     },
     {
-      "id": "3d8b4170c888c4c93eac17d47517b84e",
-      "judul_tabel": "Kapasitas Terpasang PLN menurut Jenis Pembangkit Listrik, 1995-2021",
-      "update": "2023-02-15",
+      "id": "d0d12c969dc1ab3255c51838ce45788e",
+      "judul_tabel": "Nilai Ekspor, 2009-2023",
+      "update": "2023-12-01",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/432/1/persentase-penduduk-usia-10-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-kelompok-lapangan-usaha.html",
@@ -11884,9 +11884,9 @@
       ]
     },
     {
-      "id": "29c0089c5fd783fcb41f600377facc14",
-      "judul_tabel": "Pelanggan Perusahaan Listrik Negara, 1995-2021",
-      "update": "2023-02-15",
+      "id": "a9d75e10a501e19ebee6ae5845240b91",
+      "judul_tabel": "Indeks Unit Value Ekspor Bulanan menurut Kode SITC 3 Digit (2018=100), 2014-2023",
+      "update": "2023-11-23",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/425/1/persentase-penduduk-usia-10-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-jenis-kegiatan-utama.html",
@@ -13928,9 +13928,9 @@
       ]
     },
     {
-      "id": "ca7fce87d1f010cb9e16431d97a87ef4",
-      "judul_tabel": "Listrik Yang Didistribusikan Kepada Pelanggan, 1995-2021",
-      "update": "2023-02-15",
+      "id": "4d5dc79d7745fdc2bf78c03624a8ffcb",
+      "judul_tabel": "Volume Impor Migas-NonMigas, 2012-2023",
+      "update": "2023-11-15",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1700/1/persentase-penduduk-usia-10-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-status-pekerjaan.html",
@@ -16461,9 +16461,9 @@
       ]
     },
     {
-      "id": "89115ec8b39c7bbe4c276ac4ac6cb896",
-      "judul_tabel": "Listrik yang Didistribusikan Menurut Provinsi (GWh), 2011-2021",
-      "update": "2023-02-15",
+      "id": "5836a61e4bb83ad9e47e80c09b86b821",
+      "judul_tabel": "Nilai Impor Migas-NonMigas, 1975-2023",
+      "update": "2023-11-15",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1698/1/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-jenjang-pendidikan-yang-sedang-diduduki.html",
@@ -18609,10 +18609,10 @@
       ]
     },
     {
-      "id": "bde056c3b0444f53b5861de6b06bbcfd",
-      "judul_tabel": "Tenaga Listrik yang Dibangkitkan Menurut Provinsi, 2011-2021",
-      "update": "2023-02-15",
-      "keterangan": "Statistik Dasar",
+      "id": "b0a95f13fa34bb28890c1dd60cd88654",
+      "judul_tabel": "Nilai Neraca Perdagangan, 2015-2023",
+      "update": "2023-11-15",
+      "keterangan": "",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/860/1/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-jenjang-pendidikan-tertinggi-yang-ditamatkan.html",
         "https://www.archive.bps.go.id/indicator/2/860/2/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-jenjang-pendidikan-tertinggi-yang-ditamatkan.html",
@@ -18738,10 +18738,10 @@
       ]
     },
     {
-      "id": "fa9879336aebbc46887a94b810532c1d",
-      "judul_tabel": "Kapasitas Terpasang Pembangkit Listrik Menurut Provinsi, 2011-2021",
-      "update": "2023-02-15",
-      "keterangan": "Statistik Dasar",
+      "id": "fdd8da0bcb37ecd683c011029869bdba",
+      "judul_tabel": "Nilai Impor, 2015-2023",
+      "update": "2023-11-15",
+      "keterangan": "",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/840/1/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-kelompok-umur.html",
         "https://www.archive.bps.go.id/indicator/2/840/2/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-kelompok-umur.html",
@@ -18848,9 +18848,9 @@
       ]
     },
     {
-      "id": "260fc9c6f8019be3f077a66c6d224c80",
-      "judul_tabel": "Kapasitas Produksi Potensial Perusahaan Air Bersih Menurut Provinsi , 2010-2021",
-      "update": "2022-12-29",
+      "id": "eb498189956de4ce894bd436c69edd35",
+      "judul_tabel": "Nilai Ekspor Menurut Golongan SITC, 2010-2022",
+      "update": "2023-07-24",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/391/1/persentase-rumah-tangga-yang-memiliki-menguasai-telepon-seluler-menurut-provinsi-dan-klasifikasi-daerah.html",
@@ -20964,9 +20964,9 @@
       ]
     },
     {
-      "id": "8bfd0fddd754dafc9f2921d847403597",
-      "judul_tabel": "Volume Penjualan Gas Alam Melalui Saluran Pipa Menurut Jenis Pelanggan, 2010-2021",
-      "update": "2022-12-29",
+      "id": "e675bbf11caaaf6910f9604ea08910f1",
+      "judul_tabel": "Volume Ekspor Menurut Golongan SITC, 2010-2022",
+      "update": "2023-07-24",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/111/1/persentase-rumah-tangga-yang-memiliki-menguasai-telepon-tetap-kabel-menurut-provinsi-dan-klasifikasi-daerah.html",
@@ -23080,10 +23080,10 @@
       ]
     },
     {
-      "id": "8af044e619384f4c18d7c792ec4b82bd",
-      "judul_tabel": "Nilai Air Bersih yang Disalurkan, 1995-2021",
-      "update": "2022-12-29",
-      "keterangan": "Statistik Dasar",
+      "id": "b6036f15e9c9b214b454e3a7709f86d3",
+      "judul_tabel": "Neraca Perdagangan beberapa Negara, 2000-2022",
+      "update": "2023-07-24",
+      "keterangan": "Statistik Sektoral",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/70/1/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-jenis-kelamin.html",
         "https://www.archive.bps.go.id/indicator/2/70/2/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-jenis-kelamin.html",
@@ -24073,9 +24073,9 @@
       ]
     },
     {
-      "id": "77dc47d2e85c019ebd3d5087d3d13dea",
-      "judul_tabel": "Jumlah Pelanggan Perusahaan Air Bersih, 1995-2021",
-      "update": "2022-12-29",
+      "id": "35c321268f75a81c309aae7d1d44584e",
+      "judul_tabel": "Volume (Migas-NonMigas), 1990-2022",
+      "update": "2023-07-24",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/429/1/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-untuk-kelompok-umur-25-tahun-menurut-provinsi-dan-jenis-kelamin.html",
@@ -25451,9 +25451,9 @@
       ]
     },
     {
-      "id": "ad77026c3ad2e365bbe61ea561cbaaca",
-      "judul_tabel": "Jumlah Pegawai Perusahaan Air Bersih, 1995-2021",
-      "update": "2022-12-29",
+      "id": "8806bf858e588821144f6c0809a551ab",
+      "judul_tabel": "Nilai (Migas-NonMigas), 1975-2022",
+      "update": "2023-07-24",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/428/1/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-untuk-kelompok-umur-19-24-tahun-menurut-provinsi-dan-jenis-kelamin.html",
@@ -26829,9 +26829,9 @@
       ]
     },
     {
-      "id": "1ff69d30ce4e35e99f70bdee4ca19229",
-      "judul_tabel": "Jumlah Air Bersih yang Disalurkan Perusahaan Air Bersih, 1995-2021",
-      "update": "2022-12-29",
+      "id": "4dfa89dbd46545f2bc8efed97cea5a88",
+      "judul_tabel": "Volume Impor Menurut Golongan SITC, 2010-2022",
+      "update": "2023-07-21",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/427/1/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-untuk-kelompok-umur-16-18-tahun-menurut-provinsi-dan-jenis-kelamin.html",
@@ -28207,9 +28207,9 @@
       ]
     },
     {
-      "id": "fa47a27b3e6afa6b73eb6d2a263137c6",
-      "judul_tabel": "Indikator Penting Perusahaan Gas, 2000-2021",
-      "update": "2022-12-29",
+      "id": "3f1e91f43f5e6295594c0cd9f54e43c9",
+      "judul_tabel": "Nilai Impor Menurut Golongan SITC, 2010-2022",
+      "update": "2023-03-06",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/426/1/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-untuk-kelompok-umur-13-15-tahun-menurut-provinsi-dan-jenis-kelamin.html",
@@ -29585,9 +29585,9 @@
       ]
     },
     {
-      "id": "17ecbbe1a32a50479e14174e99e452d2",
-      "judul_tabel": "Indikator Penting Perusahaan Air Bersih, 2000-2021",
-      "update": "2022-12-29",
+      "id": "95969e04cbec09956e0b5dd3d6ad86cf",
+      "judul_tabel": "Nilai Impor (Nilai CIF) Menurut Golongan Penggunaan Barang, 1989-2022",
+      "update": "2023-03-06",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/424/1/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-untuk-kelompok-umur-5-12-tahun-menurut-provinsi-dan-jenis-kelamin.html",
@@ -30963,10 +30963,10 @@
       ]
     },
     {
-      "id": "f754279ca9a1a244450dc1f34d230849",
-      "judul_tabel": "Bauran Energi Terbarukan, 2015-2021",
-      "update": "2022-05-12",
-      "keterangan": "Statistik Sektoral",
+      "id": "348b337fe820182771c890ea4a5e105d",
+      "judul_tabel": "Volume Impor (Berat Bersih) Menurut Golongan Penggunaan Barang, 1989-2022",
+      "update": "2023-03-06",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/423/1/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-jenjang-pendidikan-tertinggi-yang-ditamatkan.html",
         "https://www.archive.bps.go.id/indicator/2/423/2/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-jenjang-pendidikan-tertinggi-yang-ditamatkan.html",
@@ -33917,10 +33917,10 @@
       ]
     },
     {
-      "id": "1aeb6b114b382e6a243058ff18a7a68f",
-      "judul_tabel": "Konsumsi Listrik per Kapita, 2009-2020",
-      "update": "2021-11-08",
-      "keterangan": "Statistik Sektoral",
+      "id": "4ae7477829268a00efcb0572e65b302b",
+      "judul_tabel": "Pertumbuhan Ekspor Produk Non Migas, 2009-2021",
+      "update": "2022-07-15",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/420/1/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-kelompok-umur.html",
         "https://www.archive.bps.go.id/indicator/2/420/2/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-kelompok-umur.html",
@@ -36416,10 +36416,10 @@
       ]
     },
     {
-      "id": "6b51ad822fa50d8bf8bb1dd16bf79594",
-      "judul_tabel": "Jumlah sambungan jaringan gas untuk rumah tangga, 2015-2020",
-      "update": "2021-11-08",
-      "keterangan": "Statistik Sektoral",
+      "id": "c7d8b7ae3776caa27739a4e14dd3059f",
+      "judul_tabel": "Indeks Unit Value Ekspor Bulanan menurut Kode SITC 3 Digit (2013=100), 2014-2020",
+      "update": "2021-02-18",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/403/1/rata-rata-banyaknya-anggota-rumah-tangga-yang-pernah-mengakses-internet-dari-rumah-tangga-yang-pernah-mengkases-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-klasifikasi-daerah.html",
         "https://www.archive.bps.go.id/indicator/2/403/2/rata-rata-banyaknya-anggota-rumah-tangga-yang-pernah-mengakses-internet-dari-rumah-tangga-yang-pernah-mengkases-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-klasifikasi-daerah.html",
@@ -38005,10 +38005,10 @@
       ]
     },
     {
-      "id": "0b771cb1b66b34d23cff4cb0d22493da",
-      "judul_tabel": "Rasio Elektrifikasi, 2009-2020",
-      "update": "2021-11-08",
-      "keterangan": "Statistik Sektoral",
+      "id": "b85da136ab4c67007aa20b360db39d83",
+      "judul_tabel": "Ekspor Barang Perhiasan dan Barang Berharga Menurut Negara Tujuan Utama, 2012-2022",
+      "update": "2023-07-26",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/398/1/persentase-rumah-tangga-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-klasifikasi-daerah.html",
         "https://www.archive.bps.go.id/indicator/2/398/2/persentase-rumah-tangga-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-klasifikasi-daerah.html",
@@ -39910,10 +39910,10 @@
       ]
     },
     {
-      "id": "ae0822f2417ca8efc1d7c9a2612e3e75",
-      "judul_tabel": "Intensitas Energi Primer, 2014-2018",
-      "update": "2020-04-01",
-      "keterangan": "Statistik Sektoral",
+      "id": "887d79b7445ff610d1179ee0a2871d92",
+      "judul_tabel": "Ekspor Batu Bara Menurut Negara Tujuan Utama, 2012-2022",
+      "update": "2023-07-26",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/396/1/persentase-rumah-tangga-yang-memiliki-menguasai-komputer-menurut-provinsi-dan-klasifikasi-daerah.html",
         "https://www.archive.bps.go.id/indicator/2/396/2/persentase-rumah-tangga-yang-memiliki-menguasai-komputer-menurut-provinsi-dan-klasifikasi-daerah.html",
@@ -41499,10 +41499,10 @@
       ]
     },
     {
-      "id": "7567490dcf877438a924b37213ebaee6",
-      "judul_tabel": "Proporsi Pasokan Energi Primer, 2009-2016",
-      "update": "2018-05-16",
-      "keterangan": "Statistik Sektoral",
+      "id": "ee27b6b6441a867fd9d8374e964c3de8",
+      "judul_tabel": "Ekspor Besi/Baja Menurut Negara Tujuan Utama, 2012-2022",
+      "update": "2023-07-26",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/395/1/persentase-penduduk-yang-memiliki-menguasai-telepon-seluler-menurut-provinsi-dan-klasifikasi-daerah.html",
         "https://www.archive.bps.go.id/indicator/2/395/2/persentase-penduduk-yang-memiliki-menguasai-telepon-seluler-menurut-provinsi-dan-klasifikasi-daerah.html",
@@ -43088,10 +43088,10 @@
       ]
     },
     {
-      "id": "0619f6a1c47174cb322ac80812dcec6e",
-      "judul_tabel": "Pekerja Teknik dan Administrasi PLN, 1995-2012",
-      "update": "2016-01-05",
-      "keterangan": "Statistik Sektoral",
+      "id": "a6c4b0a4a917e65812a158001953ab36",
+      "judul_tabel": "Ekspor Bijih Tembaga Menurut Negara Tujuan Utama, 2012-2022",
+      "update": "2023-07-26",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1858/1/rata-rata-konsumsi-non-makanan-rumah-tangga-yang-memiliki-pengeluaran-telekomunikasi-menurut-provinsi.html",
         "https://www.archive.bps.go.id/indicator/2/1858/2/rata-rata-konsumsi-non-makanan-rumah-tangga-yang-memiliki-pengeluaran-telekomunikasi-menurut-provinsi.html",
@@ -44466,10 +44466,10 @@
       ]
     },
     {
-      "id": "bd55921226d593e098b96ef225b1d4d0",
-      "judul_tabel": "Perkembangan Beberapa Indikator Hasil Gas Kota Disalurkan oleh PT. PGN (Persero), 2000-2012",
-      "update": "2016-01-05",
-      "keterangan": "Statistik Sektoral",
+      "id": "ad40cedb8eda7dd4535c6bb971d3c4ed",
+      "judul_tabel": "Ekspor Buah-Buahan Tahunan menurut Negara Tujuan Utama, 2012-2022",
+      "update": "2023-07-26",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1857/1/rata-rata-konsumsi-makanan-rumah-tangga-yang-memiliki-pengeluaran-telekomunikasi-menurut-provinsi.html",
         "https://www.archive.bps.go.id/indicator/2/1857/2/rata-rata-konsumsi-makanan-rumah-tangga-yang-memiliki-pengeluaran-telekomunikasi-menurut-provinsi.html",
@@ -45844,9 +45844,9 @@
       ]
     },
     {
-      "id": "ce61b8809502ff2fddd0e37d8b8afdcd",
-      "judul_tabel": "Kapasitas Terpasang, Tenaga Listrik yang Dibangkitkan, dan Listrik yang Didistribusikan Menurut Provinsi, 2014-2015",
-      "update": "2017-11-24",
+      "id": "981a449f0f3234ed8adc4f3a67db664b",
+      "judul_tabel": "Ekspor Gas Menurut Negara Tujuan Utama, 2000-2022",
+      "update": "2023-07-26",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1856/1/rata-rata-konsumsi-rumah-tangga-yang-memiliki-pengeluaran-telekomunikasi-menurut-provinsi.html",
@@ -47222,9 +47222,9 @@
       ]
     },
     {
-      "id": "8cd0826e3b5429532117e5a843a2fbb1",
-      "judul_tabel": "Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir menurut Provinsi dan Kemampuan Membaca, 2014-2022",
-      "update": "2023-09-27",
+      "id": "5e28dc4e2a6eb3b97f8de0bedd2849e9",
+      "judul_tabel": "Ekspor Hasil Minyak Menurut Negara Tujuan Utama, 2000-2022",
+      "update": "2023-07-26",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1855/1/persentase-rumah-tangga-yang-memiliki-pengeluaran-telekomunikasi-menurut-provinsi-dan-klasifikasi-daerah.html",
@@ -48600,9 +48600,9 @@
       ]
     },
     {
-      "id": "1ae0352f332a1dbd29fcf27a4b288198",
-      "judul_tabel": "Persentase Penduduk Usia 10 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Lapangan Usaha Utama, 2017-2022",
-      "update": "2023-09-27",
+      "id": "49c78ea4da515e780586c56bcb2448db",
+      "judul_tabel": "Ekspor Ikan Segar/Dingin Hasil Tangkap menurut Negara Tujuan Utama, 2012-2022",
+      "update": "2023-07-26",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1705/1/persentase-penduduk-yang-menggunakan-komputer-menurut-provinsi-dan-jenis-kelamin.html",
@@ -49662,9 +49662,9 @@
       ]
     },
     {
-      "id": "66c589768d6fabe7769e880ac6098806",
-      "judul_tabel": "Persentase Penduduk Usia 10 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Kelompok Lapangan Usaha, 2012-2022",
-      "update": "2023-09-27",
+      "id": "8e410cfb3010a01622d73497ac66c94b",
+      "judul_tabel": "Ekspor Karet Remah Menurut Negara Tujuan Utama, 2012-2022",
+      "update": "2023-07-26",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1696/1/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-partisipasi-sekolah.html",
@@ -51040,9 +51040,9 @@
       ]
     },
     {
-      "id": "b8c8d78fef5122d1ade94444957a2860",
-      "judul_tabel": "Persentase Penduduk Usia 10 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Jenis Kegiatan Utama, 2012-2022",
-      "update": "2023-09-27",
+      "id": "2255270b7f4d139c980ed3d7469d4ec7",
+      "judul_tabel": "Ekspor Kendaraan Bermotor Roda Empat atau Lebih menurut Negara Tujuan Utama, 2012-2022",
+      "update": "2023-07-26",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1695/1/persentase-rumah-tangga-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-sumber-penerangan-rumah-tangga-perkotaan-perdesaan-.html",
@@ -52418,9 +52418,9 @@
       ]
     },
     {
-      "id": "f82ca18efd8251c2e27e5d8564ad3640",
-      "judul_tabel": "Persentase Penduduk Usia 10 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir menurut Provinsi dan Status Pekerjaan, 2014-2022",
-      "update": "2023-09-22",
+      "id": "eeb33570cef64400a48def61ec303e84",
+      "judul_tabel": "Ekspor Kimia Dasar Organik yang Bersumber dari Hasil Pertanian menurut Negara Tujuan Utama, 2012-2021",
+      "update": "2023-07-26",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1694/1/persentase-rumah-tangga-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-sumber-penerangan-rumah-tangga-perdesaan-.html",
@@ -53796,9 +53796,9 @@
       ]
     },
     {
-      "id": "d3e56677c619a55862e20e881d83adde",
-      "judul_tabel": "Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir menurut Provinsi dan Jenjang Pendidikan yang Sedang Diduduki, 2014-2022",
-      "update": "2023-09-22",
+      "id": "cbdb427e011fb095c30f20cbc76cae86",
+      "judul_tabel": "Ekspor Kopi Menurut Negara Tujuan Utama, 2000-2022",
+      "update": "2023-07-26",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1693/1/persentase-rumah-tangga-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-sumber-penerangan-rumah-tangga-perkotaan-.html",
@@ -55174,9 +55174,9 @@
       ]
     },
     {
-      "id": "1eee0cea9ac9b10a306db82cab6c7001",
-      "judul_tabel": "Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Jenjang Pendidikan Tertinggi yang Ditamatkan, 2010-2022",
-      "update": "2023-09-22",
+      "id": "f1e0b6f5c8f9e439a4248e29689d8e35",
+      "judul_tabel": "Ekspor Lada Hitam Menurut Negara Tujuan Utama, 2012- 2022",
+      "update": "2023-07-26",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1691/1/rata-rata-banyaknya-anggota-rumah-tangga-yang-memiliki-menguasai-telepon-selular-dari-rumah-tangga-yang-memiliki-menguasai-telepon-selular-menurut-provinsi-dan-klasifikasi-daerah.html",
@@ -56552,9 +56552,9 @@
       ]
     },
     {
-      "id": "9efb19914b28ffae3dfeb9988401d324",
-      "judul_tabel": "Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Kelompok Umur, 2010-2022",
-      "update": "2023-09-22",
+      "id": "a1c05689ce57309c126107a1fc7dbba1",
+      "judul_tabel": "Ekspor Lada Putih menurut Negara Tujuan Utama, 2012-2022",
+      "update": "2023-07-26",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1689/1/persentase-rumah-tangga-yang-memiliki-menguasai-telepon-seluler-menurut-provinsi-dan-sumber-penerangan-rumah-tangga-perkotaan-pedesaan-.html",
@@ -57930,9 +57930,9 @@
       ]
     },
     {
-      "id": "c58af64563a4069ee6d962c41eb05138",
-      "judul_tabel": "Persentase Rumah Tangga yang Memiliki/Menguasai Telepon Seluler Menurut Provinsi dan Klasifikasi Daerah, 2007-2022",
-      "update": "2023-09-22",
+      "id": "c657ad0eef0b1495211be747c81926e5",
+      "judul_tabel": "Ekspor Lignit menurut Negara Tujuan Utama, 2012-2022",
+      "update": "2023-07-26",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1688/1/persentase-rumah-tangga-yang-memiliki-menguasai-telepon-seluler-menurut-provinsi-dan-sumber-penerangan-rumah-tangga-perdesaan-.html",
@@ -59308,9 +59308,9 @@
       ]
     },
     {
-      "id": "09947d0eca3627f1818da867062319ef",
-      "judul_tabel": "Persentase Rumah Tangga yang Memiliki/Menguasai Telepon Tetap Kabel Menurut Provinsi dan Klasifikasi Daerah, 2007-2022",
-      "update": "2023-09-22",
+      "id": "ab34041c6fdf8f9a8213c33351b71c86",
+      "judul_tabel": "Ekspor Logam Dasar Mulia Menurut Negara Tujuan Utama, 2012-2022",
+      "update": "2023-07-26",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1687/1/persentase-rumah-tangga-yang-memiliki-menguasai-telepon-seluler-menurut-provinsi-dan-sumber-penerangan-rumah-tangga-perkotaan-.html",
@@ -60686,9 +60686,9 @@
       ]
     },
     {
-      "id": "a6b3cd8ef6b8321a9f56b1c5309d3700",
-      "judul_tabel": "Persentase Penduduk Usia 5 tahun ke atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Jenis Kelamin, 2014-2022",
-      "update": "2023-09-22",
+      "id": "b78948d70f2ae07f0dd7d9712088bb46",
+      "judul_tabel": "Ekspor Minyak Bumi Mentah Menurut Negara Tujuan Utama, 2000-2022",
+      "update": "2023-07-26",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1671/1/persentase-penduduk-yang-menggunakan-komputer-menurut-provinsi-dan-klasifikasi-daerah.html",
@@ -61959,10 +61959,10 @@
       ]
     },
     {
-      "id": "835bdcfddc88180a204de93cb8f4df53",
-      "judul_tabel": "Persentase Penduduk Usia 5 Tahun Ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir untuk Kelompok Umur 25+ tahun Menurut Provinsi dan Jenis Kelamin, 2014-2022",
-      "update": "2023-09-20",
-      "keterangan": "",
+      "id": "f58046fda2377ddc9c577c7d99d72f9f",
+      "judul_tabel": "Ekspor Minyak Kelapa Sawit Menurut Negara Tujuan Utama, 2012-2022",
+      "update": "2023-07-26",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1670/1/persentase-rumah-tangga-yang-memiliki-menguasai-komputer-menurut-provinsi-dan-sumber-penerangan-rumah-tangga.html",
         "https://www.archive.bps.go.id/indicator/2/1670/2/persentase-rumah-tangga-yang-memiliki-menguasai-komputer-menurut-provinsi-dan-sumber-penerangan-rumah-tangga.html",
@@ -63337,10 +63337,10 @@
       ]
     },
     {
-      "id": "97cee9dacdb468469d7bb011e5028707",
-      "judul_tabel": "Persentase Penduduk Usia 5 Tahun Ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir untuk Kelompok Umur 19-24 tahun Menurut Provinsi dan Jenis Kelamin, 2014-2022",
-      "update": "2023-09-20",
-      "keterangan": "",
+      "id": "2417cc48d73ee292569160cccea21062",
+      "judul_tabel": "Ekspor Pakaian Jadi (Konveksi) dari Tekstil Menurut Negara Tujuan Utama, 2012-2022",
+      "update": "2023-07-25",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1861/1/persentase-rata-rata-konsumsi-telekomunikasi-rumah-tangga-terhadap-konsumsi-total-menurut-provinsi.html",
         "https://www.archive.bps.go.id/indicator/2/1861/2/persentase-rata-rata-konsumsi-telekomunikasi-rumah-tangga-terhadap-konsumsi-total-menurut-provinsi.html",
@@ -64715,10 +64715,10 @@
       ]
     },
     {
-      "id": "b0dccd4e2a7ab5970b911f6d6abeaee8",
-      "judul_tabel": "Persentase Penduduk Usia 5 Tahun Ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir untuk Kelompok Umur 16-18 tahun Menurut Provinsi dan Jenis Kelamin, 2014-2022",
-      "update": "2023-09-20",
-      "keterangan": "",
+      "id": "4644e193aef23f8a905e12dc29d7f76a",
+      "judul_tabel": "Ekspor Peralatan Listrik menurut Negara Tujuan Utama, 2012-2022",
+      "update": "2023-07-25",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1860/1/persentase-rata-rata-konsumsi-telekomunikasi-rumah-tangga-terhadap-konsumsi-non-makanan-menurut-provinsi.html",
         "https://www.archive.bps.go.id/indicator/2/1860/2/persentase-rata-rata-konsumsi-telekomunikasi-rumah-tangga-terhadap-konsumsi-non-makanan-menurut-provinsi.html",
@@ -66093,10 +66093,10 @@
       ]
     },
     {
-      "id": "e76f13c96a00c5560297c2e9f805dde1",
-      "judul_tabel": "Persentase Penduduk Usia 5 Tahun Ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir untuk Kelompok Umur 13-15 tahun Menurut Provinsi dan Jenis Kelamin, 2014-2022",
-      "update": "2023-09-20",
-      "keterangan": "",
+      "id": "fa2409de70ec05d5ca4fd11784094efa",
+      "judul_tabel": "Ekspor Rumput Laut dan Ganggang Lainnya menurut Negara Tujuan Utama, 2012-2022",
+      "update": "2023-07-25",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1854/1/persentase-rumah-tangga-yang-memiliki-menguasai-telepon-seluler-menurut-provinsi-dan-status-penguasaan-tempat-tinggal-perkotaan-perdesaan-.html",
         "https://www.archive.bps.go.id/indicator/2/1854/2/persentase-rumah-tangga-yang-memiliki-menguasai-telepon-seluler-menurut-provinsi-dan-status-penguasaan-tempat-tinggal-perkotaan-perdesaan-.html",
@@ -68066,9 +68066,9 @@
       ]
     },
     {
-      "id": "6efa94ed96ec2d60202329f2545cef95",
-      "judul_tabel": "Persentase Penduduk Usia 5 Tahun Ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir untuk Kelompok Umur 5-12 tahun Menurut Provinsi dan Jenis Kelamin, 2014-2022",
-      "update": "2023-09-20",
+      "id": "0474aeae924a9b9b7b41466eaba37c19",
+      "judul_tabel": "Ekspor Sarang Burung menurut Negara Tujuan Utama, 2012-2022",
+      "update": "2023-07-25",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/430/1/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-untuk-kelompok-umur-5-tahun-menurut-provinsi-dan-jenis-kelamin.html",
@@ -69444,9 +69444,9 @@
       ]
     },
     {
-      "id": "518175035fcc42899f4adb778b7f14d3",
-      "judul_tabel": "Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Jenjang Pendidikan Tertinggi yang Ditamatkan, 2012-2022",
-      "update": "2023-09-20",
+      "id": "fada59f432b591a6ef459ac776591432",
+      "judul_tabel": "Ekspor Sepatu Olahraga menurut Negara Tujuan Utama, 2012-2022",
+      "update": "2023-07-25",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1859/1/rata-rata-konsumsi-rumah-tangga-untuk-telekomunikasi-menurut-provinsi.html",
@@ -70822,9 +70822,9 @@
       ]
     },
     {
-      "id": "2924453eba0b120467288f09246122d4",
-      "judul_tabel": "Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Kelompok Umur, 2012-2022",
-      "update": "2023-09-20",
+      "id": "a06930d843d437e3201f750cf5376574",
+      "judul_tabel": "Ekspor Tanaman Obat, Aromatik, dan Rempah-Rempah menurut Negara Tujuan Utama, 2012-2022",
+      "update": "2023-07-25",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1853/1/persentase-rumah-tangga-yang-memiliki-menguasai-telepon-seluler-menurut-provinsi-dan-status-penguasaan-tempat-tinggal-perdesaan-.html",
@@ -72795,9 +72795,9 @@
       ]
     },
     {
-      "id": "ec4ea4f2b9fa6424f080064358cedfa4",
-      "judul_tabel": "Rata-Rata Banyaknya Anggota Rumah Tangga yang Pernah Mengakses Internet Dari Rumah Tangga yang Pernah Mengkases Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Klasifikasi Daerah, 2012-2022",
-      "update": "2023-09-20",
+      "id": "4f99ec792f32a3abf14572ef617ff0cf",
+      "judul_tabel": "Ekspor Teh Menurut Negara Tujuan Utama, 2000-2015",
+      "update": "2018-02-08",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1852/1/persentase-rumah-tangga-yang-memiliki-menguasai-telepon-seluler-menurut-provinsi-dan-status-penguasaan-tempat-tinggal-perkotaan-.html",
@@ -74768,9 +74768,9 @@
       ]
     },
     {
-      "id": "1952b1f14ebf7c97b782b99c749a6c37",
-      "judul_tabel": "Persentase Rumah Tangga yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Klasifikasi Daerah, 2009-2022",
-      "update": "2023-09-20",
+      "id": "43e5a2ac7f7e8fa3451289098925ed94",
+      "judul_tabel": "Ekspor Tembakau Menurut Negara Tujuan Utama, 2000-2015",
+      "update": "2018-02-08",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/871/1/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-lokasi.html",
@@ -74926,9 +74926,9 @@
       ]
     },
     {
-      "id": "3f442680041f975b9d8833bdd5085c73",
-      "judul_tabel": "Persentase Rumah Tangga yang Memiliki/Menguasai Komputer Menurut Provinsi dan Klasifikasi Daerah, 2012-2022",
-      "update": "2023-09-20",
+      "id": "511ee68733207fbf1be552456555fa5c",
+      "judul_tabel": "Impor Aluminium menurut Negara Asal Utama, 2013-2022",
+      "update": "2023-08-02",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/858/1/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-media.html",
@@ -75012,9 +75012,9 @@
       ]
     },
     {
-      "id": "0676c3c11e5ea6238b7c20cd471d5e16",
-      "judul_tabel": "Persentase Penduduk yang Memiliki/Menguasai Telepon Seluler Menurut Provinsi dan Klasifikasi Daerah, 2012-2022",
-      "update": "2023-09-20",
+      "id": "1c0cc05df13951d5eeb1ed0be4bd3bae",
+      "judul_tabel": "Impor Bahan Baku dan Barang Penolong, 1996-2022",
+      "update": "2023-08-02",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/560/1/persentase-rumah-tangga-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-lokasi.html",
@@ -75103,10 +75103,10 @@
       ]
     },
     {
-      "id": "2427ea262331532fe88e227319614a9c",
-      "judul_tabel": "Rata-Rata Konsumsi Non Makanan Rumah Tangga yang Memiliki Pengeluaran Telekomunikasi Menurut Provinsi, 2014-2022",
-      "update": "2023-09-20",
-      "keterangan": "",
+      "id": "e0d75772c781250b27342610df790d77",
+      "judul_tabel": "Impor Barang Konsumsi, 1989-2022",
+      "update": "2023-07-28",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/558/1/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-lokasi.html",
         "https://www.archive.bps.go.id/indicator/2/558/2/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-lokasi.html",
@@ -77216,10 +77216,10 @@
       ]
     },
     {
-      "id": "c9fe2a0730fe1ec1db583bf6a690fa02",
-      "judul_tabel": "Rata-Rata Konsumsi Makanan Rumah Tangga yang Memiliki Pengeluaran Telekomunikasi Menurut Provinsi, 2014-2022",
-      "update": "2023-09-20",
-      "keterangan": "",
+      "id": "8deb448f80ea0503ec6860342e71e7f3",
+      "judul_tabel": "Impor Barang Modal, 1996-2022",
+      "update": "2023-07-28",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/407/1/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-media.html",
         "https://www.archive.bps.go.id/indicator/2/407/2/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-media.html",
@@ -79120,10 +79120,10 @@
       ]
     },
     {
-      "id": "2863e4d2adaa5eb4997f93e446714aa0",
-      "judul_tabel": "Rata-Rata Konsumsi Rumah Tangga yang Memiliki Pengeluaran Telekomunikasi Menurut Provinsi, 2014-2022",
-      "update": "2023-09-20",
-      "keterangan": "",
+      "id": "060b893360811548183e7d38592277d1",
+      "judul_tabel": "Impor Beras Menurut Negara Asal Utama, 2000-2022",
+      "update": "2023-08-02",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/406/1/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-klasifikasi-daerah.html",
         "https://www.archive.bps.go.id/indicator/2/406/2/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-dan-klasifikasi-daerah.html",
@@ -80498,10 +80498,10 @@
       ]
     },
     {
-      "id": "7bcab99234d209714705295ea8057e70",
-      "judul_tabel": "Persentase Rumah Tangga yang Memiliki Pengeluaran Telekomunikasi Menurut Provinsi dan Klasifikasi Daerah, 2014-2022",
-      "update": "2023-09-20",
-      "keterangan": "",
+      "id": "3f4dbf01fbea76d4565a0a9e94bc84a4",
+      "judul_tabel": "Impor Besi dan Baja Menurut Negara Asal Utama, 2017\u20132022",
+      "update": "2023-08-02",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/402/1/persentase-rumah-tangga-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-media-akses.html",
         "https://www.archive.bps.go.id/indicator/2/402/2/persentase-rumah-tangga-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-media-akses.html",
@@ -80589,9 +80589,9 @@
       ]
     },
     {
-      "id": "166f81702c605289f3f2f34a09d77b0e",
-      "judul_tabel": "Persentase Penduduk yang Menggunakan Komputer menurut Provinsi dan Jenis Kelamin, 2017-2022",
-      "update": "2023-09-20",
+      "id": "b103ea7c268d7461e40fe3b41361fd0c",
+      "judul_tabel": "Impor Biji Gandum dan Meslin menurut Negara Asal Utama, 2017-2022",
+      "update": "2023-08-02",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/393/1/persentase-rumah-tangga-yang-memiliki-menguasai-telepon-bergerak-selular-menurut-provinsi-dan-banyaknya-nomor-telepon-seluler-aktif.html",
@@ -82212,9 +82212,9 @@
       ]
     },
     {
-      "id": "930b4c204965bf138699b4f56c69ec0d",
-      "judul_tabel": "Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir menurut Provinsi dan Partisipasi Sekolah, 2014-2022",
-      "update": "2023-09-20",
+      "id": "a5de8b005a9962398bd4c01f4b8d07be",
+      "judul_tabel": "Impor Buah-buahan menurut Negara Asal Utama, 2010-2022",
+      "update": "2023-08-02",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/392/1/rata-rata-banyaknya-nomor-telepon-seluler-aktif-dari-rumah-tangga-yang-memiliki-menguasai-telepon-seluler-menurut-provinsi-dan-klasifikasi-daerah.html",
@@ -83485,10 +83485,10 @@
       ]
     },
     {
-      "id": "9fe250abc333feaac1be449f43a8458d",
-      "judul_tabel": "Persentase Rumah Tangga yang Pernah Mengakses Internet dalam 3 Bulan Terakhir menurut Provinsi dan Sumber Penerangan Rumah Tangga (Perkotaan+Perdesaan), 2014-2022",
-      "update": "2023-09-20",
-      "keterangan": "",
+      "id": "8307a552ec5fc9ac42bf470afcf9b0a2",
+      "judul_tabel": "Impor Daging Sejenis Lembu menurut Negara Asal Utama, 2017-2022",
+      "update": "2023-08-02",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/983/1/jumlah-pelanggan-telepon-indonesia-menurut-jenis-penyelenggaraan-jaringan.html",
         "https://www.archive.bps.go.id/indicator/2/983/2/jumlah-pelanggan-telepon-indonesia-menurut-jenis-penyelenggaraan-jaringan.html",
@@ -83589,10 +83589,10 @@
       ]
     },
     {
-      "id": "0f4568ea4ca2a9e585300ee829f3e90f",
-      "judul_tabel": "Persentase Rumah Tangga yang Pernah Mengakses Internet dalam 3 Bulan Terakhir menurut Provinsi dan Sumber Penerangan Rumah Tangga (Perdesaan), 2014-2022",
-      "update": "2023-09-20",
-      "keterangan": "",
+      "id": "7ea941f4c3c5756f9505c621023e45f0",
+      "judul_tabel": "Impor Garam menurut Negara Asal Utama, 2017-2022",
+      "update": "2023-08-02",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1686/1/banyaknya-desa-kelurahan-yang-memiliki-menara-bts-menurut-provinsi-dan-penerimaan-sinyal-telepon-selular-perkotaan-perdesaan-.html",
         "https://www.archive.bps.go.id/indicator/2/1686/2/banyaknya-desa-kelurahan-yang-memiliki-menara-bts-menurut-provinsi-dan-penerimaan-sinyal-telepon-selular-perkotaan-perdesaan-.html"
@@ -84651,9 +84651,9 @@
       ]
     },
     {
-      "id": "aec02e446f593416d2192f5a54c6e022",
-      "judul_tabel": "Persentase Rumah Tangga yang Pernah Mengakses Internet dalam 3 Bulan Terakhir menurut Provinsi dan Sumber Penerangan Rumah Tangga (Perkotaan), 2014-2022",
-      "update": "2023-09-20",
+      "id": "d12fd9d9e78ab576b2f36d211418b7f2",
+      "judul_tabel": "Impor Gula menurut Negara Asal Utama, 2017-2022",
+      "update": "2023-08-01",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1685/1/banyaknya-desa-kelurahan-yang-memiliki-menara-bts-menurut-provinsi-dan-penerimaan-sinyal-telepon-selular-perdesaan-.html",
@@ -85713,9 +85713,9 @@
       ]
     },
     {
-      "id": "087fb3bd23c6ce5da1e3051798b5a749",
-      "judul_tabel": "Rata-Rata Banyaknya Anggota Rumah Tangga yang Memiliki/Menguasai Telepon Selular dari Rumah Tangga yang Memiliki/Menguasai Telepon Selular Menurut Provinsi dan Klasifikasi Daerah, 2014-2022",
-      "update": "2023-09-20",
+      "id": "7304ff0d91fd880a26436f8a68a927bc",
+      "judul_tabel": "Impor Kedelai menurut Negara Asal Utama, 2017-2022",
+      "update": "2023-06-08",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1684/1/banyaknya-desa-kelurahan-yang-memiliki-menara-bts-menurut-provinsi-dan-penerimaan-sinyal-telepon-selular-perkotaan-.html",
@@ -86775,10 +86775,10 @@
       ]
     },
     {
-      "id": "8dcc6e2b09bdfc4fe722896c77d4551a",
-      "judul_tabel": "Persentase Rumah Tangga yang Memiliki/Menguasai Telepon Seluler Menurut Provinsi dan Sumber Penerangan Rumah Tangga (Perkotaan+Pedesaan), 2014-2022",
-      "update": "2023-09-20",
-      "keterangan": "",
+      "id": "27b5be711960e8b181e7b3c047b173d2",
+      "judul_tabel": "Impor Mesin/Perlengkapan Elektrik dan Bagiannya Menurut Negara Asal Utama, 2017-2022",
+      "update": "2023-08-01",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1692/1/banyaknya-desa-kelurahan-yang-memiliki-fasilitas-internet-di-kantor-desa-lurah-menurut-provinsi-dan-klasifikasi-daerah.html",
         "https://www.archive.bps.go.id/indicator/2/1692/2/banyaknya-desa-kelurahan-yang-memiliki-fasilitas-internet-di-kantor-desa-lurah-menurut-provinsi-dan-klasifikasi-daerah.html"
@@ -87732,10 +87732,10 @@
       ]
     },
     {
-      "id": "fe4aa749bb90a25b6c38684f355a40c9",
-      "judul_tabel": "Persentase Rumah Tangga yang Memiliki/Menguasai Telepon Seluler Menurut Provinsi dan Sumber Penerangan Rumah Tangga (Perdesaan), 2014-2022",
-      "update": "2023-09-20",
-      "keterangan": "",
+      "id": "c0a6e4a69663153cce486d002f8c13c3",
+      "judul_tabel": "Impor Minyak Bumi dan Hasil-Hasil Menurut Negara Asal Utama, 2017-2022",
+      "update": "2023-08-01",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1682/1/banyaknya-desa-kelurahan-yang-tidak-memiliki-menara-bts-menurut-provinsi-dan-penerimaan-sinyal-telepon-selular-perkotaan-perdesaan-.html",
         "https://www.archive.bps.go.id/indicator/2/1682/2/banyaknya-desa-kelurahan-yang-tidak-memiliki-menara-bts-menurut-provinsi-dan-penerimaan-sinyal-telepon-selular-perkotaan-perdesaan-.html"
@@ -88794,9 +88794,9 @@
       ]
     },
     {
-      "id": "f2c362248cd55ea0e6fc7bff8990e067",
-      "judul_tabel": "Persentase Rumah Tangga yang Memiliki/Menguasai Telepon Seluler Menurut Provinsi dan Sumber Penerangan Rumah Tangga (Perkotaan), 2014-2022",
-      "update": "2023-09-20",
+      "id": "71a1a681bfb58565862ddc267dd55e8a",
+      "judul_tabel": "Impor Pupuk Menurut Negara Asal Utama, 2017-2022",
+      "update": "2023-08-01",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1681/1/banyaknya-desa-kelurahan-yang-tidak-memiliki-menara-bts-menurut-provinsi-dan-penerimaan-sinyal-telepon-selular-perdesaan-.html",
@@ -89856,9 +89856,9 @@
       ]
     },
     {
-      "id": "edfa074788bf84c6b99eefc3d6949f7a",
-      "judul_tabel": "Persentase Penduduk yang Menggunakan Komputer menurut Provinsi dan Klasifikasi Daerah, 2015-2022",
-      "update": "2023-09-20",
+      "id": "b5bbea1c6540b9b2c7d471964800c2be",
+      "judul_tabel": "Impor Sayuran Menurut Negara Asal Utama, 2010-2022",
+      "update": "2023-08-01",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1679/1/banyaknya-desa-kelurahan-yang-tidak-memiliki-menara-bts-menurut-provinsi-dan-penerimaan-sinyal-telepon-selular-perkotaan-.html",
@@ -90918,9 +90918,9 @@
       ]
     },
     {
-      "id": "fef11f7270e29e6be9f403c9d517ef52",
-      "judul_tabel": "Persentase Rumah Tangga yang Memiliki/Menguasai Komputer Menurut Provinsi dan Sumber Penerangan Rumah Tangga, 2014-2022",
-      "update": "2023-09-20",
+      "id": "1bd8efe36c25218c02920a05360a3327",
+      "judul_tabel": "Impor Semen Menurut Negara Asal Utama, 2017-2022",
+      "update": "2023-08-01",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1677/1/banyaknya-desa-kelurahan-yang-memiliki-menara-base-transceiver-station-bts-menurut-provinsi-dan-klasifikasi-daerah.html",
@@ -91980,10 +91980,10 @@
       ]
     },
     {
-      "id": "04fc2c2bfe4549a93865cf670ff56010",
-      "judul_tabel": "Persentase Rata-Rata Konsumsi Telekomunikasi Rumah Tangga Terhadap Konsumsi Total Menurut Provinsi, 2014-2022",
-      "update": "2023-09-18",
-      "keterangan": "",
+      "id": "37b4e099af84fcb453093c20b1f47f9a",
+      "judul_tabel": "Impor Tembaga menurut Negara Asal Utama, 2017-2022",
+      "update": "2023-08-01",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1676/1/banyaknya-desa-kelurahan-yang-menerima-sinyal-telepon-selular-menurut-provinsi-sinyal-kuat-.html",
         "https://www.archive.bps.go.id/indicator/2/1676/2/banyaknya-desa-kelurahan-yang-menerima-sinyal-telepon-selular-menurut-provinsi-sinyal-kuat-.html",
@@ -93148,10 +93148,10 @@
       ]
     },
     {
-      "id": "1c9deb0dd512cb63dc95344148488f4c",
-      "judul_tabel": "Persentase Rata-Rata Konsumsi Telekomunikasi Rumah Tangga Terhadap Konsumsi Non Makanan Menurut Provinsi, 2014-2022",
-      "update": "2023-09-18",
-      "keterangan": "",
+      "id": "387e2df8d5acfba8872907338aa49640",
+      "judul_tabel": "Impor Tembakau menurut Negara Asal Utama, 2017-2022",
+      "update": "2023-08-01",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1675/1/banyaknya-desa-kelurahan-yang-menerima-sinyal-telepon-selular-menurut-provinsi-sinyal-lemah-.html",
         "https://www.archive.bps.go.id/indicator/2/1675/2/banyaknya-desa-kelurahan-yang-menerima-sinyal-telepon-selular-menurut-provinsi-sinyal-lemah-.html",
@@ -94316,10 +94316,10 @@
       ]
     },
     {
-      "id": "4b9882d1c5445f9aa3a566f5da45cb98",
-      "judul_tabel": "Persentase Rumah Tangga yang Memiliki/Menguasai Telepon Seluler Menurut Provinsi dan Status Penguasaan Tempat Tinggal (Perkotaan+Perdesaan), 2014-2022",
-      "update": "2023-09-18",
-      "keterangan": "",
+      "id": "c22d2c0645e68469b1d56dc4d4f6b2cb",
+      "judul_tabel": "Nilai Ekspor dan Impor Migas (juta US$) 1996-2022",
+      "update": "2023-07-27",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1674/1/banyaknya-desa-kelurahan-yang-memiliki-keluarga-pelanggan-telepon-tetap-kabel-menurut-provinsi-dan-klasifikasi-daerah.html",
         "https://www.archive.bps.go.id/indicator/2/1674/2/banyaknya-desa-kelurahan-yang-memiliki-keluarga-pelanggan-telepon-tetap-kabel-menurut-provinsi-dan-klasifikasi-daerah.html",
@@ -95484,10 +95484,10 @@
       ]
     },
     {
-      "id": "bf06e860f943e969fdc0a452f4e6004c",
-      "judul_tabel": "Persentase Penduduk Usia 5 Tahun Ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir untuk Kelompok Umur => 5 Tahun Menurut Provinsi dan Jenis Kelamin, 2014-2022",
-      "update": "2023-09-18",
-      "keterangan": "",
+      "id": "c98b1cc30b37c8c211b50091d012a15d",
+      "judul_tabel": "Nilai Ekspor Menurut Negara Tujuan Utama (Nilai FOB: juta US$), 2000-2022",
+      "update": "2023-07-27",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/1704/1/jumlah-keluarga-yang-berlangganan-telepon-tetap-kabel-menurut-provinsi.html",
         "https://www.archive.bps.go.id/indicator/2/1704/2/jumlah-keluarga-yang-berlangganan-telepon-tetap-kabel-menurut-provinsi.html",
@@ -96652,10 +96652,10 @@
       ]
     },
     {
-      "id": "11a656a5113488ec45f9b2d89b067d9a",
-      "judul_tabel": "Rata-Rata Konsumsi Rumah Tangga untuk Telekomunikasi Menurut Provinsi, 2014-2022",
-      "update": "2023-09-18",
-      "keterangan": "",
+      "id": "26e0371ab10f280a3e6becac95bd7686",
+      "judul_tabel": "Nilai Ekspor Menurut Pelabuhan Utama (Nilai FOB: juta US$) 2000-2022",
+      "update": "2023-07-27",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/431/1/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-jenjang-pendidikan-tertinggi-yang-ditamatkan-laki-laki-.html",
         "https://www.archive.bps.go.id/indicator/2/431/2/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-jenjang-pendidikan-tertinggi-yang-ditamatkan-laki-laki-.html",
@@ -99080,10 +99080,10 @@
       ]
     },
     {
-      "id": "bc48df4f455cedc7573454f0c601e2f7",
-      "judul_tabel": "Persentase Rumah Tangga yang Memiliki/Menguasai Telepon Seluler Menurut Provinsi dan Status Penguasaan Tempat Tinggal (Perdesaan), 2014-2022",
-      "update": "2023-09-18",
-      "keterangan": "",
+      "id": "06d4c3ba9c3edc6279f901c2d6b49946",
+      "judul_tabel": "Nilai Impor Kendaraan Bermotor Menurut Negara Asal Utama (Nilai CIF:juta US$), 2000-2022",
+      "update": "2023-07-28",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/2015/1/persentase-pelanggan-terlayani-jaringan-internet-akses-tetap-pitalebar-fixed-broadband-terhadap-total-rumah-tangga-menurut-provinsi.html"
       ],
@@ -99357,10 +99357,10 @@
       ]
     },
     {
-      "id": "8e018bf4eeaf7b7bcc0187bc9019ed46",
-      "judul_tabel": "Persentase Rumah Tangga yang Memiliki/Menguasai Telepon Seluler Menurut Provinsi dan Status Penguasaan Tempat Tinggal (Perkotaan), 2014-2022",
-      "update": "2023-09-18",
-      "keterangan": "",
+      "id": "3bba300057f4d72249772ca172319664",
+      "judul_tabel": "Nilai Impor Menurut Negara Asal Utama (Nilai CIF: juta US$), 2000-2022",
+      "update": "2023-07-28",
+      "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/434/1/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-jenjang-pendidikan-tertinggi-yang-ditamatkan-laki-laki-perempuan-.html",
         "https://www.archive.bps.go.id/indicator/2/434/2/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-jenjang-pendidikan-tertinggi-yang-ditamatkan-laki-laki-perempuan-.html"
@@ -101539,9 +101539,9 @@
       ]
     },
     {
-      "id": "b98655fd1f58bdbe281f0816aad9e402",
-      "judul_tabel": "Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Lokasi, 2010-2022",
-      "update": "2023-09-18",
+      "id": "38a729074342bdaf23d9a05d065c74a7",
+      "judul_tabel": "Nilai Impor Menurut Pelabuhan Utama (Nilai CIF: juta US$), 2000-2022",
+      "update": "2023-07-28",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/433/1/persentase-penduduk-usia-5-tahun-ke-atas-yang-pernah-mengakses-internet-dalam-3-bulan-terakhir-menurut-provinsi-jenjang-pendidikan-tertinggi-yang-ditamatkan-perempuan-.html",
@@ -103721,9 +103721,9 @@
       ]
     },
     {
-      "id": "4647084fd16108ac3d25542c22b51173",
-      "judul_tabel": "Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Media, 2010-2022",
-      "update": "2023-09-18",
+      "id": "0bf3a741f47f5c8a700d54b784135ff8",
+      "judul_tabel": "Volume Ekspor dan Impor Migas (Berat bersih: ribu ton) 1996-2022",
+      "update": "2023-07-27",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/968/1/persentase-judul-film-yang-ditayangkan-oleh-perusahaan-bioskop-menurut-genre.html",
@@ -103833,9 +103833,9 @@
       ]
     },
     {
-      "id": "59908827f321f8a565c84a5b372aba3c",
-      "judul_tabel": "Persentase Rumah Tangga yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Lokasi, 2015-2022",
-      "update": "2023-09-18",
+      "id": "dfd4b842b8aa499a87eb524150433624",
+      "judul_tabel": "Volume Ekspor Menurut Negara Tujuan Utama (Berat bersih: ribu ton), 2000-2022",
+      "update": "2023-07-27",
       "keterangan": "Statistik Dasar",
       "url_tabel": [
         "https://www.archive.bps.go.id/indicator/2/984/1/persentase-oplah-penerbitan-berkala-oleh-perusahaan-penerbit-menurut-jenis-kategori.html",
@@ -103889,44 +103889,2278 @@
       ]
     },
     {
-      "id": "761145e59d6e4a5b08da1a45c4c46329",
-      "judul_tabel": "Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Lokasi, 2015-2022",
-      "update": "2023-09-18",
+      "id": "c53df8831b59e4ecd1f9d8de7bd6930b",
+      "judul_tabel": "Volume Ekspor Menurut Pelabuhan Utama (Berat bersih: ribu ton) 1996-2022",
+      "update": "2023-07-27",
       "keterangan": "Statistik Dasar",
       "url_tabel": [],
       "data_tables": []
+    },
+    {
+      "id": "4fe61ca439e7973c912d8b8a4725e0d7",
+      "judul_tabel": "Volume Impor Menurut Negara Asal Utama (Berat bersih:ribu ton), 2000-2022",
+      "update": "2023-07-28",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "2640146fb80e27c4229549d3e5708d7c",
+      "judul_tabel": "Volume Impor Menurut Pelabuhan Utama (Berat bersih: ribu ton), 2000-2022",
+      "update": "2023-07-28",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "2266ad73b753697e187fe23aca8a91bf",
+      "judul_tabel": "Rasio Penggunaan Gas Rumah Tangga, 2015-2022",
+      "update": "2023-03-06",
+      "keterangan": "Statistik Sektoral",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "c4f897199331d48a690795013a38f4ab",
+      "judul_tabel": "Indikator Penting Perusahaan Listrik, 2000-2021",
+      "update": "2023-02-15",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "3d8b4170c888c4c93eac17d47517b84e",
+      "judul_tabel": "Kapasitas Terpasang PLN menurut Jenis Pembangkit Listrik, 1995-2021",
+      "update": "2023-02-15",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "29c0089c5fd783fcb41f600377facc14",
+      "judul_tabel": "Pelanggan Perusahaan Listrik Negara, 1995-2021",
+      "update": "2023-02-15",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "ca7fce87d1f010cb9e16431d97a87ef4",
+      "judul_tabel": "Listrik Yang Didistribusikan Kepada Pelanggan, 1995-2021",
+      "update": "2023-02-15",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "89115ec8b39c7bbe4c276ac4ac6cb896",
+      "judul_tabel": "Listrik yang Didistribusikan Menurut Provinsi (GWh), 2011-2021",
+      "update": "2023-02-15",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "bde056c3b0444f53b5861de6b06bbcfd",
+      "judul_tabel": "Tenaga Listrik yang Dibangkitkan Menurut Provinsi, 2011-2021",
+      "update": "2023-02-15",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "fa9879336aebbc46887a94b810532c1d",
+      "judul_tabel": "Kapasitas Terpasang Pembangkit Listrik Menurut Provinsi, 2011-2021",
+      "update": "2023-02-15",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "260fc9c6f8019be3f077a66c6d224c80",
+      "judul_tabel": "Kapasitas Produksi Potensial Perusahaan Air Bersih Menurut Provinsi , 2010-2021",
+      "update": "2022-12-29",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "8bfd0fddd754dafc9f2921d847403597",
+      "judul_tabel": "Volume Penjualan Gas Alam Melalui Saluran Pipa Menurut Jenis Pelanggan, 2010-2021",
+      "update": "2022-12-29",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "8af044e619384f4c18d7c792ec4b82bd",
+      "judul_tabel": "Nilai Air Bersih yang Disalurkan, 1995-2021",
+      "update": "2022-12-29",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "77dc47d2e85c019ebd3d5087d3d13dea",
+      "judul_tabel": "Jumlah Pelanggan Perusahaan Air Bersih, 1995-2021",
+      "update": "2022-12-29",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "ad77026c3ad2e365bbe61ea561cbaaca",
+      "judul_tabel": "Jumlah Pegawai Perusahaan Air Bersih, 1995-2021",
+      "update": "2022-12-29",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "1ff69d30ce4e35e99f70bdee4ca19229",
+      "judul_tabel": "Jumlah Air Bersih yang Disalurkan Perusahaan Air Bersih, 1995-2021",
+      "update": "2022-12-29",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "fa47a27b3e6afa6b73eb6d2a263137c6",
+      "judul_tabel": "Indikator Penting Perusahaan Gas, 2000-2021",
+      "update": "2022-12-29",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "17ecbbe1a32a50479e14174e99e452d2",
+      "judul_tabel": "Indikator Penting Perusahaan Air Bersih, 2000-2021",
+      "update": "2022-12-29",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "f754279ca9a1a244450dc1f34d230849",
+      "judul_tabel": "Bauran Energi Terbarukan, 2015-2021",
+      "update": "2022-05-12",
+      "keterangan": "Statistik Sektoral",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "1aeb6b114b382e6a243058ff18a7a68f",
+      "judul_tabel": "Konsumsi Listrik per Kapita, 2009-2020",
+      "update": "2021-11-08",
+      "keterangan": "Statistik Sektoral",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "6b51ad822fa50d8bf8bb1dd16bf79594",
+      "judul_tabel": "Jumlah sambungan jaringan gas untuk rumah tangga, 2015-2020",
+      "update": "2021-11-08",
+      "keterangan": "Statistik Sektoral",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "0b771cb1b66b34d23cff4cb0d22493da",
+      "judul_tabel": "Rasio Elektrifikasi, 2009-2020",
+      "update": "2021-11-08",
+      "keterangan": "Statistik Sektoral",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "ae0822f2417ca8efc1d7c9a2612e3e75",
+      "judul_tabel": "Intensitas Energi Primer, 2014-2018",
+      "update": "2020-04-01",
+      "keterangan": "Statistik Sektoral",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "7567490dcf877438a924b37213ebaee6",
+      "judul_tabel": "Proporsi Pasokan Energi Primer, 2009-2016",
+      "update": "2018-05-16",
+      "keterangan": "Statistik Sektoral",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "0619f6a1c47174cb322ac80812dcec6e",
+      "judul_tabel": "Pekerja Teknik dan Administrasi PLN, 1995-2012",
+      "update": "2016-01-05",
+      "keterangan": "Statistik Sektoral",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "bd55921226d593e098b96ef225b1d4d0",
+      "judul_tabel": "Perkembangan Beberapa Indikator Hasil Gas Kota Disalurkan oleh PT. PGN (Persero), 2000-2012",
+      "update": "2016-01-05",
+      "keterangan": "Statistik Sektoral",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "ce61b8809502ff2fddd0e37d8b8afdcd",
+      "judul_tabel": "Kapasitas Terpasang, Tenaga Listrik yang Dibangkitkan, dan Listrik yang Didistribusikan Menurut Provinsi, 2014-2015",
+      "update": "2017-11-24",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "218b8552d3e10cae409e7dc02072ae50",
+      "judul_tabel": "Rata-rata Harga Eceran Beras di Pasar Tradisional di 33 Kota, 2000-2016",
+      "update": "2017-07-11",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "34e5a92f3170ae4c4be0201d5b97ef5c",
+      "judul_tabel": "Rata-rata Harga Eceran Nasional Beberapa Jenis Barang, 2011-2016",
+      "update": "2017-07-11",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "35234dfb28ba56674714c8cb84505ba3",
+      "judul_tabel": "Indeks Harga Perdagangan Internasional (IHPI) 2010=100, 2019-2023",
+      "update": "2023-12-01",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "104aa7e677c25daca210c75ff0bea96c",
+      "judul_tabel": "Indeks Harga Perdagangan Besar Bahan Bangunan / Konstruksi, 2000-2023",
+      "update": "2023-12-01",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "3b48eff0eee2e274d3f8caac0da27e92",
+      "judul_tabel": "Rata-rata Harga Beras di Tingkat Perdagangan Besar (Grosir) Indonesia, 2010-2023",
+      "update": "2023-12-01",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "3069ed43b0d49407629c758cde3b22f6",
+      "judul_tabel": "Indeks harga Perdagangan Besar Indonesia (2018=100), 2019-2023",
+      "update": "2023-12-01",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "92dc02190814b57ad685df23f875f2d4",
+      "judul_tabel": "Indeks Harga Perdagangan Besar Bahan Bangunan/Konstruksi Menurut Kelompok Barang, 2000-2019",
+      "update": "2021-02-15",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "4e06721fd505068e088af903230540b2",
+      "judul_tabel": "Indeks harga Perdagangan Besar Indonesia, 2000-2019",
+      "update": "2020-02-06",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "7ca7433adb15471bfa833b75a8aab912",
+      "judul_tabel": "Persentase dan Andil Perubahan Indeks Harga Perdagangan Besar (IHPB), 2017-2019",
+      "update": "2020-01-02",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "d144eba9210d4dd7dc14dcf409903538",
+      "judul_tabel": "Indeks Harga Perdagangan Besar Menurut Kelompok Barang dalam Proses Produksi dan Sektor, 2000-2016",
+      "update": "2018-03-21",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "ac837d757293861de36931f85212689c",
+      "judul_tabel": "Indeks Harga Perdagangan Besar Menurut Kelompok Penggunaan Barang dan Sektor, 2000-2015",
+      "update": "2017-03-07",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [],
+      "data_tables": []
+    },
+    {
+      "id": "42d0c2ba46b851169906a5a166a00db2",
+      "judul_tabel": "Rata-Rata Harga Beras Bulanan di Tingkat Penggilingan Menurut Kualitas, 2013-2023",
+      "update": "2023-12-01",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "07935fbeb1508252836a209ffe32f247",
+      "judul_tabel": "Kasus Harga Gabah di Bawah Harga Pembelian Pemerintah (HPP) Bulanan, 2008-2023",
+      "update": "2023-12-01",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "9052d1187b6371973906fbca3971cf88",
+      "judul_tabel": "Rata-rata Harga Gabah Bulanan Menurut Kualitas, Komponen Mutu dan HPP di Tingkat Penggilingan, 2008-2023",
+      "update": "2023-12-01",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "256697c44f8b209c23b4a527b17dcba7",
+      "judul_tabel": "Rata-rata Harga Gabah Bulanan Menurut Kualitas, Komponen Mutu dan HPP di Tingkat Petani, 2008-2023",
+      "update": "2023-12-01",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "a42af82a86ec815246ad77ec85635933",
+      "judul_tabel": "Inflasi Harga produsen y on y, 2014-2023",
+      "update": "2023-11-01",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "6bdb2faa027c47f21a7732878e613617",
+      "judul_tabel": "Inflasi Harga Produsen, 2010-2023",
+      "update": "2023-11-01",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "c3921a8bb20858fa2950305d7b98a713",
+      "judul_tabel": "Indeks Harga Produsen, 2010-2023",
+      "update": "2023-11-01",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "9da18a0f17ff15c65edb88c9b9481b91",
+      "judul_tabel": "Indeks Keparahan Harga Gabah, 2010-2022",
+      "update": "2023-07-13",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "2bbf22af2023aa14c3777026aaaaaad5",
+      "judul_tabel": "Indeks Kedalaman Harga Gabah, 2010-2022",
+      "update": "2023-07-13",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "0ef185c55890afbdbc2a3194b8f87033",
+      "judul_tabel": "Diagram Timbang Indeks Harga Produsen 2010=100",
+      "update": "2022-12-07",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "07a57133bf15bc1772515799a73c6b71",
+      "judul_tabel": "Rata-Rata Harga Gabah Menurut Kelompok Kualitas dan HPP di Tingkat Petani dan Tingkat Penggilingan (Rupiah/kg), 2000-2022",
+      "update": "2023-04-10",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "7aa1c5053ecd91fbe0a4d051180193a0",
+      "judul_tabel": "IBS Triwulanan (2010=100), 2010-2023",
+      "update": "2023-11-30",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "d112999f520cc2cc6cc0a65985e0e777",
+      "judul_tabel": "IBS Bulanan (2010=100), 2010-2023",
+      "update": "2023-11-30",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "4f2bca793718c790771eb3bfbac3c147",
+      "judul_tabel": "Indeks Produksi Triwulanan Industri Besar dan Sedang Menurut KBLI 2 Digit [KBLI 2020] (2010=100), 2010-2022",
+      "update": "2023-06-08",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "41354eadfdc3ddb29ef3276d2a7e83b8",
+      "judul_tabel": "Indeks Produksi Bulanan Industri Besar dan Sedang Menurut KBLI 2 Digit [KBLI 2020] (2010=100), 2010-2022",
+      "update": "2023-06-08",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "9879a078f63e465a56a8a16c39a5039d",
+      "judul_tabel": "Laju Pertumbuhan PDB Industri Manufaktur, 2011-2022",
+      "update": "2023-03-24",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "0ea7e1ea6bcf15bd458df994096ad85a",
+      "judul_tabel": "Nilai Tambah Sektor Industri Manufaktur per Kapita, 2010-2022",
+      "update": "2023-03-24",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "93faf31f4f3f7d9486e520efc359a4ce",
+      "judul_tabel": "Proporsi Nilai Tambah Sektor Industri Manufaktur Terhadap PDB, 2010-2022",
+      "update": "2023-03-07",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "335f496b920db6916a602154cb21ff6c",
+      "judul_tabel": "Proporsi Tenaga Kerja pada Sektor Industri Manufaktur, 2015-2022",
+      "update": "2023-01-16",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "772dd22498449d1cce5cbf5a98080f39",
+      "judul_tabel": "Komposisi Nilai Output Industri Besar Dan Sedang, 2004-2021",
+      "update": "2023-10-02",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "815ee469873a3a91cf57fd3dc77a2af9",
+      "judul_tabel": "Komposisi Biaya Input Industri Besar Dan Sedang, 2004-2021",
+      "update": "2023-10-02",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "05733cc6355c3a90752aabc2324c5b12",
+      "judul_tabel": "Nilai Tambah (Biaya Faktor Produksi) Industri Besar sedang Menurut Subsektor [KBLI 2020], 2012-2021",
+      "update": "2023-10-02",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "f50b38217c1641bcd6cc7d41f868cacb",
+      "judul_tabel": "Nilai Tambah (Harga Pasar) Industri Besar sedang Menurut Subsektor [KBLI 2020], 2008-2021",
+      "update": "2023-10-02",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "a713db90ee7688e466f49c6ee9fe3b9a",
+      "judul_tabel": "Pajak Tidak Langsung IBS menurut KBLI 2 digit [KBLI 2020], 2008-2021",
+      "update": "2023-10-02",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "4909752f104dba4d4f75f385166c328b",
+      "judul_tabel": "Jumlah Tenaga Kerja Industri Besar Dan Sedang Menurut Sub Sektor [KBLI 2020], 2008-2021",
+      "update": "2023-10-02",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "1d404bf0904ec99661bb399a93d5300f",
+      "judul_tabel": "Biaya Input IBS menurut KBLI 2 Digit [KBLI 2020], 2008-2021",
+      "update": "2023-10-02",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "a9ee71e343b9304a84fe8c9660151cca",
+      "judul_tabel": "Jumlah Industri Pengolahan Besar dan Sedang, Jawa dan Luar Jawa, 2001-2021",
+      "update": "2023-10-02",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "0ddec540f13806af2b1915e5319e1204",
+      "judul_tabel": "Jumlah Perusahaan IBS (KBLI 2020), 2008-2021",
+      "update": "2023-10-02",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "d4520289ce3937a51025cde7307fd685",
+      "judul_tabel": "Proporsi Industri Kecil Dengan Pinjaman Atau Kredit, 2014-2020",
+      "update": "2023-03-07",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "4080edef3c98f287727a3b2279703260",
+      "judul_tabel": "Proporsi Nilai Tambah Industri Kecil Terhadap Total Nilai Tambah Industri, 2010-2020",
+      "update": "2023-03-07",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "7524ed66d0c65b25a1b2dd1efd5cd74d",
+      "judul_tabel": "Perubahan Modal tetap IBS menurut KBLI 2 digit [KBLI 2009], 2008-2019",
+      "update": "2022-03-02",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "9e40ab288ce1e9c30bb6119a4c995587",
+      "judul_tabel": "Nilai Output IBS menurut KBLI 2 Digit [KBLI 2009], 2008-2019",
+      "update": "2021-08-27",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "70d4f263d713a18de4c50e12130f5c03",
+      "judul_tabel": "Pengeluaran untuk Tenaga Kerja Industri Besar Dan Sedang Menurut Sub Sektor [KBLI 2009], 2008-2019",
+      "update": "2021-08-27",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "8efbab45d4b96989a22178c73ac6507e",
+      "judul_tabel": "Produktivitas Tenaga Kerja Menurut Sub Sektor, 2008-2018",
+      "update": "2020-12-14",
+      "keterangan": ""
+    },
+    {
+      "id": "a355b4aaca21ee2f42fd3edd1c7812cc",
+      "judul_tabel": "Produksi Kendaraan Bermotor dalam Negeri, 2000-2016",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "c6debda91313faddc39be137549f07c8",
+      "judul_tabel": "Perubahan Modal tetap Industri Besar Dan Sedang Menurut Subsektor [KBLI 2000], 2000-2011",
+      "update": "2019-12-01",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "8f6635bf9b84f580921ea4a3742f283f",
+      "judul_tabel": "Pajak Tidak Langsung IBS menurut KBLI 2 Digit [KBLI 2000], 2000-2011",
+      "update": "2019-12-01",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "b18d7adb558347a3978999cae782ae21",
+      "judul_tabel": "Pengeluaran untuk Tenaga Kerja Industri Besar Dan Sedang Menurut Sub Sektor [KBLI 2000], 2000-2011",
+      "update": "2019-12-01",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "77742a517f5efa12811ac3e6659b134c",
+      "judul_tabel": "Nilai Output IBS menurut KBLI 2 Digit [KBLI 2000], 2000-2011",
+      "update": "2019-12-01",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "b611a55a673eaf35de68999d85bd56a3",
+      "judul_tabel": "Nilai Tambah (Biaya Faktor Produksi) Industri Besar sedang Menurut Subsektor [KBLI 2000], 2000-2011",
+      "update": "2019-12-01",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "cb90abf379822b35dd839f6d1bdb8540",
+      "judul_tabel": "Nilai Tambah (Harga Pasar) Industri Besar Sedang Menurut Subsektor [KBLI 2000], 2000-2011",
+      "update": "2019-12-01",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "eb84c6907214224b9ac77b2fe6199466",
+      "judul_tabel": "Indeks Produksi Triwulanan Industri Besar dan Sedang Menurut KBLI 2 Digit [KBLI 2000] (2000=100), 2007-2011",
+      "update": "2019-12-01",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "c4aabf57c2a5224470c0b4bcf20e6139",
+      "judul_tabel": "IBS Bulanan (2000=100), 2003-2011",
+      "update": "2018-01-09",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "1b786c6efbf859a4534694dab66935c7",
+      "judul_tabel": "IBS Triwulanan (2000=100), 2003-2011",
+      "update": "2015-10-16",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "95ef52acb4eb12824e5f715ccf712a9c",
+      "judul_tabel": "Produktivitas Tenaga Kerja, 2001-2010",
+      "update": "2020-12-14",
+      "keterangan": ""
+    },
+    {
+      "id": "3734c8e0d892aa8fe6512f713742ab98",
+      "judul_tabel": "Nilai Output Industri Besar dan Sedang (miliar rupiah), 2012-2019",
+      "update": "2022-03-02",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "213811baa49b8537d443b819def8b70e",
+      "judul_tabel": "Pengeluaran untuk Tenaga Kerja Menurut 2-digit KBLI, 2010-2022",
+      "update": "2023-11-06",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "d08894b3b18ed073d527c7727cf7b66e",
+      "judul_tabel": "Nilai Tambah Menurut 2-digit KBLI, 2010-2022",
+      "update": "2023-11-06",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "efebb16dd03774f50b3f246ace1e698e",
+      "judul_tabel": "Nilai Output Menurut 2-digit KBLI, 2010-2022",
+      "update": "2023-11-06",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "756f7021e1cfd54ca1113f0b70e0ec52",
+      "judul_tabel": "Nilai Input Menurut 2-digit KBLI, 2010-2022",
+      "update": "2023-11-06",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "06677a7da6b9ba27b8bcbae1e03d8f6e",
+      "judul_tabel": "Jumlah Tenaga Kerja Menurut 2-digit KBLI, 2010-2022",
+      "update": "2023-11-06",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "fe2e2dd97455a588cebfa51fabcd1782",
+      "judul_tabel": "Jumlah Perusahaan Menurut 2-digit KBLI, 2010-2022",
+      "update": "2023-11-06",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "43800df4bedc733b8d6905d8a1e90866",
+      "judul_tabel": "Pengeluaran untuk Tenaga Kerja Menurut Provinsi, 2013-2022",
+      "update": "2023-11-06",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "d8cc4c97d944319adf2d09929cb2252e",
+      "judul_tabel": "Nilai Tambah (Harga Pasar) Menurut Provinsi, 2013-2022",
+      "update": "2023-11-06",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "6736436d35b6895ed2351478c985dfbf",
+      "judul_tabel": "Nilai Output Menurut Provinsi, 2013-2022",
+      "update": "2023-11-06",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "86b271b92e7d2e5040a9655853e4ae93",
+      "judul_tabel": "Nilai Input Menurut Provinsi, 2013-2022",
+      "update": "2023-11-06",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "c37167e97cf0957973ee3983ee1f8e77",
+      "judul_tabel": "Jumlah Tenaga Kerja Menurut Provinsi, 2013-2022",
+      "update": "2023-11-06",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "9d569ee541c55c5b7c6caba24ff1b44e",
+      "judul_tabel": "Jumlah Perusahaan menurut provinsi, 2013-2022",
+      "update": "2023-11-06",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "35221bb2e44b3b295989df4d9373572c",
+      "judul_tabel": "Pertumbuhan Produksi Tahunan Y on Y Menurut Provinsi, 2012-2022",
+      "update": "2023-06-27",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "5e4a3a67cc47924cea8df54b22cb58c6",
+      "judul_tabel": "Pertumbuhan Produksi Triwulanan Q to Q menurut provinsi, 2011-2022",
+      "update": "2023-06-27",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "7383ff880563799052df6762033c667e",
+      "judul_tabel": "Indeks Produksi Triwulanan menurut Provinsi, 2011-2022",
+      "update": "2023-06-27",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "df3d4c3a60e222e679a19b86ac02421b",
+      "judul_tabel": "Pertumbuhan Produksi Tahunan Y on Y Menurut 2-digit KBLI, 2012-2022",
+      "update": "2023-06-27",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "3ed034538426744f9fd36a2a606d9108",
+      "judul_tabel": "Pertumbuhan Produksi Triwulanan Q to Q menurut 2-digit KBLI, 2011-2022",
+      "update": "2023-06-27",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "69de2d06d8497a8e5be3fe3349b80223",
+      "judul_tabel": "Indeks Produksi Triwulanan menurut 2-digit KBLI, 2011-2022",
+      "update": "2023-06-27",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "dfd5fdeaca9fddd2708fe90629f866aa",
+      "judul_tabel": "Inflasi Tahun Kalender (2018=100) Menurut Kelompok dan Sub Kelompok 01 Makanan, Minuman dan Tembakau, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "1cf43f529bd0e302ce4e1a09d1b4f9cc",
+      "judul_tabel": "Inflasi Tahun Kalender (2018=100) Menurut Kelompok dan Sub Kelompok 02 Pakaian dan Alas Kaki, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "323e60336da709253e3da8ad7d4ade5f",
+      "judul_tabel": "Inflasi Tahun Kalender (2018=100) Menurut Kelompok dan Sub Kelompok 03 Perumahan, Air, Listrik dan Bahan Bakar Rumah Tangga, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "b14a57fa6a4e01799c938076e054556a",
+      "judul_tabel": "Inflasi Tahun Kalender (2018=100) Menurut Kelompok dan Sub Kelompok 04 Perlengkapan, Peralatan dan Pemeliharaan Rutin Rumah Tangga, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "2bcbb947b405d290153ff1ce183fee49",
+      "judul_tabel": "Inflasi Tahun Kalender (2018=100) Menurut Kelompok dan Sub Kelompok 05 Kesehatan, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "683cd5754070925619cc7550079058d3",
+      "judul_tabel": "Inflasi Tahun Kalender (2018=100) Menurut Kelompok dan Sub Kelompok 06 Transportasi, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "55ae609372cf8d728ee7a6992c669e1b",
+      "judul_tabel": "Inflasi Tahun Kalender (2018=100) Menurut Kelompok dan Sub Kelompok 07 Informasi, Komunikasi dan Jasa Keuangan, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "aa7cab5abde79c250a0eeb2601f8bd32",
+      "judul_tabel": "Inflasi Tahun Kalender (2018=100) Menurut Kelompok dan Sub Kelompok 08 Rekreasi, Olahraga dan Budaya, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "1d873c31a2bc6761f18b3d110b606383",
+      "judul_tabel": "Inflasi Tahun Kalender (2018=100) Menurut Kelompok dan Sub Kelompok 09 Pendidikan, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "bba29289ccca959846233287657be0f9",
+      "judul_tabel": "Inflasi Tahun Kalender (2018=100) Menurut Kelompok dan Sub Kelompok 10 Penyediaan Makanan dan Minuman / Restoran, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "b91b701ba0d94dcc4caaca47d46ca727",
+      "judul_tabel": "Inflasi Tahun Kalender (2018=100) Menurut Kelompok dan Sub Kelompok 11 Perawatan Pribadi dan Jasa Lainnya, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "692ca52f78a84b9de53f158160352832",
+      "judul_tabel": "Inflasi (2018=100) Menurut Kelompok dan Sub Kelompok 01 Makanan, Minuman dan Tembakau, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "ccb6d149d11a3d5d03a8cceeef4f2e01",
+      "judul_tabel": "Inflasi (2018=100) Menurut Kelompok dan Sub Kelompok 02 Pakaian dan Alas Kaki, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "a996db10c9976dae496fe785151ef5b9",
+      "judul_tabel": "Inflasi (2018=100) Menurut Kelompok dan Sub Kelompok 03 Perumahan, Air, Listrik dan Bahan Bakar Rumah Tangga, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "0873fb213faf56f970efd16d1a5e99b0",
+      "judul_tabel": "Inflasi (2018=100) Menurut Kelompok dan Sub Kelompok 04 Perlengkapan, Peralatan dan Pemeliharaan Rutin Rumah Tangga, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "3cd212fbf0962aa5adbafaf01814b15f",
+      "judul_tabel": "Inflasi (2018=100) Menurut Kelompok dan Sub Kelompok 05 Kesehatan, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "d66dd234cd6c638740ddb39e647655a1",
+      "judul_tabel": "Inflasi (2018=100) Menurut Kelompok dan Sub Kelompok 06 Transportasi, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "38db69f48f417367a5fab87676343107",
+      "judul_tabel": "Inflasi (2018=100) Menurut Kelompok dan Sub Kelompok 07 Informasi, Komunikasi dan Jasa Keuangan, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "9b9387e1bcc1cc9a350330407e0baa64",
+      "judul_tabel": "Inflasi (2018=100) Menurut Kelompok dan Sub Kelompok 08 Rekreasi, Olahraga dan Budaya, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "5e7fa96e7e0f88d5bf8ea501af57cbcd",
+      "judul_tabel": "Inflasi (2018=100) Menurut Kelompok dan Sub Kelompok 09 Pendidikan, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "ee18556b736ef38e86bf6072169c3ae5",
+      "judul_tabel": "Inflasi (2018=100) Menurut Kelompok dan Sub Kelompok 10 Penyediaan Makanan dan Minuman / Restoran, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "bc6899d6b8f8f59b5748c1463c086de3",
+      "judul_tabel": "Inflasi (2018=100) Menurut Kelompok dan Sub Kelompok 11 Perawatan Pribadi dan Jasa Lainnya, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "48aff00e00021076964299e7e1672d70",
+      "judul_tabel": "Indeks Harga Konsumen (2018=100) Menurut Kelompok dan Sub Kelompok 01 Makanan, Minuman dan Tembakau, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "fbb75eca2153675716a3a4a71c021a1d",
+      "judul_tabel": "Indeks Harga Konsumen (2018=100) Menurut Kelompok dan Sub Kelompok 02 Pakaian dan Alas Kaki, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "777cd6d9aebba2e1c8818f4016cef371",
+      "judul_tabel": "Indeks Harga Konsumen (2018=100) Menurut Kelompok dan Sub Kelompok 03 Perumahan, Air, Listrik dan Bahan Bakar Rumah Tangga, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "b9a47d565d2b3a064002aebc34a404f4",
+      "judul_tabel": "Indeks Harga Konsumen (2018=100) Menurut Kelompok dan Sub Kelompok 04 Perlengkapan, Peralatan dan Pemeliharaan Rutin Rumah Tangga, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "a7725753ffcdf05a651a29102c27d801",
+      "judul_tabel": "Indeks Harga Konsumen (2018=100) Menurut Kelompok dan Sub Kelompok 05 Kesehatan, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "e40e80839f0591ab42ef851a12dea668",
+      "judul_tabel": "Indeks Harga Konsumen (2018=100) Menurut Kelompok dan Sub Kelompok 06 Transportasi, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "460b745965792bfad2c21da347461c51",
+      "judul_tabel": "Indeks Harga Konsumen (2018=100) Menurut Kelompok dan Sub Kelompok 07 Informasi, Komunikasi dan Jasa Keuangan, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "c97d72d9759f0879ade1f7a794620305",
+      "judul_tabel": "Indeks Harga Konsumen (2018=100) Menurut Kelompok dan Sub Kelompok 08 Rekreasi, Olahraga dan Budaya, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "03b7c3c1023c5dc5bb2d38c272a0c52c",
+      "judul_tabel": "Indeks Harga Konsumen (2018=100) Menurut Kelompok dan Sub Kelompok 09 Pendidikan, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "d4c35d2b2bc845ea34c5f58a158fd6ff",
+      "judul_tabel": "Indeks Harga Konsumen (2018=100) Menurut Kelompok dan Sub Kelompok 10 Penyediaan Makanan dan Minuman / Restoran, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "d8bbbe2e956f987e8bdafe08cc415fe9",
+      "judul_tabel": "Indeks Harga Konsumen (2018=100) Menurut Kelompok dan Sub Kelompok 11 Perawatan Pribadi dan Jasa Lainnya, 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "1fe78d8a754fc152b2d1beba8857cb7e",
+      "judul_tabel": "Indeks Harga Konsumen 90 Kota (Umum), 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "e97d2cf1b061fdeebd9f195902b4ec2b",
+      "judul_tabel": "Inflasi 90 Kota (Umum), 2020-2023",
+      "update": "2023-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "d47222bef20593b7e70f50309cf85234",
+      "judul_tabel": "Inflasi (Umum), 1979-2019",
+      "update": "2022-01-05",
+      "keterangan": ""
+    },
+    {
+      "id": "068aef81811cd317ee32d50f4b2ec886",
+      "judul_tabel": "Indeks Harga Konsumen (Umum), 1979-2019",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "e0d8a48f2959165ae33c2b565ed94bb7",
+      "judul_tabel": "Inflasi (2012=100) Menurut Kelompok 01 Bahan Makanan, 2014-2019",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "09d4c4707653faa78c9af13e03f9f578",
+      "judul_tabel": "Inflasi (2012=100) Menurut Kelompok 02 Makanan Jadi, Minuman, Rokok dan Tembakau, 2014-2019",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "18f7852a2b30dd6fba40f3724c11a377",
+      "judul_tabel": "Inflasi (2012=100) Menurut Kelompok 03 Perumahan, Air, Listrik, Gas dan Bahan Bakar, 2014-2019",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "8bc9efd5a52cad9bcb439b5172a894e9",
+      "judul_tabel": "Inflasi (2012=100) Menurut Kelompok 04 Sandang, 2014-2019",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "b16ad1d9a55a543593c0f31ba3a26504",
+      "judul_tabel": "Inflasi (2012=100) Menurut Kelompok 05 Kesehatan, 2014-2019",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "ec9b3ce7f135391545b85aef16ddbe79",
+      "judul_tabel": "Inflasi (2012=100) Menurut Kelompok 06 Pendidikan, Rekreasi dan Olahraga, 2014-2019",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "9bf3526857df630c070251788b6c5a64",
+      "judul_tabel": "Inflasi (2012=100) Menurut Kelompok 07 Transpor, Komunikasi dan Jasa Keuangan, 2014-2019",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "1b846ee097e0b2902230057c5c519759",
+      "judul_tabel": "Indeks Harga Konsumen (2012=100) Menurut Kelompok 01 Bahan Makanan, 2014-2019",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "188198f4a0cc55b5ea9f47592020c25a",
+      "judul_tabel": "Indeks Harga Konsumen (2012=100) Menurut Kelompok 02 Makanan Jadi, Minuman, Rokok dan Tembakau, 2014-2019",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "70d8eeb7d3f5eca0f06ca2e54c5ea9db",
+      "judul_tabel": "Indeks Harga Konsumen (2012=100) Menurut Kelompok 03 Perumahan, Air, Listrik, Gas dan Bahan Bakar, 2014-2019",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "932bfee151ac5e6d0c4d00a5c2fe49ce",
+      "judul_tabel": "Indeks Harga Konsumen (2012=100) Menurut Kelompok 04 Sandang, 2014-2019",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "7c9399fe5c10751019b72429883a6b85",
+      "judul_tabel": "Indeks Harga Konsumen (2012=100) Menurut Kelompok 05 Kesehatan, 2014-2019",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "46a92f22b2fbb0e7652555c47007286b",
+      "judul_tabel": "Indeks Harga Konsumen (2012=100) Menurut Kelompok 06 Pendidikan, Rekreasi dan Olahraga, 2014-2019",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "c0f72c95877d0e69282898da4b925407",
+      "judul_tabel": "Indeks Harga Konsumen (2012=100) Menurut Kelompok 07 Transpor, Komunikasi dan Jasa Keuangan, 2014-2019",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "c30012e6bc5a6cc6f40f5cbcd3083684",
+      "judul_tabel": "Inflasi Tahun Kalender (2012=100) Menurut Kelompok 01 Bahan Makanan, 2014-2019",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "2d5a6571d5017953f0220e0a5425262c",
+      "judul_tabel": "Inflasi Tahun Kalender (2012=100) Menurut Kelompok 02 Makanan Jadi, Minuman, Rokok dan Tembakau, 2014-2019",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "7a0e64f5db3f27262b93ae129ff036d8",
+      "judul_tabel": "Inflasi Tahun Kalender (2012=100) Menurut Kelompok 03 Perumahan, Air, Listrik, Gas dan Bahan Bakar, 2014-2019",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "bcef391602f9430872ba4465ba065d94",
+      "judul_tabel": "Inflasi Tahun Kalender (2012=100) Menurut Kelompok 04 Sandang, 2014-2019",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "de481d02bc7142bba236a4afde6f1edd",
+      "judul_tabel": "Inflasi Tahun Kalender (2012=100) Menurut Kelompok 05 Kesehatan, 2014-2019",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "bfef86f6c89c604f1b1eb1ca027a23ed",
+      "judul_tabel": "Inflasi Tahun Kalender (2012=100) Menurut Kelompok 06 Pendidikan, Rekreasi dan Olahraga, 2014-2019",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "5144e3ec05c3f88c3d92a5c7f2635596",
+      "judul_tabel": "Inflasi Tahun Kalender (2012=100) Menurut Kelompok 07 Transpor, Komunikasi dan Jasa Keuangan, 2014-2019",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "2c722fa3b8269aba751e37d38808007f",
+      "judul_tabel": "Indeks Harga Konsumen dan Inflasi Bulanan Indonesia, 2006-2022",
+      "update": "2022-07-01",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "7ff78cab77deeddd32c8309f603305ad",
+      "judul_tabel": "Indeks Harga Konsumen Menurut Kelompok Pengeluaran, 2020-2022",
+      "update": "2022-07-01",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "4d1b6cf158aacbf1782effd1c5278ab6",
+      "judul_tabel": "Indeks Harga Konsumen per Kelompok dan Subkelompok, Gabungan 82 Kota (2012=100)",
+      "update": "2017-11-16",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "b34ea0cbaec40efa002155701d848be2",
+      "judul_tabel": "Indeks Harga Konsumen per Kelompok di 66 Kota (2007=100), 2000-2012",
+      "update": "2015-09-23",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "e7b4fd608b1701df4f13404970c2148d",
+      "judul_tabel": "Indeks Harga Konsumen per Kelompok di 82 Kota 1 (2012=100)",
+      "update": "2017-11-16",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "8e848ce05322550f8bdb2491a19aee12",
+      "judul_tabel": "Inflasi Indonesia Menurut Kelompok Pengeluaran, 2006-2019",
+      "update": "2020-02-04",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "1ba8dc7649b2abe2bf1bb9003976f844",
+      "judul_tabel": "Inflasi Indonesia Menurut Kelompok Pengeluaran, 2020-2022",
+      "update": "2022-07-01",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "b388a75f9102b769c0eae43bbe3d873a",
+      "judul_tabel": "Inflasi Umum, Inti, Harga Yang Diatur Pemerintah, dan Barang Bergejolak Inflasi Indonesia, 2009-2023",
+      "update": "2023-12-01",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "4f8be3ad101333df71050a28fe9a39de",
+      "judul_tabel": "Perbandingan Indeks dan Tingkat Inflasi November 2023 Kota-kota di Luar Pulau Jawa dan Sumatera dengan Nasional (2018=100)",
+      "update": "2023-12-01",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "18e7111827c29b97dac50a9435c0c567",
+      "judul_tabel": "Perbandingan Indeks dan Tingkat Inflasi November 2023 Kota-kota di Pulau Jawa dengan Nasional (2018=100)",
+      "update": "2023-12-01",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "cf54230abed8a4f579e1123fca286288",
+      "judul_tabel": "Perbandingan Indeks dan Tingkat Inflasi November 2023 Kota-kota di Pulau Sumatera dengan Nasional (2018=100)",
+      "update": "2023-12-01",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "6f29950b37e80374f6e4d28ff7316a19",
+      "judul_tabel": "Tingkat Inflasi Bulanan Gabungan 90 Kota 1 (2018=100)",
+      "update": "2023-12-01",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "6781a501d0c3cb32cddc800df2488772",
+      "judul_tabel": "Tingkat Inflasi Gabungan 82 Kota 1 (2012=100)",
+      "update": "2017-11-16",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "e8908506ec222a21baf29a33b9cde07b",
+      "judul_tabel": "Tingkat Inflasi Tahun Kalender Gabungan 90 Kota 1 (2018=100)",
+      "update": "2023-12-01",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "b105a0b161dfb379986052ef05c67bcc",
+      "judul_tabel": "Tingkat Inflasi Tahun ke Tahun Gabungan 90 Kota 1 (2018=100)",
+      "update": "2023-12-01",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "690241082cf9182be3fa429214f67b93",
+      "judul_tabel": "Indeks Harga Konsumen Beberapa Negara (2005=100), 2009-2012",
+      "update": "2014-09-22",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "f70bf9b08626d6c5af593bed5f89eaa9",
+      "judul_tabel": "Struktur Output Menurut Sektor Ekonomi, 1995-2005",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "49e4d0f8010e7635e11307a61ffd9b16",
+      "judul_tabel": "Struktur Nilai Tambah Bruto (NTB) Menurut Sektor Ekonomi, 1995-2005",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "764eb67ff033b582680d120e46fa4d76",
+      "judul_tabel": "Indeks Daya Penyebaran dan Indeks Derajat Kepekaan Menurut Sektor Ekonomi, 1995, 2000, 2005, dan 2010",
+      "update": "2017-11-20",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "07b50c7fda7e4562947c0acf3de29482",
+      "judul_tabel": "Klasifikasi 17 Sektor Tabel Input-Output Indonesia 2010",
+      "update": "2016-01-13",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "8287be800c957dd1ccc9b4022eb09ae8",
+      "judul_tabel": "Konkordansi Klasifikasi Tabel Input-Output Indonesia, 2016 (185 Produk - 17 Produk)",
+      "update": "2021-04-29",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "0410eb164886aca0e492c3259b115ce4",
+      "judul_tabel": "Konkordansi Klasifikasi Tabel Inter Regional Input-Output Indonesia, 2016 (52 Industri - 17 Lapangan Usaha)",
+      "update": "2021-04-30",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "eebbf19a32f9c7debf3fc4af048c7f4b",
+      "judul_tabel": "Tabel Input Output 185 Produk, 2010",
+      "update": "2019-07-08",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "0ff8d8ce3f5163f4bb90f00f75b34b25",
+      "judul_tabel": "Tabel Input-Output Indonesia Transaksi Domestik Atas Dasar Harga Dasar (17 Produk), 2016 (Juta Rupiah)",
+      "update": "2021-04-29",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "a62e5b8091ae3f8d4e77f04d87ca108d",
+      "judul_tabel": "Tabel Input-Output Indonesia Transaksi Domestik Atas Dasar Harga Dasar (185 Produk), 2016 (Juta Rupiah)",
+      "update": "2021-04-29",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "980103104c4380be34ead2c25b139775",
+      "judul_tabel": "Tabel Input-Output Indonesia Transaksi Domestik Atas Dasar Harga Produsen (17 Lapangan Usaha), 2016 (Juta Rupiah)",
+      "update": "2021-04-30",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "c27249f81453ac1130d1ccbf4dbe8692",
+      "judul_tabel": "Tabel Input-Output Indonesia Transaksi Domestik Atas Dasar Harga Produsen (52 Industri), 2016 (Juta Rupiah)",
+      "update": "2021-04-30",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "e8605108f66d0a8479eca93192040a0e",
+      "judul_tabel": "Tabel Input-Output Indonesia Transaksi Total Atas Dasar Harga Dasar (17 Produk), 2016 (Juta Rupiah)",
+      "update": "2021-04-29",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "05dd6382a1a65fcb124f0a27146cdbc4",
+      "judul_tabel": "Tabel Input-Output Indonesia Transaksi Total Atas Dasar Harga Dasar (185 Produk), 2016 (Juta Rupiah)",
+      "update": "2021-04-29",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "37260d4031281bb9366899b295ce08a7",
+      "judul_tabel": "Tabel Input-Output Indonesia Transaksi Total Atas Dasar Harga Pembeli (17 Produk), 2016 (Juta Rupiah)",
+      "update": "2021-04-29",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "9ab8ff73c4aa7135e6c4602493976cc6",
+      "judul_tabel": "Tabel Input-Output Indonesia Transaksi Total Atas Dasar Harga Pembeli (185 Produk), 2016 (Juta Rupiah)",
+      "update": "2021-04-29",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "0ac23bb6016dd3d0be6d3791d41711d8",
+      "judul_tabel": "Tabel Inter Regional Input-Output Indonesia Transaksi Domestik Atas Dasar Harga Produsen Menurut 34 Provinsi dan 17 Lapangan Usaha, 2016 (Juta Rupiah)",
+      "update": "2021-06-03",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "90cfb71ed2bd13d3631b5f52c59cbb6b",
+      "judul_tabel": "Tabel Inter Regional Input-Output Indonesia Transaksi Domestik Atas Dasar Harga Produsen Menurut 34 Provinsi dan 52 Industri, 2016 (Juta Rupiah)",
+      "update": "2021-06-03",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "82c4c9b259aa038d2d25d6d824abc2db",
+      "judul_tabel": "Tabel Inter Regional Input-Output Indonesia Transaksi Domestik Atas Dasar Harga Produsen Menurut 6 Kelompok Pulau dan 17 Lapangan Usaha, 2016 (Juta Rupiah)",
+      "update": "2021-06-03",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "8d97ad5e7fef9fe0726d872d75128849",
+      "judul_tabel": "Tabel Inter Regional Input-Output Indonesia Transaksi Domestik Atas Dasar Harga Produsen Menurut 6 Kelompok Pulau dan 52 Industri, 2016 (Juta Rupiah)",
+      "update": "2021-06-03",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "135f534976c3c2268554ba93edf09ec0",
+      "judul_tabel": "Transaksi Domestik Atas Dasar Harga Dasar, 2010",
+      "update": "2017-11-22",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "0d0fd5a9a137908056c95381e9d85a63",
+      "judul_tabel": "Transaksi Domestik Atas Dasar Harga Produsen pada 9 Sektor Ekonomi (miliar rupiah), 2005",
+      "update": "2015-10-07",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "3049400178ebfee89767837b5b7a3cf0",
+      "judul_tabel": "Transaksi Total Atas Dasar Harga Dasar, 2010",
+      "update": "2016-04-15",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "1b458a458444ac6e08d0d6410d2799a0",
+      "judul_tabel": "Transaksi Total Atas Dasar Harga Pembeli, 2010",
+      "update": "2016-01-13",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "a383f49169a06dadaa8544caec0f2c12",
+      "judul_tabel": "Transaksi Total Atas Dasar Harga Pembeli 9 Sektor Ekonomi (miliar rupiah), 2005",
+      "update": "2014-09-08",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "9a60849fe1cb464b388fafd5b51825eb",
+      "judul_tabel": "Transaksi Total Atas Dasar Harga Produsen 9 Sektor Ekonomi (miliar rupiah), 2005",
+      "update": "2014-09-08",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "1ebf8f9ded54262c528eb91b57d89595",
+      "judul_tabel": "Indeks Tendensi Bisnis (ITB) dan Indeks Tendensi Konsumen (ITK), 2000-2020",
+      "update": "2020-02-11",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "c5781b17ad58a3f8183236136ea85c1f",
+      "judul_tabel": "Posisi Kredit Modal Kerja Perbankan Menurut Sektor Ekonomi [Format Baru], 2016-2023",
+      "update": "2023-11-22",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "90dc88c0e191484b5cf217187f170a80",
+      "judul_tabel": "Posisi Kredit Investasi Perbankan Menurut Sektor Ekonomi [Format Baru], 2016-2023",
+      "update": "2023-11-22",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "9ae9f1fcadfb5a54d8b454aaaf3e4934",
+      "judul_tabel": "Suku Bunga Kredit Rupiah Menurut Kelompok Bank, 2002-2023",
+      "update": "2023-11-22",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "0b28888bd77d2cdd427ea9f9d69d2857",
+      "judul_tabel": "BI Rate, 2005-2023",
+      "update": "2023-11-22",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "70a09ea907ad4e3e620352381892ac49",
+      "judul_tabel": "Transaksi dan Indeks Saham di Bursa Efek, 1994-2023",
+      "update": "2023-11-22",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "c4c6934dd0130babba25162f35b873ff",
+      "judul_tabel": "Uang Beredar, 2003-2023",
+      "update": "2023-11-22",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "eac5d36cd952e7355303e935d92f2cd4",
+      "judul_tabel": "Tabel Anggaran Belanja Pemerintah Pusat Berdasarkan Fungsi, 2005-2023",
+      "update": "2023-01-20",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "752b75c05ca686c3f2315239e6e70d20",
+      "judul_tabel": "Realisasi Pendapatan Negara, 2007-2023",
+      "update": "2023-01-20",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "b7a37b060f1edfd1eeae226f7ecca453",
+      "judul_tabel": "Realisasi Investasi Penanaman Modal Luar Negeri Menurut Provinsi, 2006-2022",
+      "update": "2023-05-31",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "6d2525fe6ebada4fb0cd7dea64ffdc3a",
+      "judul_tabel": "Realisasi Investasi Penanaman Modal Luar Negeri Menurut Negara, 2000-2022",
+      "update": "2023-05-31",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "e937043555c7e95e5f8450f076645a1b",
+      "judul_tabel": "Realisasi Investasi Penanaman Modal Luar Negeri Menurut Sektor Ekonomi (23 Sektor), 2017-2022",
+      "update": "2023-05-31",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "228c99a45138d22544c652b3065ea10d",
+      "judul_tabel": "Realisasi Investasi Penanaman Modal Dalam Negeri Menurut Sektor Ekonomi (23 Sektor), 2017-2022",
+      "update": "2023-05-31",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "bee2e5138e23a964ae4b30dc7e51e44e",
+      "judul_tabel": "Realisasi Investasi Penanaman Modal Dalam Negeri Menurut Provinsi (Proyek), 2006-2022",
+      "update": "2023-05-31",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "92a43386275fe84e8abf29e166f15bdb",
+      "judul_tabel": "Realisasi Investasi Penanaman Modal Dalam Negeri Menurut Provinsi (Investasi), 2006-2022",
+      "update": "2023-05-31",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "85875756a038c30842624740eaf985ca",
+      "judul_tabel": "Realisasi Penerimaan Pemerintah Kabupaten/Kota Seluruh Indonesia Menurut Jenis Penerimaan [Rincian 2022], 2021-2022",
+      "update": "2023-03-24",
+      "keterangan": ""
+    },
+    {
+      "id": "d474ca31039e2cd9f21e50d744245bdc",
+      "judul_tabel": "Realisasi Pengeluaran Pemerintah Kabupaten/Kota Seluruh Indonesia Menurut Jenis Pengeluaran [Rincian 2022], 2021-2022",
+      "update": "2023-03-24",
+      "keterangan": ""
+    },
+    {
+      "id": "700939e3ca953681ae1d76d6fc39fa2c",
+      "judul_tabel": "Posisi Cadangan Devisa, 2005-2022",
+      "update": "2023-02-28",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "af5dbd7f7077e3d3877b50471264a294",
+      "judul_tabel": "Kurs Tengah Beberapa Mata Uang Asing Terhadap Rupiah di Bank Indonesia dan Harga Emas di Jakarta, 2000-2022",
+      "update": "2023-01-20",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "3ac1eb19b6101ba54bccf09bc83399d3",
+      "judul_tabel": "Realisasi Penerimaan Pemerintah Provinsi Seluruh Indonesia Menurut Jenis Penerimaan [Rincian 2022], 2021-2022",
+      "update": "2022-12-20",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "8db9e777c9ec1694c28aa9cd98c7f1a5",
+      "judul_tabel": "Realisasi Pengeluaran Pemerintah Provinsi Seluruh Indonesia Menurut Jenis Pengeluaran [Rincian 2022], 2021-2022",
+      "update": "2022-12-20",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "976e1fe2be67a6c49434709259ba26fb",
+      "judul_tabel": "Realisasi Pengeluaran Negara (Keuangan), 2010-2022",
+      "update": "2022-02-28",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "5b37a76360f6b1ff4869ec6668d44934",
+      "judul_tabel": "Realisasi Penerimaan dan Pengeluaran Pemerintah Desa Seluruh Indonesia [Format Baru], 2016-2021",
+      "update": "2023-02-28",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "ec2738476e7f4d7f44abb21c61d56655",
+      "judul_tabel": "Proporsi Realisasi Pendapatan Pemerintah Terhadap Produk Domestik Bruto, 2013-2021",
+      "update": "2022-04-19",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "7b67aa3a6dd38b7d93cc672cf51d2104",
+      "judul_tabel": "Realisasi Penerimaan Pemerintah Kabupaten/Kota Seluruh Indonesia, 2006-2021",
+      "update": "2022-03-21",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "5682eb4c70b087e9d1a092e446bb88fa",
+      "judul_tabel": "Realisasi Pengeluaran Pemerintah Kabupaten/Kota Seluruh Indonesia, 2006-2021",
+      "update": "2022-03-21",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "95e4905bdfd33985668e0c04bd9e615b",
+      "judul_tabel": "Posisi Pinjaman Investasi Bank Umum1 dalam Rupiah dan Valuta Asing Menurut Sektor Ekonomi, 2017-2021",
+      "update": "2022-03-02",
+      "keterangan": ""
+    },
+    {
+      "id": "a5a0c74872eb4e4ff1d6655cf56ded95",
+      "judul_tabel": "Posisi Pinjaman Investasi Bank Umum1 dalam Rupiah Menurut Sektor Ekonomi, 2018-2021",
+      "update": "2022-03-02",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "dc1bf0d1a9f2c6587ce27b9fe1fbc72c",
+      "judul_tabel": "Posisi Kredit Usaha Mikro, Kecil, dan Menengah (UMKM)1 pada Bank Umum , 2017-2021",
+      "update": "2022-03-02",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "b37855b32e73c320d05d33acb598d4a2",
+      "judul_tabel": "Posisi Simpanan Berjangka Rupiah pada Bank Umum1 Menurut Golongan Pemilik, 2016-2021",
+      "update": "2022-02-24",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "48ba5d418ead1644e848d950e1086919",
+      "judul_tabel": "Jumlah Perusahaan Asuransi dan Perusahaan Penunjang Asuransi, 2000-2021",
+      "update": "2022-02-24",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "f0886736603bad61cfa75308a7c944ca",
+      "judul_tabel": "Posisi Kredit/Pembiayaan (Rupiah dan Valuta Asing) pada Bank Umum Menurut Kelompok Bank dan BPR/BPR Syariah (Rupiah) kepada Pihak Bukan Bank, 2017-2021",
+      "update": "2022-02-24",
+      "keterangan": ""
+    },
+    {
+      "id": "075a1c646b8bcb500f85f1c4c6258853",
+      "judul_tabel": "Posisi Kredit Perbankan1\u00a0dalam Rupiah dan Valuta Asing Menurut Sektor Ekonomi, 2017-2021",
+      "update": "2022-02-24",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "13af86d6c8aee67541a46c42f281d34d",
+      "judul_tabel": "Dana Pihak Ketiga Perbankan Syariah Menurut Jenis Dana [Format Baru], 2017-2021",
+      "update": "2022-02-23",
+      "keterangan": ""
+    },
+    {
+      "id": "9664e3c3b7f98e1f4628922110465a3f",
+      "judul_tabel": "Uang Beredar dan Faktor-Faktor yang Mempengaruhinya, 2000-2021",
+      "update": "2022-02-23",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "a20e8244baf6792c10ac17a4511651de",
+      "judul_tabel": "Posisi Dana Pihak Ketiga Perbankan (Rupiah dan Valuta Asing) Menurut Kelompok Bank, 2014-2021",
+      "update": "2022-02-22",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "03f098a9951903c171598a69aaa0041c",
+      "judul_tabel": "Perkembangan Dana Pihak Ketiga Perbankan Menurut Jenisnya , 2014-2021",
+      "update": "2022-02-22",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "d8c3bfe57be0ad6ada6aea3f1ffcd9d4",
+      "judul_tabel": "Jumlah Bank dan Kantor Bank, 2014-2021",
+      "update": "2022-02-22",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "b81eb3f9f1ed9e4c705078064a5c3a44",
+      "judul_tabel": "Jumlah Koperasi Aktif Menurut Provinsi, 2006-2021",
+      "update": "2022-02-22",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "54ba6ad3f864acd8e3225debf65d9fb3",
+      "judul_tabel": "Sisa Hasil Usaha (SHU) Koperasi Menurut Provinsi, 2006-2021",
+      "update": "2022-02-22",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "6225e37e3561013fab0b5b07e005ba5f",
+      "judul_tabel": "Volume Usaha Koperasi Menurut Provinsi, 2006-2021",
+      "update": "2022-02-22",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "269dea39581e8d885f265e2855ff85b9",
+      "judul_tabel": "Realisasi Penerimaan Pemerintah Provinsi Seluruh Indonesia Menurut Jenis Penerimaan, 2005-2021",
+      "update": "2021-12-20",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "6c4bd47c668323a2aa5731de18143771",
+      "judul_tabel": "Realisasi Pengeluaran Pemerintah Provinsi Seluruh Indonesia Menurut Jenis Pengeluaran, 2005-2021",
+      "update": "2021-12-20",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "22f6ba1bd160afc589c9f7956de86a7e",
+      "judul_tabel": "Proporsi Volume Remitansi (Dalam US Dollars) Terhadap Total PDB, 2015-2020",
+      "update": "2022-03-17",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "bf777e4e5e1e7d65c6e233fa889803d8",
+      "judul_tabel": "Proporsi Pembayaran Utang Dan Bunga (Debt Service) Terhadap Ekspor Barang Dan Jasa, 2015-2020",
+      "update": "2021-11-08",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "ad971108daf9a65c63b2b1c607757aad",
+      "judul_tabel": "Proporsi pengeluaran utama pemerintah terhadap anggaran yang disetujui, 2015-2020",
+      "update": "2021-11-05",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "7678fab126299266793e2ddf43b15be5",
+      "judul_tabel": "Pengeluaran untuk layanan pokok (pendidikan, kesehatan dan perlindungan sosial) sebagai persentase dari total belanja pemerintah, 2014-2019",
+      "update": "2019-12-01",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "d46b1cf86a213587ce7776a60cdaf593",
+      "judul_tabel": "Persentase Total Pajak Dalam Negeri terhadap Belanja Negara, 2013-2019",
+      "update": "2019-10-07",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "0871341b17f4a0fdfe21b730c4c5b82d",
+      "judul_tabel": "Realisasi Investasi Penanaman Modal Luar Negeri Menurut Sektor Ekonomi, 2000-2018",
+      "update": "2020-05-15",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "9e8aa59bf88d7d8553614322eb338fa4",
+      "judul_tabel": "Realisasi Investasi Penanaman Modal Dalam Negeri Menurut Sektor Ekonomi, 2000-2018",
+      "update": "2020-05-06",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "5cc8804864553739aec453e4a90eca7c",
+      "judul_tabel": "Proporsi Anggaran Riset Pemerintah Terhadap PDB, 2015-2018",
+      "update": "2020-04-13",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "6555e3b04c7fa8723d60b14672a99b3f",
+      "judul_tabel": "Rasio Penerimaan Pajak Terhadap PDB, 2013-2018",
+      "update": "2019-10-07",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "baa28baffd1ca306985073b8abd41591",
+      "judul_tabel": "Dana Pihak Ketiga Perbankan Syariah Menurut Jenis Dana, 2004-2018",
+      "update": "2019-04-12",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "1b205e87162bb96de14dc37decbd7382",
+      "judul_tabel": "Rata-rata Harga Valuta Asing Terpilih menurut Provinsi (USD), 2009-2017",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "fdfc2dfdb84b14ef2fcca2015bd5b3a8",
+      "judul_tabel": "Rata-rata Harga Valuta Asing Terpilih menurut Provinsi (AUD), 2009-2017",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "e1e39b3fe42310991d41e138724d36d9",
+      "judul_tabel": "Rata-rata Harga Valuta Asing Terpilih menurut Provinsi (HKD), 2009-2017",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "598e799dbfffc2171db4d0068c52ff5c",
+      "judul_tabel": "Rata-rata Harga Valuta Asing Terpilih menurut Provinsi (GBP), 2009-2017",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "14f4fc2dd97fcbc7d20daeb88d603def",
+      "judul_tabel": "Proporsi Anggaran Domestik yang Didanai Oleh Pajak Domestik, 2015-2017",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "b21b6d85c2c06de50cedef3b19a82a64",
+      "judul_tabel": "Posisi Kredit Investasi Perbankan Menurut Sektor Ekonomi, 2010-2017",
+      "update": "2017-08-31",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "97573e2fde35162b2bf4598216bfc74b",
+      "judul_tabel": "Posisi Kredit Modal Kerja Perbankan Menurut Sektor Ekonomi, 2010-2017",
+      "update": "2017-08-31",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "f6724d41fdee1d275b961362721ff914",
+      "judul_tabel": "Posisi Simpanan Masyarakat (Rupiah dan Valuta Asing) pada Bank Umum Menurut Kelompok Bank, 2000-2016",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "3884b1df27217231cd632f7727fdad7f",
+      "judul_tabel": "Posisi Simpanan Berjangka Rupiah pada Bank Umum dan BPR Menurut Golongan Pemilik, 2005-2016",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "20393f5b514ab26662b876fee0b748ba",
+      "judul_tabel": "Perkembangan Dana Perbankan Menurut Jenisnya, 2010-2016",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "a17cb2ba9362934aa8aa87fdd51c2381",
+      "judul_tabel": "Pinjaman Investasi Bank-Bank Umum dalam Rupiah Menurut Sektor Ekonomi, 2000-2016",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "a4038604ffd6945f263bec1d7a8b08ea",
+      "judul_tabel": "Posisi Kredit Usaha Mikro, Kecil, dan Menengah (UMKM) pada Bank Umum, 2012-2016",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "480c7a682b99b09a60d7b701aa7cafac",
+      "judul_tabel": "Posisi Pinjaman Investasi Bank-Bank Umum dalam Rupiah dan Valuta Asing Menurut Sektor Ekonomi, 2000-2016",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "7cde64c8cddd7a890e3d0cf396948c84",
+      "judul_tabel": "Total pendapatan pemerintah sebagai proporsi terhadap PDB menurut sumbernya, 2015-2016",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "b326901c3665efa45027f2a9be51fbe6",
+      "judul_tabel": "Realisasi Penerimaan dan Pengeluaran Pemerintah Desa Seluruh Indonesia, 2008-2015",
+      "update": "2019-12-01",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "a383c613c2c89a272a428eae6115d54c",
+      "judul_tabel": "Realisasi Penerimaan Pemerintah Desa di Perkotaan menurut Provinsi, 2000-2012",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "3247c290159d3968a34bb8fd062984b3",
+      "judul_tabel": "Realisasi Pengeluaran Pemerintah Desa di Perkotaan menurut Provinsi, 2000-2012",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "590e1ebbb163c075a0c83f499f0bbb23",
+      "judul_tabel": "Posisi Kredit Investasi Perbankan Menurut Sektor Ekonomi (dibawah tahun 2010), 2003-2009",
+      "update": "2015-12-22",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "9baccdd2ffe646cc9b08bc9efa652ee2",
+      "judul_tabel": "Posisi Kredit Modal Kerja Perbankan Menurut Sektor Ekonomi (dibawah tahun 2010), 2003-2009",
+      "update": "2015-12-22",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "8cd9bf53461d8f6fce3d95032817b223",
+      "judul_tabel": "Penerimaan/Pengeluaran Pemerintah Desa, 2005-2007",
+      "update": "2019-12-01",
+      "keterangan": ""
+    },
+    {
+      "id": "9c56e819b1d8f662c97c866c122ac4bc",
+      "judul_tabel": "Rata-rata Harga Valuta Asing Terpilih menurut Provinsi 2009",
+      "update": "2010-08-26",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "a0a7a9ae72507d976da22ae459468aa3",
+      "judul_tabel": "Rata-rata Harga Valuta Asing Terpilih menurut Provinsi 2010",
+      "update": "2011-03-25",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "cea4925178ae13fbb41484d79147736c",
+      "judul_tabel": "Rata-rata Harga Valuta Asing Terpilih menurut Provinsi, 2011",
+      "update": "2012-03-20",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "7314a3b605d45158b9a58983fa5765b1",
+      "judul_tabel": "Rata-rata Harga Valuta Asing Terpilih menurut Provinsi, 2012",
+      "update": "2013-01-31",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "64e5942522f97e3d1ec5efbcd9ca0dd8",
+      "judul_tabel": "Rata-rata Harga Valuta Asing Terpilih menurut Provinsi, 2013",
+      "update": "2014-03-26",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "c791359662acbb8620af3ae2b079675e",
+      "judul_tabel": "Rata-rata Harga Valuta Asing Terpilih menurut Provinsi, 2014",
+      "update": "2015-03-26",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "2753a60b2c61fbc1e978246eec99f786",
+      "judul_tabel": "Rata-Rata Harga Valuta Asing Terpilih menurut Provinsi 2015",
+      "update": "2016-02-24",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "504cfea08319b0a1e19c105feb5412de",
+      "judul_tabel": "Rata-Rata Harga Valuta Asing Terpilih menurut Provinsi 2016",
+      "update": "2017-01-20",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "704027cbcb994a1ef2138a24ae3b70bc",
+      "judul_tabel": "Rata-Rata Harga Valuta Asing Terpilih menurut Provinsi 2017",
+      "update": "2018-06-25",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "de1a7e2935b8b0a2e34f319b52a9272d",
+      "judul_tabel": "Realisasi Penerimaan dan Pengeluaran Pemerintah Desa (Juta Rupiah) di Perkotaan menurut Provinsi, 2000-2012",
+      "update": "2015-01-12",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "e931af217a00c67ee76b1589c660c5f6",
+      "judul_tabel": "Realisasi Penerimaan/Pengeluaran Pemerintah Desa, 2005-2016",
+      "update": "2017-09-04",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "d123e145dafee29137d09a5df1c3f245",
+      "judul_tabel": "Bank dan Kantor Bank, 2010\u20132017",
+      "update": "2018-06-25",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "518facda9163dbf5fc482beea79d4a57",
+      "judul_tabel": "Bank dan Kantor Bank, 2014-2021",
+      "update": "2022-02-22",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "6d12d12ff16e21f8b1e2abbbc301d960",
+      "judul_tabel": "Pembayaran Utang Luar Negeri Indonesia (juta US$), 2006-2012",
+      "update": "2014-01-15",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "aebffa620a74246d84bab6a06928944b",
+      "judul_tabel": "Pembayaran Utang Luar Negeri Pemerintah dan Bank Sentral (juta US$), 2010\u20132016",
+      "update": "2017-11-22",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "820a1683dd97737ffddfa97c79a6bd30",
+      "judul_tabel": "Pemberian Kredit oleh Lembaga-Lembaga Keuangan Lainnya (miliar rupiah), 2000\u20132016",
+      "update": "2018-06-25",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "74e1ab9088a334f016036dcac502f183",
+      "judul_tabel": "Pemberian Kredit oleh Lembaga-Lembaga Keuangan Lainnya (miliar rupiah), 2015-2021",
+      "update": "2022-02-24",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "0eda064b373300dd5c691fdd7bfbd717",
+      "judul_tabel": "Perkembangan Dana Perbankan Menurut Jenisnya (miliar rupiah) 2010\u20132018",
+      "update": "2019-04-12",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "91faccae42b0af81e6a3e3f7ef35e004",
+      "judul_tabel": "Pinjaman Investasi Bank-Bank Umum dalam Rupiah Menurut Sektor Ekonomi (miliar rupiah), 2000 - 2016",
+      "update": "2017-11-21",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "b23a9dcdb641b8481be05703433c59e7",
+      "judul_tabel": "Pinjaman Investasi Bank-Bank Umum dalam Rupiah Menurut Sektor Ekonomi (miliar rupiah), 2016 dan 2017",
+      "update": "2018-06-25",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "2eeb2a12a1c209ea1ec0e3a665c65a93",
+      "judul_tabel": "Pinjaman Neto Menurut Sektor (Triliun rupiah), 2003-2014",
+      "update": "2016-10-18",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "7583c9fbf754f0983c5d478d892c1621",
+      "judul_tabel": "Posisi Kredit Perbankan1 dalam Rupiah dan Valuta Asing Menurut Sektor Ekonomi (miliar rupiah), 2000-2016",
+      "update": "2017-11-23",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "50a0555bba18cbe6eeea6dd3b5f2c2ba",
+      "judul_tabel": "Posisi Kredit Perbankan1\u00a0dalam Rupiah dan Valuta Asing Menurut Sektor Ekonomi (miliar rupiah), 2016-2018",
+      "update": "2019-04-12",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "670bb8ec4d290df893f29c7e53d0fe58",
+      "judul_tabel": "Posisi Kredit Usaha Mikro, Kecil, dan Menengah (UMKM) 1 pada Bank Umum (miliar rupiah), 2012-2016",
+      "update": "2017-11-17",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "02b17522766273b8513bfe96c6d65839",
+      "judul_tabel": "Posisi Kredit Usaha Mikro, Kecil, dan Menengah (UMKM)1 pada Bank Umum (miliar rupiah), 2016-2018",
+      "update": "2019-04-15",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "2b901787a871b18effc332963fc63cf5",
+      "judul_tabel": "Posisi Pinjaman Investasi Bank-Bank Umum dalam Rupiah dan Valuta Asing Menurut Sektor Ekonomi (miliar rupiah), 2000 - 2016",
+      "update": "2017-11-23",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "714546996b4680154074d43bf12a8f56",
+      "judul_tabel": "Posisi Pinjaman Rupiah dan Valuta Asing yang Diberikan Bank Umum dan BPR Menurut Kelompok Bank (miliar rupiah), 2000-2018",
+      "update": "2019-04-15",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "4a3a13a12919f6b854060f5bb1dced71",
+      "judul_tabel": "Posisi Simpanan Berjangka Rupiah pada Bank Umum dan BPR Menurut Golongan Pemilik (miliar rupiah), 2005-2018",
+      "update": "2019-04-15",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "d0d0b426344c1afc590b330bf80c7e90",
+      "judul_tabel": "Posisi Simpanan Masyarakat (Rupiah dan Valuta Asing) pada Bank Umum Menurut Kelompok Bank (miliar rupiah), 2010-2017",
+      "update": "2019-04-16",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "6f68d92f3f881532e2a47b57d094d4ac",
+      "judul_tabel": "Posisi Tabungan pada Bank Umum Menurut Jenis Tabungan1 (miliar rupiah), 2000-2021",
+      "update": "2022-02-24",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "911027f0af0081ef7e49a289ca84947a",
+      "judul_tabel": "Posisi Utang Luar Negeri Indonesia Menurut Kelompok Peminjam (juta US$) 2005-2016",
+      "update": "2017-11-23",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "fefed3b15a33d73acd21ff27388d2c64",
+      "judul_tabel": "Posisi Utang Luar Negeri Indonesia Menurut Kreditor (juta US$), 2005-2016",
+      "update": "2017-11-21",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "795a2c11af19cf78030a1bd3d934cc37",
+      "judul_tabel": "Posisi Utang Luar Negeri Pemerintah dan Bank Sentral Menurut Jenis Utang (juta US$), 2010-2016",
+      "update": "2017-11-23",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "f8cc113080d946637d60635513ecec4f",
+      "judul_tabel": "Posisi Utang Luar Negeri Pemerintah dan Bank Sentral Menurut Kategori Kreditor dan Persyaratan Kredit (juta US$), 2005-2015",
+      "update": "2016-04-26",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "03720fc10972b2d88c5482e0c5238243",
+      "judul_tabel": "Rekapitulasi Laporan Posisi Keuangan Perusahaan Asuransi-Konvensional Menurut Jenis Usaha per 31 Desember (miliar rupiah), 2016-2021",
+      "update": "2022-02-25",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "c6efa5adc99f4d6d3a6f909f266de4c9",
+      "judul_tabel": "Rekapitulasi Laporan Posisi Keuangan Perusahaan Penyelenggara Program Asuransi Wajib dan BPJS Per 31 Desember (miliar rupiah) 2000-2021",
+      "update": "2022-02-25",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "cb8ec8c9cc3d2b9aad8ad60219aa0b52",
+      "judul_tabel": "Rekapitulasi Neraca Perusahaan Asuransi Menurut Jenis Usaha per 31 Desember (miliar rupiah), 2000 - 2016",
+      "update": "2018-06-28",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "3ba1b015fe2ebdd9afc9c67670d941c8",
+      "judul_tabel": "Tabel Perkembangan Koperasi pada Periode 1967 -2015",
+      "update": "2016-12-21",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "26265a8e640191fdcf6d23f076b2543c",
+      "judul_tabel": "Tabel Perkembangan UMKM pada Periode 1997 -2013",
+      "update": "2016-12-22",
+      "keterangan": "Statistik Sektoral"
+    },
+    {
+      "id": "8cd0826e3b5429532117e5a843a2fbb1",
+      "judul_tabel": "Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir menurut Provinsi dan Kemampuan Membaca, 2014-2022",
+      "update": "2023-09-27",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "1ae0352f332a1dbd29fcf27a4b288198",
+      "judul_tabel": "Persentase Penduduk Usia 10 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Lapangan Usaha Utama, 2017-2022",
+      "update": "2023-09-27",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "66c589768d6fabe7769e880ac6098806",
+      "judul_tabel": "Persentase Penduduk Usia 10 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Kelompok Lapangan Usaha, 2012-2022",
+      "update": "2023-09-27",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "b8c8d78fef5122d1ade94444957a2860",
+      "judul_tabel": "Persentase Penduduk Usia 10 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Jenis Kegiatan Utama, 2012-2022",
+      "update": "2023-09-27",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "f82ca18efd8251c2e27e5d8564ad3640",
+      "judul_tabel": "Persentase Penduduk Usia 10 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir menurut Provinsi dan Status Pekerjaan, 2014-2022",
+      "update": "2023-09-22",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "d3e56677c619a55862e20e881d83adde",
+      "judul_tabel": "Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir menurut Provinsi dan Jenjang Pendidikan yang Sedang Diduduki, 2014-2022",
+      "update": "2023-09-22",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "1eee0cea9ac9b10a306db82cab6c7001",
+      "judul_tabel": "Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Jenjang Pendidikan Tertinggi yang Ditamatkan, 2010-2022",
+      "update": "2023-09-22",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "9efb19914b28ffae3dfeb9988401d324",
+      "judul_tabel": "Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Kelompok Umur, 2010-2022",
+      "update": "2023-09-22",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "c58af64563a4069ee6d962c41eb05138",
+      "judul_tabel": "Persentase Rumah Tangga yang Memiliki/Menguasai Telepon Seluler Menurut Provinsi dan Klasifikasi Daerah, 2007-2022",
+      "update": "2023-09-22",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "09947d0eca3627f1818da867062319ef",
+      "judul_tabel": "Persentase Rumah Tangga yang Memiliki/Menguasai Telepon Tetap Kabel Menurut Provinsi dan Klasifikasi Daerah, 2007-2022",
+      "update": "2023-09-22",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "a6b3cd8ef6b8321a9f56b1c5309d3700",
+      "judul_tabel": "Persentase Penduduk Usia 5 tahun ke atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Jenis Kelamin, 2014-2022",
+      "update": "2023-09-22",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "835bdcfddc88180a204de93cb8f4df53",
+      "judul_tabel": "Persentase Penduduk Usia 5 Tahun Ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir untuk Kelompok Umur 25+ tahun Menurut Provinsi dan Jenis Kelamin, 2014-2022",
+      "update": "2023-09-20",
+      "keterangan": ""
+    },
+    {
+      "id": "97cee9dacdb468469d7bb011e5028707",
+      "judul_tabel": "Persentase Penduduk Usia 5 Tahun Ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir untuk Kelompok Umur 19-24 tahun Menurut Provinsi dan Jenis Kelamin, 2014-2022",
+      "update": "2023-09-20",
+      "keterangan": ""
+    },
+    {
+      "id": "b0dccd4e2a7ab5970b911f6d6abeaee8",
+      "judul_tabel": "Persentase Penduduk Usia 5 Tahun Ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir untuk Kelompok Umur 16-18 tahun Menurut Provinsi dan Jenis Kelamin, 2014-2022",
+      "update": "2023-09-20",
+      "keterangan": ""
+    },
+    {
+      "id": "e76f13c96a00c5560297c2e9f805dde1",
+      "judul_tabel": "Persentase Penduduk Usia 5 Tahun Ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir untuk Kelompok Umur 13-15 tahun Menurut Provinsi dan Jenis Kelamin, 2014-2022",
+      "update": "2023-09-20",
+      "keterangan": ""
+    },
+    {
+      "id": "6efa94ed96ec2d60202329f2545cef95",
+      "judul_tabel": "Persentase Penduduk Usia 5 Tahun Ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir untuk Kelompok Umur 5-12 tahun Menurut Provinsi dan Jenis Kelamin, 2014-2022",
+      "update": "2023-09-20",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "518175035fcc42899f4adb778b7f14d3",
+      "judul_tabel": "Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Jenjang Pendidikan Tertinggi yang Ditamatkan, 2012-2022",
+      "update": "2023-09-20",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "2924453eba0b120467288f09246122d4",
+      "judul_tabel": "Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Kelompok Umur, 2012-2022",
+      "update": "2023-09-20",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "ec4ea4f2b9fa6424f080064358cedfa4",
+      "judul_tabel": "Rata-Rata Banyaknya Anggota Rumah Tangga yang Pernah Mengakses Internet Dari Rumah Tangga yang Pernah Mengkases Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Klasifikasi Daerah, 2012-2022",
+      "update": "2023-09-20",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "1952b1f14ebf7c97b782b99c749a6c37",
+      "judul_tabel": "Persentase Rumah Tangga yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Klasifikasi Daerah, 2009-2022",
+      "update": "2023-09-20",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "3f442680041f975b9d8833bdd5085c73",
+      "judul_tabel": "Persentase Rumah Tangga yang Memiliki/Menguasai Komputer Menurut Provinsi dan Klasifikasi Daerah, 2012-2022",
+      "update": "2023-09-20",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "0676c3c11e5ea6238b7c20cd471d5e16",
+      "judul_tabel": "Persentase Penduduk yang Memiliki/Menguasai Telepon Seluler Menurut Provinsi dan Klasifikasi Daerah, 2012-2022",
+      "update": "2023-09-20",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "2427ea262331532fe88e227319614a9c",
+      "judul_tabel": "Rata-Rata Konsumsi Non Makanan Rumah Tangga yang Memiliki Pengeluaran Telekomunikasi Menurut Provinsi, 2014-2022",
+      "update": "2023-09-20",
+      "keterangan": ""
+    },
+    {
+      "id": "c9fe2a0730fe1ec1db583bf6a690fa02",
+      "judul_tabel": "Rata-Rata Konsumsi Makanan Rumah Tangga yang Memiliki Pengeluaran Telekomunikasi Menurut Provinsi, 2014-2022",
+      "update": "2023-09-20",
+      "keterangan": ""
+    },
+    {
+      "id": "2863e4d2adaa5eb4997f93e446714aa0",
+      "judul_tabel": "Rata-Rata Konsumsi Rumah Tangga yang Memiliki Pengeluaran Telekomunikasi Menurut Provinsi, 2014-2022",
+      "update": "2023-09-20",
+      "keterangan": ""
+    },
+    {
+      "id": "7bcab99234d209714705295ea8057e70",
+      "judul_tabel": "Persentase Rumah Tangga yang Memiliki Pengeluaran Telekomunikasi Menurut Provinsi dan Klasifikasi Daerah, 2014-2022",
+      "update": "2023-09-20",
+      "keterangan": ""
+    },
+    {
+      "id": "166f81702c605289f3f2f34a09d77b0e",
+      "judul_tabel": "Persentase Penduduk yang Menggunakan Komputer menurut Provinsi dan Jenis Kelamin, 2017-2022",
+      "update": "2023-09-20",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "930b4c204965bf138699b4f56c69ec0d",
+      "judul_tabel": "Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir menurut Provinsi dan Partisipasi Sekolah, 2014-2022",
+      "update": "2023-09-20",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "9fe250abc333feaac1be449f43a8458d",
+      "judul_tabel": "Persentase Rumah Tangga yang Pernah Mengakses Internet dalam 3 Bulan Terakhir menurut Provinsi dan Sumber Penerangan Rumah Tangga (Perkotaan+Perdesaan), 2014-2022",
+      "update": "2023-09-20",
+      "keterangan": ""
+    },
+    {
+      "id": "0f4568ea4ca2a9e585300ee829f3e90f",
+      "judul_tabel": "Persentase Rumah Tangga yang Pernah Mengakses Internet dalam 3 Bulan Terakhir menurut Provinsi dan Sumber Penerangan Rumah Tangga (Perdesaan), 2014-2022",
+      "update": "2023-09-20",
+      "keterangan": ""
+    },
+    {
+      "id": "aec02e446f593416d2192f5a54c6e022",
+      "judul_tabel": "Persentase Rumah Tangga yang Pernah Mengakses Internet dalam 3 Bulan Terakhir menurut Provinsi dan Sumber Penerangan Rumah Tangga (Perkotaan), 2014-2022",
+      "update": "2023-09-20",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "087fb3bd23c6ce5da1e3051798b5a749",
+      "judul_tabel": "Rata-Rata Banyaknya Anggota Rumah Tangga yang Memiliki/Menguasai Telepon Selular dari Rumah Tangga yang Memiliki/Menguasai Telepon Selular Menurut Provinsi dan Klasifikasi Daerah, 2014-2022",
+      "update": "2023-09-20",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "8dcc6e2b09bdfc4fe722896c77d4551a",
+      "judul_tabel": "Persentase Rumah Tangga yang Memiliki/Menguasai Telepon Seluler Menurut Provinsi dan Sumber Penerangan Rumah Tangga (Perkotaan+Pedesaan), 2014-2022",
+      "update": "2023-09-20",
+      "keterangan": ""
+    },
+    {
+      "id": "fe4aa749bb90a25b6c38684f355a40c9",
+      "judul_tabel": "Persentase Rumah Tangga yang Memiliki/Menguasai Telepon Seluler Menurut Provinsi dan Sumber Penerangan Rumah Tangga (Perdesaan), 2014-2022",
+      "update": "2023-09-20",
+      "keterangan": ""
+    },
+    {
+      "id": "f2c362248cd55ea0e6fc7bff8990e067",
+      "judul_tabel": "Persentase Rumah Tangga yang Memiliki/Menguasai Telepon Seluler Menurut Provinsi dan Sumber Penerangan Rumah Tangga (Perkotaan), 2014-2022",
+      "update": "2023-09-20",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "edfa074788bf84c6b99eefc3d6949f7a",
+      "judul_tabel": "Persentase Penduduk yang Menggunakan Komputer menurut Provinsi dan Klasifikasi Daerah, 2015-2022",
+      "update": "2023-09-20",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "fef11f7270e29e6be9f403c9d517ef52",
+      "judul_tabel": "Persentase Rumah Tangga yang Memiliki/Menguasai Komputer Menurut Provinsi dan Sumber Penerangan Rumah Tangga, 2014-2022",
+      "update": "2023-09-20",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "04fc2c2bfe4549a93865cf670ff56010",
+      "judul_tabel": "Persentase Rata-Rata Konsumsi Telekomunikasi Rumah Tangga Terhadap Konsumsi Total Menurut Provinsi, 2014-2022",
+      "update": "2023-09-18",
+      "keterangan": ""
+    },
+    {
+      "id": "1c9deb0dd512cb63dc95344148488f4c",
+      "judul_tabel": "Persentase Rata-Rata Konsumsi Telekomunikasi Rumah Tangga Terhadap Konsumsi Non Makanan Menurut Provinsi, 2014-2022",
+      "update": "2023-09-18",
+      "keterangan": ""
+    },
+    {
+      "id": "4b9882d1c5445f9aa3a566f5da45cb98",
+      "judul_tabel": "Persentase Rumah Tangga yang Memiliki/Menguasai Telepon Seluler Menurut Provinsi dan Status Penguasaan Tempat Tinggal (Perkotaan+Perdesaan), 2014-2022",
+      "update": "2023-09-18",
+      "keterangan": ""
+    },
+    {
+      "id": "bf06e860f943e969fdc0a452f4e6004c",
+      "judul_tabel": "Persentase Penduduk Usia 5 Tahun Ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir untuk Kelompok Umur => 5 Tahun Menurut Provinsi dan Jenis Kelamin, 2014-2022",
+      "update": "2023-09-18",
+      "keterangan": ""
+    },
+    {
+      "id": "11a656a5113488ec45f9b2d89b067d9a",
+      "judul_tabel": "Rata-Rata Konsumsi Rumah Tangga untuk Telekomunikasi Menurut Provinsi, 2014-2022",
+      "update": "2023-09-18",
+      "keterangan": ""
+    },
+    {
+      "id": "bc48df4f455cedc7573454f0c601e2f7",
+      "judul_tabel": "Persentase Rumah Tangga yang Memiliki/Menguasai Telepon Seluler Menurut Provinsi dan Status Penguasaan Tempat Tinggal (Perdesaan), 2014-2022",
+      "update": "2023-09-18",
+      "keterangan": ""
+    },
+    {
+      "id": "8e018bf4eeaf7b7bcc0187bc9019ed46",
+      "judul_tabel": "Persentase Rumah Tangga yang Memiliki/Menguasai Telepon Seluler Menurut Provinsi dan Status Penguasaan Tempat Tinggal (Perkotaan), 2014-2022",
+      "update": "2023-09-18",
+      "keterangan": ""
+    },
+    {
+      "id": "b98655fd1f58bdbe281f0816aad9e402",
+      "judul_tabel": "Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Lokasi, 2010-2022",
+      "update": "2023-09-18",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "4647084fd16108ac3d25542c22b51173",
+      "judul_tabel": "Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Media, 2010-2022",
+      "update": "2023-09-18",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "59908827f321f8a565c84a5b372aba3c",
+      "judul_tabel": "Persentase Rumah Tangga yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Lokasi, 2015-2022",
+      "update": "2023-09-18",
+      "keterangan": "Statistik Dasar"
+    },
+    {
+      "id": "761145e59d6e4a5b08da1a45c4c46329",
+      "judul_tabel": "Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Lokasi, 2015-2022",
+      "update": "2023-09-18",
+      "keterangan": "Statistik Dasar"
     },
     {
       "id": "e16dc9992b4c6a2b640c1b6bb04e83fc",
       "judul_tabel": "Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Media, 2012-2022",
       "update": "2023-09-18",
-      "keterangan": "Statistik Dasar",
-      "url_tabel": [],
-      "data_tables": []
+      "keterangan": "Statistik Dasar"
     },
     {
       "id": "ad59b8f3b2084d503a9a71d84d389284",
       "judul_tabel": "Persentase Penduduk Usia 5 Tahun ke Atas yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Provinsi dan Klasifikasi Daerah, 2014-2022",
       "update": "2023-09-18",
-      "keterangan": "Statistik Dasar",
-      "url_tabel": [],
-      "data_tables": []
+      "keterangan": "Statistik Dasar"
     },
     {
       "id": "6284c0e5196de3d6d87bbcaf816dee90",
       "judul_tabel": "Persentase Rumah Tangga yang Pernah Mengakses Internet dalam 3 Bulan Terakhir Menurut Media Akses, 2008-2022",
       "update": "2023-09-18",
-      "keterangan": "Statistik Dasar",
-      "url_tabel": [],
-      "data_tables": []
+      "keterangan": "Statistik Dasar"
     },
     {
       "id": "7aee0cd3bb97455b4cf3625843501d18",
       "judul_tabel": "Persentase Rumah Tangga yang Memiliki/Menguasai Telepon Bergerak Selular Menurut Provinsi dan Banyaknya Nomor Telepon Seluler Aktif, 2012-2022",
       "update": "2023-09-18",
-      "keterangan": "Statistik Dasar",
-      "url_tabel": [],
-      "data_tables": []
+      "keterangan": "Statistik Dasar"
     },
     {
       "id": "932c29c751750f3c4db68d7df10c3218",

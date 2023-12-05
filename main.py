@@ -8,11 +8,19 @@ from lib import sdk;
 from lib.controllers.bps import Bps;
 from lib.helpers.TypeEnums import Sosial_Kependudukan, Ekonomi_Perdagangan, Pertanian_Pertambangan;
 
+import os; 
 
-def loop_write(options: any) -> None:
+def loop_write(main: str, options: any) -> None:
     for option in options:
-        # data = dumps(bps.execute(option.value));
-        print(option.name)
+        data = dumps(bps.execute(option.value));
+
+        path = f'data/{main}/{option.name}.json'
+
+        if(not os.path.exists('/'.join(path.split('/')[:-1]))):
+            os.makedirs('/'.join(path.split('/')[:-1]));
+
+        with open(path, 'w') as file:
+            file.write(data);
 
 if __name__ == "__main__":
     argp = argparse.ArgumentParser();
@@ -38,17 +46,13 @@ if __name__ == "__main__":
     
     bps: Bps = Bps();
 
-    data = dumps(bps.execute(Ekonomi_Perdagangan.KOMUNIKASI.value));
-    
     match(args.option.upper()):
         case 'SOSIAL':
-            loop_write(Sosial_Kependudukan);
+            loop_write('Sosial', Sosial_Kependudukan);
         case 'EKONOMI':
-            loop_write(Ekonomi_Perdagangan);
-            # data = dumps(bps.execute(Ekonomi_Perdagangan.EKSPOR_IMPOR.value));
+            loop_write('Ekonomi', Ekonomi_Perdagangan);
         case 'PERTANIAN':
-            loop_write(Pertanian_Pertambangan);
-            # data = dumps(bps.execute(Ekonomi_Perdagangan.EKSPOR_IMPOR.value));
+            loop_write('Pertanian', Pertanian_Pertambangan);
 
 
 
