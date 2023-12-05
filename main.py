@@ -1,3 +1,4 @@
+import logging;
 import argparse;
 
 from flask import Flask;
@@ -38,8 +39,10 @@ if __name__ == "__main__":
         app.register_blueprint(sdk);
         application = app;
 
-        print(f"listening  -> http://localhost:{args.port} ....");
-        print(f"swagger-ui -> http://localhost:{args.port}/docs ....");
+        logging.basicConfig(level=logging.INFO, format='[%(levelname)s] [%(asctime)s] :: %(message)s')
+
+        logging.info(f"listening  -> http://localhost:{args.port} ....");
+        logging.info(f"swagger-ui -> http://localhost:{args.port}/docs ....");
         http_server = WSGIServer(("localhost", args.port), application);
         http_server.serve_forever();
 
