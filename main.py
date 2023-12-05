@@ -38,7 +38,8 @@ if __name__ == "__main__":
         app.register_blueprint(sdk);
         application = app;
 
-        print(f"listening to http://localhost:{args.port} ....");
+        print(f"listening  -> http://localhost:{args.port} ....");
+        print(f"swagger-ui -> http://localhost:{args.port}/docs ....");
         http_server = WSGIServer(("localhost", args.port), application);
         http_server.serve_forever();
 

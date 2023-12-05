@@ -83,21 +83,21 @@ class Pertanian(Resource):
 
         return data;
 
-@ns_api.route("/test", methods=["GET"])
-class Test(Resource):
+# @ns_api.route("/test", methods=["GET"])
+# class Test(Resource):
     
-    @api.doc(
-        params={
-            "option": {
-                "description": 'test',
-                "enum": Bps().test(),
-                "default": TypeEnums.Pertanian_Pertambangan.HORTIKULTURA.name
-            },
-        },
-    )
-    def get(self):
-        option = request.values.get("option");
-        url = TypeEnums.Pertanian_Pertambangan[option].value;
-        search = Bps();
+#     @api.doc(
+#         params={
+#             "option": {
+#                 "description": 'test',
+#                 "enum": Bps().test(),
+#                 "default": TypeEnums.Pertanian_Pertambangan.HORTIKULTURA.name
+#             },
+#         },
+#     )
+#     def get(self):
+#         option = request.values.get("option");
+#         url = TypeEnums.Pertanian_Pertambangan[option].value;
+#         search = Bps();
 
-        return search.execute(url);
+#         return search.execute(url);

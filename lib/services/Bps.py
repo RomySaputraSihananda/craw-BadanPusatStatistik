@@ -127,7 +127,8 @@ class Bps:
                     for col_key in col_keys:
                         try:
                             if(existing_data[headers[-1]][col_key].keys() == data_table[headers[-1]][col_key].keys()):
-                                data_tables.append(existing_data[headers[-1]][col_key].append(data_table[headers[-1]][col_key])); 
+                                # data_tables.append(existing_data[headers[-1]][col_key].append(data_table[headers[-1]][col_key])); 
+                                data_tables.append(data_table[headers[-1]][col_key]); 
                             else:
                                 existing_data[headers[-1]][col_key].update(data_table[headers[-1]][col_key]);
                         except:
@@ -160,7 +161,7 @@ class Bps:
         # looping urls
         for i, url in enumerate(urls):
             # destructuring list 
-            [url_tables, data_tables]: [list[str], dict] =  self.__get_data_table(url);
+            [url_tables, data_tables] =  self.__get_data_table(url);
 
             # set data
             self.__result['data'][i].update({

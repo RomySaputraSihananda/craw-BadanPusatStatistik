@@ -4,7 +4,7 @@
 
 ![](https://raw.githubusercontent.com/RomySaputraSihananda/RomySaputraSihananda/main/images/frecrop.jpeg)
 
-craw-BadanPusatStatistik adalah program untuk mengambil data dari website Badan Pusat Statistik Indonesia.
+craw-BadanPusatStatistik adalah program untuk mengambil data dari website Badan Pusat Statistik Indonesia. </br>Menggunakan module **Requests** untuk mengambil content dari website Badan Pusat Statistik Indonesia </br>dan diparsing Menggunakan module **pyquery**, menggunakan **Flask** untuk web Server dan **flask_restx** </br> untuk swagger-ui documentation
 
 ## Requirements
 
@@ -51,6 +51,9 @@ python main.py --topic=Pertanian
 ```sh
 # Jalankan server
 python main.py --server=true --port=4444
+
+# listening  -> http://localhost:4444 ....
+# swagger-ui -> http://localhost:4444/docs ....
 ```
 
 ### Sample Data
