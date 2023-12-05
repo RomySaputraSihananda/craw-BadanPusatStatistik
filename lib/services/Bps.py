@@ -113,7 +113,7 @@ class Bps:
                     headers[0]: self.__parser.execute(tr, 'td:first-child').text(),
                     headers[-1]: {
                         col_key: {
-                            years[i]: self.__str_2_num(self.__parser.execute(tr, f'td:nth-child({i + 2 + int(len(years) / len(col_keys)) * j})').text())
+                            years[i]: self.__str_2_num(self.__parser.execute(tr, f'td:nth-child({i + 2 + (int(len(years) / len(col_keys)) * j)})').text())
                             for i in range(int(len(years) / len(col_keys)))
                         }for j, col_key in enumerate(col_keys)
                     }
