@@ -60,6 +60,7 @@ class Bps:
             newUrl[6] = str(j);
 
             res: Response = self.__request.get('/'.join(newUrl));
+            
             j += 1;
 
             if(res.status_code != 200): break;
@@ -112,7 +113,13 @@ class Bps:
 
                 if existing_data:
                     for col_key in col_keys:
-                        existing_data[headers[-1]][col_key].update(data_table[headers[-1]][col_key]) 
+                        try:
+                            if(existing_data[headers[-1]][col_key].keys() == data_table[headers[-1]][col_key].keys()):
+                                data_tables.append(existing_data[headers[-1]][col_key].append(data_table[headers[-1]][col_key])); 
+                            else:
+                                existing_data[headers[-1]][col_key].update(data_table[headers[-1]][col_key]);
+                        except:
+                            data_tables.append(data_table)
                 else:
                     data_tables.append(data_table)
 
@@ -141,7 +148,7 @@ class Bps:
                 'data_tables': data_tables
             });
 
-            # break;
+            break;
 
         return self.__result;
 

@@ -6,10 +6,17 @@ from json import dumps;
 
 from lib import sdk;
 from lib.controllers.bps import Bps;
-from lib.helpers.TypeEnums import Ekonomi_Perdagangan, Sosial_Kependudukan;
+from lib.helpers.TypeEnums import Sosial_Kependudukan, Ekonomi_Perdagangan, Pertanian_Pertambangan;
+
+
+def loop_write(options: any) -> None:
+    for option in options:
+        # data = dumps(bps.execute(option.value));
+        print(option.name)
 
 if __name__ == "__main__":
     argp = argparse.ArgumentParser();
+    argp.add_argument("option", type=str);
     argp.add_argument("--server", type=bool);
     argp.add_argument("--port", type=int, default=4444);
     args = argp.parse_args();
@@ -32,7 +39,17 @@ if __name__ == "__main__":
     bps: Bps = Bps();
 
     data = dumps(bps.execute(Ekonomi_Perdagangan.KOMUNIKASI.value));
+    
+    match(args.option.upper()):
+        case 'SOSIAL':
+            loop_write(Sosial_Kependudukan);
+        case 'EKONOMI':
+            loop_write(Ekonomi_Perdagangan);
+            # data = dumps(bps.execute(Ekonomi_Perdagangan.EKSPOR_IMPOR.value));
+        case 'PERTANIAN':
+            loop_write(Pertanian_Pertambangan);
+            # data = dumps(bps.execute(Ekonomi_Perdagangan.EKSPOR_IMPOR.value));
 
-    with open('data_test.json', 'w') as file:
-        file.write(data);
+
+
 
