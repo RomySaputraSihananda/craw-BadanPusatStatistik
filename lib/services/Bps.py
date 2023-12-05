@@ -131,9 +131,9 @@ class Bps:
                             else:
                                 existing_data[headers[-1]][col_key].update(data_table[headers[-1]][col_key]);
                         except:
-                            data_tables.append(data_table)
+                            data_tables.append(data_table);
                 else:
-                    data_tables.append(data_table)
+                    data_tables.append(data_table);
 
             # break;
 

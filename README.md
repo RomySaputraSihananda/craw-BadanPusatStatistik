@@ -22,14 +22,16 @@ craw-BadanPusatStatistik adalah program untuk mengambil data dari website Badan 
 # Clonig Repository
 git clone https://github.com/romysaputrasihananda/craw-BadanPusatStatistik
 
-# Change Current Working Directory
+# Ganti Directory
 cd craw-BadanPusatStatistik;
 
-# Install Requirement Dependency Modules
+# Install Requirement
 pip install -r requirements.txt
 ```
 
 ## Example Usages
+
+craw-BadanPusatStatistik bisa diakses melalui docs rest API (Swagger-ui) atau melalui terminal
 
 ### CLI
 
@@ -47,7 +49,49 @@ python main.py --topic=Pertanian
 ### Swagger-ui
 
 ```sh
-python main.py --server=true
+# Jalankan server
+python main.py --server=true --port=4444
+```
+
+### Sample Data
+
+```json
+{
+  "title": "Energi",
+  "url": "https://www.archive.bps.go.id/subject/7/energi.html",
+  "date_now": "2023-12-05T17:38:45",
+  "data": [
+    {
+      "id": "b5d5d9d3851d576d2ce42234e21951a5",
+      "judul_tabel": "Volume Ekspor Migas-NonMigas, 2012-2023",
+      "update": "2023-12-01",
+      "keterangan": "Statistik Dasar",
+      "url_tabel": [
+        "https://www.archive.bps.go.id/indicator/7/1157/1/rasio-penggunaan-gas-rumah-tangga.html",
+        "https://www.archive.bps.go.id/indicator/7/1157/2/rasio-penggunaan-gas-rumah-tangga.html",
+        "https://www.archive.bps.go.id/indicator/7/1157/3/rasio-penggunaan-gas-rumah-tangga.html"
+      ],
+      "data_tables": [
+        {
+          "judul_tabel": "Rasio Penggunaan Gas Rumah Tangga 2020-2022",
+          "Provinsi": "ACEH",
+          "Rasio_Penggunaan_Gas_Rumah_Tangga": {
+            "2020": 90.23,
+            "2021": 91.89,
+            "2022": 94.25,
+            "2017": 82.96,
+            "2018": 85.35,
+            "2019": 87.06,
+            "2015": 74.41,
+            "2016": 77.94
+          }
+        }
+        // ... more data
+      ]
+    }
+    // more data
+  ]
+}
 ```
 
 ## License
