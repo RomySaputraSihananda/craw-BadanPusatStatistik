@@ -4,7 +4,12 @@ __pycache__/
 *$py.class
 
 *.html
+
 trash/
+
+data/Ekonomi/INFLASI.json
+data/Ekonomi/INPUT_OUTPUT.json
+data/Ekonomi/ITB_ITK.json
 
 # C extensions
 *.so
