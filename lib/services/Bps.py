@@ -60,6 +60,7 @@ class Bps:
             newUrl[6] = str(j);
 
             res: Response = self.__request.get('/'.join(newUrl));
+            j += 1;
 
             if(res.status_code != 200): break;
             print('/'.join(newUrl))
@@ -67,9 +68,32 @@ class Bps:
             url_tables.append('/'.join(newUrl));
 
             table: PyQuery = self.__parser.execute(res.text, '#tablex');
+            
+            if (not len(table('thead tr')) > 2):
+                headers: list[str] = [PyQuery(th).text().replace(' ', '_') for th in table('thead tr:first-child th')]
+                years: list[str] = [PyQuery(th).text() for th in table('thead tr:last-child th')]
 
+                for tr in table('tbody tr'):
+                    data_table = {
+                        'judul_tabel':  self.__parser.execute(res.text, 'h4').text(),
+                        headers[0]: self.__parser.execute(tr, 'td:first-child').text(),
+                        headers[-1]: {
+                            years[i]: self.__str_2_num(self.__parser.execute(tr, f'td:nth-child({i + 2})').text())
+                            for i in range(len(years))
+                        }
+                    }
+                    
+                    existing_data = next((item for item in data_tables if item.get(headers[0]) == data_table[headers[0]]), None)
+
+                    if existing_data:
+                        existing_data[headers[-1]].update(data_table[headers[-1]])
+                    else:
+                        data_tables.append(data_table)
+                
+                continue;
+            
             headers: list[str] = [PyQuery(th).text().replace(' ', '_') for th in table('thead tr:first-child th')]
-            col_keys: list[str] = headers[1:-1]
+            col_keys: list[str] = [PyQuery(th).text().replace(' ', '_') for th in table('thead tr:nth-child(2) th')]
             years: list[str] = [PyQuery(th).text() for th in table('thead tr:last-child th')]
 
             for tr in table('tbody tr'):
@@ -77,24 +101,21 @@ class Bps:
                     'judul_tabel':  self.__parser.execute(res.text, 'h4').text(),
                     headers[0]: self.__parser.execute(tr, 'td:first-child').text(),
                     headers[-1]: {
-                        years[i]: self.__str_2_num(self.__parser.execute(tr, f'td:nth-child({i + 2})').text())
-                        for i in range(len(years))
+                        col_key: {
+                            years[i]: self.__str_2_num(self.__parser.execute(tr, f'td:nth-child({i + 2 + int(len(years) / len(col_keys)) * j})').text())
+                            for i in range(int(len(years) / len(col_keys)))
+                        }for j, col_key in enumerate(col_keys)
                     }
                 }
-
-                for i, col_key in enumerate(col_keys):
-                    data_table[col_key] = self.__parser.execute(tr, f'td:nth-child({i + 2})').text()
-                
             
                 existing_data = next((item for item in data_tables if item.get(headers[0]) == data_table[headers[0]]), None)
 
                 if existing_data:
-                    existing_data[headers[-1]].update(data_table[headers[-1]])
+                    for col_key in col_keys:
+                        existing_data[headers[-1]][col_key].update(data_table[headers[-1]][col_key]) 
                 else:
                     data_tables.append(data_table)
 
-            j += 1;
-            
             # break;
                 
         return [url_tables, data_tables];
@@ -120,7 +141,7 @@ class Bps:
                 'data_tables': data_tables
             });
 
-            # break;
+            break;
 
         return self.__result;
 
