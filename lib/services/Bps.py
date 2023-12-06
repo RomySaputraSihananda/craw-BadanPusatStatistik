@@ -6,6 +6,7 @@ from typing import Union;
 from ..helpers.Parser import Parser;
 from ..helpers.Hasher import Hasher;
 from ..helpers.Datetime import Datetime;
+from ..helpers import logging;
 
 class Bps: 
     def __init__(self) -> None:
@@ -67,7 +68,7 @@ class Bps:
             # jika page sudah habis
             if(res.status_code != 200): break;
 
-            print('/'.join(newUrl))
+            logging.info('/'.join(newUrl))
 
             url_tables.append('/'.join(newUrl));
 

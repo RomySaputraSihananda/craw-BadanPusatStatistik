@@ -1,4 +1,3 @@
-import logging;
 import argparse;
 
 from flask import Flask;
@@ -6,6 +5,7 @@ from gevent.pywsgi import WSGIServer;
 from json import dumps;
 
 from lib import sdk;
+from lib.helpers import logging;
 from lib.controllers.bps import Bps;
 from lib.helpers.TypeEnums import Sosial_Kependudukan, Ekonomi_Perdagangan, Pertanian_Pertambangan;
 
@@ -25,12 +25,10 @@ def loop_write(main: str, options: any, *args) -> None:
 
 if __name__ == "__main__":
     argp = argparse.ArgumentParser();
-    argp.add_argument("--topic", '-t', type=str, dest='test');
+    argp.add_argument("--topic", '-t', type=str);
     argp.add_argument("--server", '-s', type=bool);
     argp.add_argument("--port", '-p', type=int, default=4444);
     args = argp.parse_args();
-    
-    logging.basicConfig(level=logging.INFO, format='%(asctime)s [ %(levelname)s ] :: %(message)s', datefmt="%Y-%m-%dT%H:%M:%S")
 
     if(args.server):
         class App(Flask):
