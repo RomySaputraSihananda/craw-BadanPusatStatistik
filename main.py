@@ -25,9 +25,9 @@ def loop_write(main: str, options: any, *args) -> None:
 
 if __name__ == "__main__":
     argp = argparse.ArgumentParser();
-    argp.add_argument("--topic", type=str);
-    argp.add_argument("--server", type=bool);
-    argp.add_argument("--port", type=int, default=4444);
+    argp.add_argument("--topic", '-t', type=str, dest='test');
+    argp.add_argument("--server", '-s', type=bool);
+    argp.add_argument("--port", '-p', type=int, default=4444);
     args = argp.parse_args();
     
     logging.basicConfig(level=logging.INFO, format='%(asctime)s [ %(levelname)s ] :: %(message)s', datefmt="%Y-%m-%dT%H:%M:%S")
