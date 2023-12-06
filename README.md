@@ -53,8 +53,8 @@ python main.py --topic=Pertanian
 python main.py --server=true --port=4444
 
 # output
-# [INFO] [2023-12-06 01:13:38,637] :: listening  -> http://localhost:4444 ....
-# [INFO] [2023-12-06 01:13:38,637] :: swagger-ui -> http://localhost:4444/docs ....
+# 2023-12-06T12:16:28 [ INFO ] :: listening  -> http://localhost:4444 ....
+# 2023-12-06T12:16:28 [ INFO ] :: swagger-ui -> http://localhost:4444/docs ....
 ```
 
 ### Sample Data
@@ -93,7 +93,7 @@ python main.py --server=true --port=4444
         // ... more data
       ]
     }
-    // more data
+    // ... more data
   ]
 }
 ```

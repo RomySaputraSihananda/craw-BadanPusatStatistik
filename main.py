@@ -11,11 +11,11 @@ from lib.helpers.TypeEnums import Sosial_Kependudukan, Ekonomi_Perdagangan, Pert
 
 import os; 
 
-def loop_write(main: str, options: any) -> None:
+def loop_write(main: str, options: any, *args) -> None:
     for topic in options:
-        data = dumps(bps.execute(topic.value));
+        data: str = dumps(bps.execute(topic.value));
 
-        path = f'data/{main}/{topic.name}.json'
+        path: str = f'data/{main}/{topic.name}.json';
 
         if(not os.path.exists('/'.join(path.split('/')[:-1]))):
             os.makedirs('/'.join(path.split('/')[:-1]));
@@ -29,6 +29,8 @@ if __name__ == "__main__":
     argp.add_argument("--server", type=bool);
     argp.add_argument("--port", type=int, default=4444);
     args = argp.parse_args();
+    
+    logging.basicConfig(level=logging.INFO, format='%(asctime)s [ %(levelname)s ] :: %(message)s', datefmt="%Y-%m-%dT%H:%M:%S")
 
     if(args.server):
         class App(Flask):
@@ -39,7 +41,6 @@ if __name__ == "__main__":
         app.register_blueprint(sdk);
         application = app;
 
-        logging.basicConfig(level=logging.INFO, format='[%(levelname)s] [%(asctime)s] :: %(message)s')
 
         logging.info(f"listening  -> http://localhost:{args.port} ....");
         logging.info(f"swagger-ui -> http://localhost:{args.port}/docs ....");
@@ -59,7 +60,8 @@ if __name__ == "__main__":
             case 'PERTANIAN':
                 loop_write('Pertanian', Pertanian_Pertambangan);
 
-    print('ok')
+    
+    logging.info("admitted smoothly");
 
 
 
