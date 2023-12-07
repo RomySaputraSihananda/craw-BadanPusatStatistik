@@ -3,10 +3,10 @@ from pyquery import PyQuery
 from json import dumps
 from typing import Union
 
-from ..helpers.Parser import Parser
-from ..helpers.Hasher import Hasher
-from ..helpers.Datetime import Datetime
-from ..helpers import logging
+from lib.helpers.Parser import Parser
+from lib.helpers.Hasher import Hasher
+from lib.helpers.Datetime import Datetime
+from lib.helpers import logging
 
 class Bps: 
     def __init__(self) -> None:
