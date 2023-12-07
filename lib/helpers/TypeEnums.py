@@ -1,4 +1,4 @@
-from enum import Enum;
+from enum import Enum
 
 class Sosial_Kependudukan(Enum):
     GENDER = "https://www.archive.bps.go.id/subject/40/gender.html#subjekViewTab3"

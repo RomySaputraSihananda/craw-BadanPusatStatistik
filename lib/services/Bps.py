@@ -1,30 +1,30 @@
-from requests import Session, Response;
-from pyquery import PyQuery;
-from json import dumps;
-from typing import Union;
+from requests import Session, Response
+from pyquery import PyQuery
+from json import dumps
+from typing import Union
 
-from ..helpers.Parser import Parser;
-from ..helpers.Hasher import Hasher;
-from ..helpers.Datetime import Datetime;
-from ..helpers import logging;
+from ..helpers.Parser import Parser
+from ..helpers.Hasher import Hasher
+from ..helpers.Datetime import Datetime
+from ..helpers import logging
 
 class Bps: 
     def __init__(self) -> None:
-        self.__request: Session = Session();
-        self.__parser: Parser = Parser();
-        self.__hasher: Hasher = Hasher();
-        self.__datetime: Datetime = Datetime();
+        self.__request: Session = Session()
+        self.__parser: Parser = Parser()
+        self.__hasher: Hasher = Hasher()
+        self.__datetime: Datetime = Datetime()
 
-        self.__result: dict = {};
-        self.__result['title']: str = None;
-        self.__result['url']: str = None;
-        self.__result['date_now']: str = None;
-        self.__result['data']: list[dict] = [];
+        self.__result: dict = {}
+        self.__result['title']: str = None
+        self.__result['url']: str = None
+        self.__result['date_now']: str = None
+        self.__result['data']: list[dict] = []
 
-        self.__base_URL: str = 'https://www.archive.bps.go.id';
+        self.__base_URL: str = 'https://www.archive.bps.go.id'
 
     def __filter_link(self, tbody: PyQuery) -> list[str]:
-        urls: list[str] = [];
+        urls: list[str] = []
 
         for tr in tbody('tr'):
             self.__result['data'].append({
@@ -32,44 +32,44 @@ class Bps:
                 'judul_tabel': self.__parser.execute(tr, 'td:nth-child(2) a').text(),
                 'update': self.__datetime.execute(self.__parser.execute(tr, 'td:nth-child(3)').text()),
                 'keterangan': self.__parser.execute(tr, 'td:nth-child(4)').text(),
-            });
+            })
 
-            url: str = self.__parser.execute(tr, 'td:nth-child(2) a').attr('href');  
+            url: str = self.__parser.execute(tr, 'td:nth-child(2) a').attr('href')  
             
-            urls.append(url if self.__base_URL in url else self.__base_URL + url);
+            urls.append(url if self.__base_URL in url else self.__base_URL + url)
 
-        return urls;
+        return urls
 
     def __str_2_num(self, text: str) -> Union[int, float, None]:
-        text = text.replace(',', '.').replace('\u2009', '').replace(' ', '');
+        text = text.replace(',', '.').replace('\u2009', '').replace(' ', '')
 
         try:
-            number = float(text) if '.' in text else int(text);
+            number = float(text) if '.' in text else int(text)
         except ValueError:
-            number = None;
+            number = None
 
-        return number;
+        return number
 
     def __get_data_table(self, url: str) -> list[dict]:
-        data_tables: list[dict] = [];
-        url_tables: list[str] = [];
-        j: int = 1;
+        data_tables: list[dict] = []
+        url_tables: list[str] = []
+        j: int = 1
 
         while(True):
-            newUrl: list[str] = url.split('/');
-            newUrl[6]: list[str] = str(j);
+            newUrl: list[str] = url.split('/')
+            newUrl[6]: list[str] = str(j)
 
-            res: Response = self.__request.get('/'.join(newUrl));
+            res: Response = self.__request.get('/'.join(newUrl))
             
-            j += 1;
+            j += 1
 
-            if(res.status_code != 200): break;
+            if(res.status_code != 200): break
 
             logging.info('/'.join(newUrl))
 
-            url_tables.append('/'.join(newUrl));
+            url_tables.append('/'.join(newUrl))
 
-            table: PyQuery = self.__parser.execute(res.text, '#tablex');
+            table: PyQuery = self.__parser.execute(res.text, '#tablex')
             
             if (not len(table('thead tr')) > 2):
                 headers: list[str] = [PyQuery(th).text().replace(' ', '_') for th in table('thead tr:first-child th')]
@@ -92,7 +92,7 @@ class Bps:
                     else:
                         data_tables.append(data_table)
                 
-                continue;
+                continue
             
             headers: list[str] = [PyQuery(th).text().replace(' ', '_') for th in table('thead tr:first-child th')]
             col_keys: list[str] = [PyQuery(th).text().replace(' ', '_') for th in table('thead tr:nth-child(2) th')]
@@ -116,47 +116,47 @@ class Bps:
                     for col_key in col_keys:
                         try:
                             if(existing_data[headers[-1]][col_key].keys() == data_table[headers[-1]][col_key].keys()):
-                                data_tables.append(data_table[headers[-1]][col_key]); 
+                                data_tables.append(data_table[headers[-1]][col_key]) 
                             else:
-                                existing_data[headers[-1]][col_key].update(data_table[headers[-1]][col_key]);
+                                existing_data[headers[-1]][col_key].update(data_table[headers[-1]][col_key])
                         except:
-                            data_tables.append(data_table);
+                            data_tables.append(data_table)
                 else:
-                    data_tables.append(data_table);
+                    data_tables.append(data_table)
 
-            # break;
+            # break
 
-        return [url_tables, data_tables];
+        return [url_tables, data_tables]
 
     def execute(self, url: str) -> dict:
-        res: Response = self.__request.get(url);
+        res: Response = self.__request.get(url)
 
-        if(res.status_code != 200): return;
+        if(res.status_code != 200): return
 
-        parser: PyQuery = self.__parser.execute(res.text, 'body');
+        parser: PyQuery = self.__parser.execute(res.text, 'body')
 
-        self.__result['title']: str = parser('.breadcrumbs span').text();
-        self.__result['date_now']: str = self.__datetime.now();
-        self.__result['url']: str = url.replace('#subjekViewTab3', '');
+        self.__result['title']: str = parser('.breadcrumbs span').text()
+        self.__result['date_now']: str = self.__datetime.now()
+        self.__result['url']: str = url.replace('#subjekViewTab3', '')
 
-        urls: list[str] = self.__filter_link(parser('#listTabel1 tbody'));
+        urls: list[str] = self.__filter_link(parser('#listTabel1 tbody'))
 
         for i, url in enumerate(urls):
-            [url_tables, data_tables] =  self.__get_data_table(url);
+            [url_tables, data_tables] =  self.__get_data_table(url)
 
             self.__result['data'][i].update({
                 'url_tabel': url_tables,
                 'data_tables': data_tables
-            });
+            })
 
-            # break;
+            # break
 
-        return self.__result;
+        return self.__result
 
 # testing
 if(__name__ == '__main__'):
-    bps: Bps = Bps();
-    data = dumps(bps.execute('https://www.archive.bps.go.id/subject/7/energi.html#subjekViewTab3'));
+    bps: Bps = Bps()
+    data = dumps(bps.execute('https://www.archive.bps.go.id/subject/7/energi.html#subjekViewTab3'))
 
     with open('trash/test_result.json', 'w') as file:
-        file.write(data);
+        file.write(data)
