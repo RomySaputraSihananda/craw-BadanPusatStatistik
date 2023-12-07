@@ -15,12 +15,12 @@ def loop_write(main: str, options: any, *args) -> None:
     for topic in options:
         data: str = dumps(bps.execute(topic.value));
 
-        path: str = f'data/{main}/{topic.name}.json';
+        path_output: str = f'data/{main}/{topic.name}.json';
 
-        if(not os.path.exists('/'.join(path.split('/')[:-1]))):
-            os.makedirs('/'.join(path.split('/')[:-1]));
+        if(not os.path_output.exists('/'.join(path_output.split('/')[:-1]))):
+            os.makedirs('/'.join(path_output.split('/')[:-1]));
 
-        with open(path, 'w') as file:
+        with open(path_output, 'w') as file:
             file.write(data);
 
 if __name__ == "__main__":

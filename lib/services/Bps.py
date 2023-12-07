@@ -56,16 +56,13 @@ class Bps:
         j: int = 1;
 
         while(True):
-            # build url per page
             newUrl: list[str] = url.split('/');
             newUrl[6]: list[str] = str(j);
 
-            # ambil content 
             res: Response = self.__request.get('/'.join(newUrl));
             
             j += 1;
 
-            # jika page sudah habis
             if(res.status_code != 200): break;
 
             logging.info('/'.join(newUrl))
@@ -74,13 +71,10 @@ class Bps:
 
             table: PyQuery = self.__parser.execute(res.text, '#tablex');
             
-            # jika jumlah header 2
             if (not len(table('thead tr')) > 2):
-                # get header
                 headers: list[str] = [PyQuery(th).text().replace(' ', '_') for th in table('thead tr:first-child th')]
                 years: list[str] = [PyQuery(th).text() for th in table('thead tr:last-child th')]
 
-                # looping setiap row
                 for tr in table('tbody tr'):
                     data_table = {
                         'judul_tabel':  self.__parser.execute(res.text, 'h4').text(),
@@ -91,10 +85,8 @@ class Bps:
                         }
                     }
                     
-                    # cek jika data sudah ada
                     existing_data = next((item for item in data_tables if item.get(headers[0]) == data_table[headers[0]]), None)
 
-                    # jika sudah ada akan diupdate
                     if existing_data:
                         existing_data[headers[-1]].update(data_table[headers[-1]])
                     else:
@@ -102,12 +94,10 @@ class Bps:
                 
                 continue;
             
-            # get header
             headers: list[str] = [PyQuery(th).text().replace(' ', '_') for th in table('thead tr:first-child th')]
             col_keys: list[str] = [PyQuery(th).text().replace(' ', '_') for th in table('thead tr:nth-child(2) th')]
             years: list[str] = [PyQuery(th).text() for th in table('thead tr:last-child th')]
 
-            # looping setiap row
             for tr in table('tbody tr'):
                 data_table = {
                     'judul_tabel':  self.__parser.execute(res.text, 'h4').text(),
@@ -120,15 +110,12 @@ class Bps:
                     }
                 }
                 
-                # cek jika data sudah ada   
                 existing_data = next((item for item in data_tables if item.get(headers[0]) == data_table[headers[0]]), None)
 
-                # jika sudah ada akan diupdate
                 if existing_data:
                     for col_key in col_keys:
                         try:
                             if(existing_data[headers[-1]][col_key].keys() == data_table[headers[-1]][col_key].keys()):
-                                # data_tables.append(existing_data[headers[-1]][col_key].append(data_table[headers[-1]][col_key])); 
                                 data_tables.append(data_table[headers[-1]][col_key]); 
                             else:
                                 existing_data[headers[-1]][col_key].update(data_table[headers[-1]][col_key]);
@@ -141,30 +128,22 @@ class Bps:
 
         return [url_tables, data_tables];
 
-    # main function
     def execute(self, url: str) -> dict:
-        # ambil content 
         res: Response = self.__request.get(url);
 
-        # jika page tidak ada
         if(res.status_code != 200): return;
 
         parser: PyQuery = self.__parser.execute(res.text, 'body');
 
-        # set title dll
         self.__result['title']: str = parser('.breadcrumbs span').text();
         self.__result['date_now']: str = self.__datetime.now();
         self.__result['url']: str = url.replace('#subjekViewTab3', '');
 
-        # get list urls
         urls: list[str] = self.__filter_link(parser('#listTabel1 tbody'));
 
-        # looping urls
         for i, url in enumerate(urls):
-            # destructuring list 
             [url_tables, data_tables] =  self.__get_data_table(url);
 
-            # set data
             self.__result['data'][i].update({
                 'url_tabel': url_tables,
                 'data_tables': data_tables
