@@ -57,7 +57,7 @@ python main.py --server=true --port=4444
 # 2023-12-06T12:16:28 [ INFO ] :: swagger-ui -> http://localhost:4444/docs ....
 ```
 
-### Sample Data
+### Sample Output
 
 ```json
 {
