@@ -57,9 +57,8 @@ class Bps:
 
         while(True):
             newUrl: list[str] = url.split('/')
-            newUrl[6]: list[str] = str(j)
 
-            res: Response = self.__request.get('/'.join(newUrl))
+            res: Response = self.__request.get('https://' + '/'.join(newUrl[4:]))
             
             j += 1
 
